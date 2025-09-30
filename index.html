@@ -179,6 +179,15 @@
 
     document.getElementById("next-card").onclick = nextCard;
     document.getElementById("prev-card").onclick = prevCard;
+    window.onload = function() {
+    fetch('Dizionario per imaggini.txt')
+        .then(response => response.text())
+        .then(text => {
+            let file = new File([text], 'arq.txt', { type: 'text/plain' });
+            loadFlashcards(file);
+        })
+        .catch(error => console.error('Erro ao carregar arquivo:', error));
+}
   </script>
 </body>
 </html>
