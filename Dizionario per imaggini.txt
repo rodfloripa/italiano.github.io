@@ -12,7 +12,7 @@ o pôr do sol                                                                - i
 Grupo 4
 março                                                                       - marzo                                                             
 abril                                                                       - aprile                                                            
-maio                                                                     - maggio                                                            
+maio                                                                        - maggio                                                            
 setembro                                                                    - settembre                                                         
 outubro                                                                     - ottobre                                                           
 novembro                                                                    - novembre                                                          
@@ -490,11 +490,11 @@ o alfinete de segurança                                                     - l
 a fralda                                                                    - il pannolino                                                      
 o carrinho de bebê                                                          - il passeggino                                                     
 a mamadeira                                                                 - il biberon                                                        
-o chupão                                                                    - il succhiotto                                                     
-os palitos para o                                                           - i bastoncini per le                                               
+a chupeta                                                                    - il succhiotto                                                     
+os cotonetes                                                                - i bastoncini per le orecchie                                               
 o babador                                                                   - il bavaglino                                                      
 o chocalho                                                                  - il sonaglio                                                       
-o caminhante                                                                - il girello                                                        
+andarilho para bebe                                                         - il girello                                                        
 o balanço                                                                   - l'altalena                                                        
 a casa do                                                                   - la casa delle                                                     
 o berço                                                                     - la culla                                                          
@@ -576,9 +576,9 @@ lavar                                                                       - la
 fazer                                                                       - fare                                                              
 secar                                                                       - asciugarsi                                                        
 fazer                                                                       - fare                                                              
-fazer-se                                                                    - farsi                                                             
+fazer_se                                                                    - farsi                                                             
 colocar maquiagem                                                           - truccarsi                                                         
-vestir-se                                                                   - vestirsi                                                          
+vestir_se                                                                   - vestirsi                                                          
 pentear o cabelo                                                            - pettinarsi                                                        
 sair                                                                        - uscire                                                            
 voltar para casa                                                            - tornare a casa                                                    
