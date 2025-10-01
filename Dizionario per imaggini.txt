@@ -128,10 +128,10 @@ o joelho                                                                    - il
 a panturrilha                                                               - il polpaccio                                                      
 Grupo 11a
 o pulso                                                                     - il polso                                                          
-o unha                                                                     - l'unghia                                                          
-o polegar                                                                   - il pollice                                                        
-o índice                                                                    - l'indice                                                          
-o meio                                                                      - il medio                                                          
+a unha                                                                     - l'unghia                                                          
+o polegar                                                                  - il pollice                                                        
+o índicador                                                                - l'indice                                                          
+o dedo medio                                                               - il medio                                                          
 anular                                                                      - l'anulare                                                         
 o dedo mindinho                                                             - il mignolo                                                        
 o dedo                                                                      - il dito                                                           
@@ -1572,13 +1572,13 @@ sarajevo                                                                    - sa
 croácia                                                                     - croazia                                                           
 zagreb                                                                      - zagabria                                                          
 eslovênia                                                                   - slovenia                                                          
-apreciado                                                                   - lubiana                                                           
+lubiana                                                                     - lubiana                                                           
 áustria                                                                     - austria                                                           
 viena                                                                       - vienna                                                            
 república checa                                                             - rep. ceca                                                         
 alemanha                                                                    - germania                                                          
 dinamarca                                                                   - danimarca                                                         
-quando é                                                                    - olanda                                                            
+holanda                                                                     - olanda                                                            
 bélgica                                                                     - belgio                                                            
 luxemburgo                                                                  - lussemburgo                                                       
 suíça                                                                       - svizzera                                                          
