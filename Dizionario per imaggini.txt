@@ -335,9 +335,9 @@ o elevador                                                                  - l'
 Grupo 19b
 o condomínio                                                                - il condominio                                                     
 o apartamento                                                               - l'appartamento                                                    
-láctico                                                                     - l'attico                                                          
-no sótão                                                                    - la mansarda                                                       
-a mansao                                                                      - la villa                                                          
+cobertura                                                                    - l'attico                                                          
+o sótão                                                                     - la mansarda                                                       
+a mansao                                                                    - la villa                                                          
 a casa geminada                                                             - la casa a schiera                                                 
 o arranha-céu                                                               - il grattacielo                                                    
 a cabana                                                                    - la capanna                                                        
@@ -345,9 +345,9 @@ a tenda                                                                     - la
 Grupo 19c
 a garagem                                                                   - il garage                                                         
 a adega                                                                     - la cantina                                                        
-o cego                                                                      - la persiana                                                       
+a persiana                                                                  - la persiana                                                       
 o telhado                                                                   - il tetto                                                          
-a sarjeta                                                                   - la grondaia                                                       
+a calha                                                                     - la grondaia                                                       
 a lareira                                                                   - il camino                                                         
 o jardim                                                                    - il giardino                                                       
 o portão                                                                    - il cancello                                                       
