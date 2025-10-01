@@ -38,15 +38,13 @@
     }
 
     #card {
-      width: 40%;
-      margin: 40px auto;
-      font-size: 72px;
+      margin-top: 10vh;
     }
 
     @media only screen and (max-width: 768px) {
       #card {
         width: 90%;
-        margin: 20px auto;
+        margin: 10vh auto 0 auto;
         font-size: 36px;
       }
 
@@ -144,13 +142,13 @@
     function showCard() {
       let card = flashcards[currentGroup][currentCardIndex];
       let progresso = ((currentCardIndex + 1) / flashcards[currentGroup].length) * 100;
-      document.getElementById("progress-bar-fill").style.width = `${progresso}%`;
+      document.getElementById("progress-bar-fill").style.width = `${progress.style.width}%`;
       document.getElementById("progress-text").innerText = `${progresso.toFixed(2)}%`;
       document.getElementById("card").innerHTML = `
-        <div style="background-color: yellow; padding: 20px; text-align: center; font-size: 72px; width: 100%; margin: 0 auto;">
+        <div style="background-color: yellow; padding: 20px; text-align: center; font-size: 36px; width: 90%; margin: 0 auto;">
           <p>${card.pergunta}</p>
-          <button onclick="showAnswer()" style="font-size: 36px;">Risposta</button>
-          <div id="answer" style="max-height: 0; overflow: hidden; transition: max-height 0.5s ease-out; font-size: 72px;">${card.resposta}</div>
+          <button onclick="showAnswer()" style="font-size: 24px;">Risposta</button>
+          <div id="answer" style="max-height: 0; overflow: hidden; transition: max-height 0.5s ease-out; font-size: 36px;">${card.resposta}</div>
         </div>
       `;
     }
@@ -208,7 +206,7 @@
     document.getElementById("prev-card").onclick = prevCard;
 
     window.onload = function() {
-      fetch('Dizionario per imaggini.txt')
+      fetch('arq.txt')
         .then(response => response.text())
         .then(text => {
           let file = new File([text], 'arq.txt', {
