@@ -39,7 +39,7 @@ século x d.c.                                                               - d
 século xix                                                                  - diciannovesimo secolo                                             
 século xx                                                                   - ventesimo secolo                                                  
 Grupo 6
-os festivais                                                                - le feste                                                          
+as festas                                                                - le feste                                                          
 natal                                                                       - il natale                                                         
 véspera de ano novo                                                         - il capodanno                                                      
 páscoa                                                                      - la pasqua                                                         
@@ -1267,7 +1267,7 @@ o avião                                                                     - l
 a pista                                                                     - la pista                                                          
 a torre de controle                                                         - la torre di controllo                                             
 o piloto                                                                    - il pilota                                                         
-a anfitriã                                                                  - l'hostess                                                         
+a aeromoça                                                                  - l'hostess                                                         
 o balcão de check-in                                                        - il banco del check-in                                             
 a passagem de avião                                                         - il biglietto aereo                                                
 a bagagem                                                                   - il bagaglio                                                       
