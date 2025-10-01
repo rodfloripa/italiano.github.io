@@ -2,6 +2,7 @@
 <html>
 <head>
   <title>Vocabolario</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <style>
     #progress-bar {
       width: 200px;
@@ -9,11 +10,13 @@
       background-color: #ccc;
       border-radius: 10px;
     }
+
     #progress-bar-fill {
       height: 20px;
       background-color: #4CAF50;
       border-radius: 10px;
     }
+
     #file-input-label {
       font-size: 18px;
       padding: 10px 20px;
@@ -21,15 +24,36 @@
       border-radius: 5px;
       cursor: pointer;
     }
+
     #group-list {
       font-size: 18px;
       padding: 10px 20px;
     }
+
     #prev-card, #next-card {
       font-size: 24px;
       padding: 15px 30px;
       width: auto;
       height: auto;
+    }
+
+    #card {
+      width: 40%;
+      margin: 40px auto;
+      font-size: 72px;
+    }
+
+    @media only screen and (max-width: 768px) {
+      #card {
+        width: 90%;
+        margin: 20px auto;
+        font-size: 36px;
+      }
+
+      #prev-card, #next-card {
+        font-size: 18px;
+        padding: 10px 20px;
+      }
     }
   </style>
 </head>
@@ -37,7 +61,6 @@
   <h1>Vocabolario</h1>
   <p style="text-align: center;">Hai trovato una parola sbagliata? Invia un'email a </p>
   <a href="mailto:rodns01@gmail.com?subject=Correzione"><p style="text-align:center">rodns01@gmail.com</p></a>
-
   <label for="file-input" id="file-input-label">Caricare</label>
   <input type="file" id="file-input" style="display: none;" accept=".txt">
   <div id="progress-bar">
@@ -48,8 +71,9 @@
   <button id="prev-card">precedente</button>
   <button id="next-card">successivo</button>
   <div id="card"></div>
+
   <script>
-    // Código JavaScript aqui...
+                                 
     let flashcards = {};
     let currentGroup = null;
     let currentCardIndex = 0;
@@ -62,13 +86,10 @@
         let lines = txt.split("\n");
         let vocabolario = lines[0].trim();
         lezione = lines[1].trim();
-
         document.title = vocabolario;
         document.querySelector("h1").innerText = vocabolario;
-
         txt = txt.replace(/Vocabolario/g, vocabolario);
         txt = txt.replace(/Lezione/g, lezione);
-
         let group = null;
         let groupName = null;
         lines = txt.split("\n");
@@ -84,8 +105,14 @@
           } else if (group && line.trim() !== "") {
             let sides = line.split("-");
             if (sides.length === 2) {
-              flashcards[group].push({ pergunta: sides[0].trim(), resposta: sides[1].trim() });
-              newFlashcards[groupName].push({ pergunta: sides[0].trim(), resposta: sides[1].trim() });
+              flashcards[group].push({
+                pergunta: sides[0].trim(),
+                resposta: sides[1].trim()
+              });
+              newFlashcards[groupName].push({
+                pergunta: sides[0].trim(),
+                resposta: sides[1].trim()
+              });
             }
           }
         });
@@ -120,7 +147,7 @@
       document.getElementById("progress-bar-fill").style.width = `${progresso}%`;
       document.getElementById("progress-text").innerText = `${progresso.toFixed(2)}%`;
       document.getElementById("card").innerHTML = `
-        <div style="background-color: yellow; padding: 20px; text-align: center; font-size: 72px; width: 40%; margin: 40px auto;">
+        <div style="background-color: yellow; padding: 20px; text-align: center; font-size: 72px; width: 100%; margin: 0 auto;">
           <p>${card.pergunta}</p>
           <button onclick="showAnswer()" style="font-size: 36px;">Risposta</button>
           <div id="answer" style="max-height: 0; overflow: hidden; transition: max-height 0.5s ease-out; font-size: 72px;">${card.resposta}</div>
@@ -179,15 +206,18 @@
 
     document.getElementById("next-card").onclick = nextCard;
     document.getElementById("prev-card").onclick = prevCard;
+
     window.onload = function() {
-    fetch('Dizionario per imaggini.txt')
+      fetch('Dizionario per imaggini.txt')
         .then(response => response.text())
         .then(text => {
-            let file = new File([text], 'arq.txt', { type: 'text/plain' });
-            loadFlashcards(file);
+          let file = new File([text], 'arq.txt', {
+            type: 'text/plain'
+          });
+          loadFlashcards(file);
         })
         .catch(error => console.error('Erro ao carregar arquivo:', error));
-}
+    }
   </script>
 </body>
 </html>
