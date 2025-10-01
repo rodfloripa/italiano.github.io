@@ -2,12 +2,12 @@ Dizionario per immagini
 lezione                                                                                                                              
 Grupo 3
 a tarde                                                                     - il pomeriggio                                                     
-meio-dia                                                                    - mezzogiorno                                                       
+meio_dia                                                                    - mezzogiorno                                                       
 pela manhã                                                                  - il mattino                                                        
 a noite                                                                    - la sera                                                           
 o amanhecer                                                                 - l'alba                                                            
 a noite                                                                     - la notte                                                          
-meia-noite                                                                  - la mezzanotte                                                     
+meia_noite                                                                  - la mezzanotte                                                     
 o pôr do sol                                                                - il tramonto                                                       
 Grupo 4
 março                                                                       - marzo                                                             
