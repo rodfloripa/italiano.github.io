@@ -316,7 +316,7 @@ cor sólida                                                                  - a
 escocês                                                                     - scozzese                                                          
 estampado                                                                   - stampato                                                          
 bem estampado                                                               - a fantasia                                                        
-la                                                                         - la lana                                                           
+lã                                                                         - la lana                                                           
 algodão                                                                     - il cotone                                                         
 seda                                                                        - la seta                                                           
 o sintético                                                                 - il sintetico                                                      
@@ -371,8 +371,8 @@ a janela                                                                    - la
 a barragem                                                                  - la presa                                                          
 o painel elétrico                                                           - il quadro elettrico                                               
 Grupo 20
-o quadro                                                                    - la cornice                                                        
-a pintura                                                                   - il quadro                                                         
+a moldura                                                                    - la cornice                                                        
+o quadro                                                                   - il quadro                                                         
 a lareira                                                                   - il caminetto                                                      
 o fogo                                                                      - il fuoco                                                          
 a poltrona                                                                  - la poltrona                                                       
