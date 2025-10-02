@@ -215,7 +215,7 @@
     document.getElementById("prev-card").onclick = prevCard;
 
     window.onload = function() {
-      fetch('Dizionario per imaggini.txt')
+      fetch('Reggenza.txt')
         .then(response => response.text())
         .then(text => {
           let file = new File([text], 'arq.txt', {
