@@ -218,7 +218,7 @@
       fetch('Reggenza.txt')
         .then(response => response.text())
         .then(text => {
-          let file = new File([text], 'arq.txt', {
+          let file = new File([text], 'Reggenza.txt', {
             type: 'text/plain'
           });
           loadFlashcards(file);
