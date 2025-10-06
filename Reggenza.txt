@@ -1,6 +1,6 @@
 Reggenza verbale                                                                                                
 Lezione                                                                                                                              
-Grupo 
+Grupo1
 Andare - a+lugar
 Venire - da+lugar
 Parlare - di+assunto
@@ -26,6 +26,7 @@ Togliere - qualcosa da+lugar
 Vedere - qualcuno/qualcosa
 Sentire - qualcosa
 Ridere - di+coisa/pessoa
+Grupo2
 Piangere - per+motivo
 Sorridere - a+pessoa
 Sognare - di+coisa/pessoa
@@ -56,6 +57,7 @@ Credere - in+coisa
 Sperare - in+coisa
 Dipendere - da+coisa
 Coincidere - con+coisa
+Grupo3
 Confrontare - con+coisa
 Partecipare - a+evento
 Rivolgere - a+ente
