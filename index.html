@@ -204,14 +204,17 @@
       "73": "I COLORI"};
       groupList.innerHTML = "";
       Object.keys(flashcards).forEach(group => {
-        let option = document.createElement("option");
-        option.value = group;
-        option.text = group;
-        groupList.appendChild(option);
-      });
-      document.getElementById("group-list").onchange = showFlashcards;
-      showFlashcards();
-    }
+    let groupNumber = group.replace(lezione, "");
+    let titulo = titulos[groupNumber] || "";
+    let option = document.createElement("option");
+    option.value = group;
+    option.text = `${group} - ${titulo}`;
+    groupList.appendChild(option);
+  });
+  document.getElementById("group-list").onchange = showFlashcards;
+  groupList.value = Object.keys(flashcards)[1];
+  showFlashcards();
+}
 
     function showFlashcards() {
       currentGroup = document.getElementById("group-list").value;
