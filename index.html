@@ -203,8 +203,9 @@
       "72": "IL MARE",
       "73": "I COLORI"};
       groupList.innerHTML = "";
-      Object.keys(flashcards).forEach(group => {
-    let groupNumber = group.replace(lezione, "");
+  Object.keys(flashcards).forEach(group => {
+    let match = group.match(/(\d+)/);
+    let groupNumber = match && match[0];
     let titulo = titulos[groupNumber] || "";
     let option = document.createElement("option");
     option.value = group;
