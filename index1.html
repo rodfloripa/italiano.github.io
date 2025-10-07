@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Reggenza verbale</title>
+  <title>Vocabolario</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="Este site pode ser utilizado para verificar se conhecemos a regencia de alguns verbos em italiano">
-  <meta name="keywords" content=italiano,regencia verbal,italiano para brasileiros">
+  <!--<meta name="description" content="Este site contém todas as palavras do livro Dizionario per immagini traduzidas do italiano para português.Pode ser utilizado para o ensino da lingua italiana">
+  <meta name="keywords" content=Dizionario per imamagini,italiano,vocabulario,italiano para brasileiros">-->
   <style>
     #progress-bar {
       width: 200px;
@@ -62,7 +62,8 @@
 </head>
 <body>
   <h1>Vocabolario</h1>
-  
+  <p style="text-align: center;">Hai trovato una parola sbagliata? Invia un'email a </p>
+  <a href="mailto:rodns01@gmail.com?subject=Correzione"><p style="text-align:center">rodns01@gmail.com</p></a>
   <label for="file-input" id="file-input-label">Caricare</label>
   <input type="file" id="file-input" style="display: none;" accept=".txt">
   <div id="progress-bar">
@@ -84,7 +85,6 @@
     let currentGroup = null;
     let currentCardIndex = 0;
     let lezione = null;
-    
 
     function loadFlashcards(file) {
       let reader = new FileReader();
@@ -129,21 +129,18 @@
       reader.readAsText(file);
     }
 
-  function showGroups() {
-  let groupList = document.getElementById("group-list");
-  groupList.innerHTML = "";
-  Object.keys(flashcards).forEach(group => {
-    let groupNumber = group.replace(lezione, "");
-    let titulo = titulos[groupNumber] || "";
-    let option = document.createElement("option");
-    option.value = group;
-    option.text = `${group} - ${titulo}`;
-    groupList.appendChild(option);
-  });
-  document.getElementById("group-list").onchange = showFlashcards;
-  groupList.value = Object.keys(flashcards)[1];
-  showFlashcards();
-  }
+    function showGroups() {
+      let groupList = document.getElementById("group-list");
+      groupList.innerHTML = "";
+      Object.keys(flashcards).forEach(group => {
+        let option = document.createElement("option");
+        option.value = group;
+        option.text = group;
+        groupList.appendChild(option);
+      });
+      document.getElementById("group-list").onchange = showFlashcards;
+      showFlashcards();
+    }
 
     function showFlashcards() {
       currentGroup = document.getElementById("group-list").value;
@@ -154,77 +151,6 @@
     function showCard() {
       let card = flashcards[currentGroup][currentCardIndex];
       let progresso = ((currentCardIndex + 1) / flashcards[currentGroup].length) * 100;
-      const titulos = {
-  "3": "L'ORA E LE PARTI DEL GIORNO",
-  "4": "I GIORNI, I MESI E LE STAGIONI",
-  "5": "GLI ANNI E I SECOLI",
-  "6": "LE FESTE LE PREPOSIZIONI",
-  "8": "LE FORME",
-  "9": "LE PERSONE",
-  "10": "LA FAMIGLIA E I PARENTI",
-  "11": "IL CORPO UMANO",
-  "12": "IL CORPO UMANO",
-  "13": "LE CARATTERISTICHE FISICHE",
-  "14": "I VESTITI",
-  "15": "GLI ACCESSORI E LE CALZATURE",
-  "16": "LA BIANCHERIA",
-  "17": "I GIOIELLI E I COSMETICI",
-  "18": "LA DESCRIZIONE DEI VESTITI E I MATERIALI",
-  "19": "LA CASA",
-  "20": "IL SOGGIORNO",
-  "21": "LA CUCINA",
-  "22": "VERBI PER LA CUCINA",
-  "23": "LA STANZA DA LETTO",
-  "24": "LA CAMERA DEL BAMBINO",
-  "25": "IL BAGNO",
-  "26": "IL RIPOSTIGLIO",
-  "27": "I LAVORI DI CASA",
-  "28": "A CASA",
-  "29": "AL SUPERMERCATO",
-  "30": "LE VERDURE",
-  "31": "LA FRUTTA",
-  "32": "I CONTENITORI",
-  "33": "I SOLDI E LA BANCA",
-  "34": "I MESTIERI",
-  "35": "IL TEMPO LIBERO",
-  "36": "GLI HOBBY",
-  "37": "GLI STRUMENTI MUSICALI",
-  "38": "GLI UTENSILI",
-  "39": "AL RISTORANTE",
-  "40": "AL BAR",
-  "41": "DAL MEDICO",
-  "42": "DAL DENTISTA",
-  "43": "LE MALATTIE",
-  "44": "I VERBI",
-  "45": "LE CURE",
-  "46": "L'OSPEDALE",
-  "47": "LA CLASSE",
-  "48": "I VERBI PER LA SCUOLA",
-  "49": "IN UFFICIO",
-  "50": "LA POSTA",
-  "51": "GLI SPORT",
-  "52": "IL CALCIO",
-  "53": "LA GIUSTIZIA",
-  "54": "LA CITTÀ",
-  "55": "L'AUTOSTRADA",
-  "56": "I SEGNALI STRADALI",
-  "57": "L'AEREOPORTO",
-  "58": "I TRASPORTI",
-  "59": "L'AUTOMOBILE",
-  "60": "LA BICICLETTA",
-  "61": "LA CAMPAGNA",
-  "62": "IL GIARDINO",
-  "63": "GLI UCCELLI",
-  "64": "GLI ANIMALI MARINI",
-  "65": "GLI ANIMALI",
-  "66": "IL MONDO",
-  "67": "L'EUROPA",
-  "68": "L'ITALIA",
-  "69": "L'UNIVERSO",
-  "70": "DESCRIZIONE DEL TEMPO",
-  "71": "LA TERRA",
-  "72": "IL MARE",
-  "73": "I COLORI" };
       document.getElementById("progress-bar-fill").style.width = `${progresso}%`;
       document.getElementById("progress-text").innerText = `${progresso.toFixed(2)}%`;
       document.getElementById("card").innerHTML = `
@@ -289,10 +215,10 @@
     document.getElementById("prev-card").onclick = prevCard;
 
     window.onload = function() {
-      fetch('Reggenza.txt')
+      fetch('Dizionario per imaggini.txt')
         .then(response => response.text())
         .then(text => {
-          let file = new File([text], 'Arq2.txt', {
+          let file = new File([text], 'arq.txt', {
             type: 'text/plain'
           });
           loadFlashcards(file);
