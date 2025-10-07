@@ -12,7 +12,16 @@
       background-color: #ccc;
       border-radius: 10px;
     }
-
+     #help-button {
+      width: calc(100px / 2);
+      font-size: 18px;
+      padding: 10px 0;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+      cursor: pointer;
+      font-weight: bold;
+    }
+    
     #progress-bar-fill {
       height: 20px;
       background-color: #4CAF50;
@@ -62,7 +71,7 @@
 </head>
 <body>
   <h1>Vocabolario</h1>
-  
+   <button id="help-button" onclick="exibirMensagem()">?</button>
   <label for="file-input" id="file-input-label">Caricare</label>
   <input type="file" id="file-input" style="display: none;" accept=".txt">
   <div id="progress-bar">
@@ -74,7 +83,9 @@
   <button id="prev-card" style="margin-right: 10px;">precedente</button>
   <button id="next-card">successivo</button>
   <div id="card"></div>
-
+  </div>
+  
+   
   </div>
 
   
@@ -214,7 +225,7 @@
     document.getElementById("next-card").onclick = nextCard;
     document.getElementById("prev-card").onclick = prevCard;
 
-    window.onload = function() {
+   window.onload = function() {
       fetch('Reggenza.txt')
         .then(response => response.text())
         .then(text => {
@@ -225,7 +236,11 @@
         })
         .catch(error => console.error('Erro ao carregar arquivo:', error));
     }
-    
+     
+    function exibirMensagem() {
+      alert("Para criar sua própria lista de vocabulário, crie um arquivo .txt assim:\nTítulo do vocabulário\nLezione\nGrupo 1\nPalavra port - Palavra it\n.\n.\n.");
+    }
+     
   </script>
 </body>
 </html>
