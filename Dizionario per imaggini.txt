@@ -176,10 +176,10 @@ o músculo                                                                   - i
 o sistema genital                                                           - l'apparato genitale                                               
 Grupo 13
 bonito                                                                      - bello                                                             
-ruim                                                                        - brutto                                                            
+feio                                                                        - brutto                                                            
 alto                                                                        - alto                                                              
 baixo                                                                       - basso                                                             
-afinar                                                                      - magro                                                             
+magra                                                                       - magro                                                             
 gordo                                                                       - grasso                                                            
 forte                                                                       - forte                                                             
 fraco                                                                       - debole                                                            
