@@ -39,19 +39,25 @@
       height: auto;
     }
 
+   
     #card {
-      width: 40%;
-      margin: 40px auto;
-      font-size: 72px;
-    }
-
+    width: 40%;
+    margin: 40px auto;
+    font-size: 52px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 300px; /* ajuste a altura do cartão */
+  }
 
     @media only screen and (max-width: 768px) {
+     
       #card {
-        width: 90%;
-        margin: 20px auto;
-        font-size: 36px;
-      }
+      width: 90%;
+      margin: 20px auto;
+      font-size: 33.8px; /* 52px * 0.65 */
+      height: 200px; /* ajuste a altura do cartão */
+    }
       #group-list {
       font-size: 10px;
       padding: 10px 20px;
@@ -232,13 +238,13 @@
       let progresso = ((currentCardIndex + 1) / flashcards[currentGroup].length) * 100;
       document.getElementById("progress-bar-fill").style.width = `${progresso}%`;
       document.getElementById("progress-text").innerText = `${progresso.toFixed(2)}%`;
-      document.getElementById("card").innerHTML = `
-        <div style="background-color: yellow; padding: 10px; text-align: center; font-size: 52px; line-height: 1; width: 100%; margin: 0 auto;">
-          <p>${card.pergunta}</p>
-          <button onclick="showAnswer()" style="font-size: 36px;">Risposta</button>
-          <div id="answer" style="max-height: 0; overflow: hidden; transition: max-height 0.5s ease-out; font-size: 52px;">${card.resposta}</div>
-        </div>
-      `;
+     document.getElementById("card").innerHTML = `
+    <div style="background-color: yellow; padding: 10px; text-align: center; font-size: inherit; line-height: 1; width: 100%; height: 100%; display: flex; justify-content: center; align-items: center; flex-direction: column;">
+    <p>${card.pergunta}</p>
+    <button onclick="showAnswer()" style="font-size: 36px;">Risposta</button>
+    <div id="answer" style="max-height: 0; overflow: hidden; transition: max-height 0.5s ease-out; font-size: inherit;">${card.resposta}</div>
+  </div>
+`;
     }
 
     function showAnswer() {
