@@ -12,13 +12,11 @@
       background-color: #ccc;
       border-radius: 10px;
     }
-    
     #progress-bar-fill {
       height: 20px;
       background-color: #4CAF50;
       border-radius: 10px;
     }
-    
     #file-input-label {
       font-size: 18px;
       padding: 10px 20px;
@@ -26,64 +24,36 @@
       border-radius: 5px;
       cursor: pointer;
     }
-    
     #group-list {
       font-size: 18px;
       padding: 10px 20px;
     }
-    
-    #prev-card, #next-card {
+    #prev-card, #next-card, #lista-button, #limpar-button {
       font-size: 24px;
       padding: 15px 30px;
-      width: auto;
-      height: auto;
+      width: 200px;
     }
-    
-    #lista-button {
-      font-size: 24px;
-      padding: 15px 30px;
-      width: auto;
-      height: auto;
-    }
-    
-    #limpar-button {
-      font-size: 24px;
-      padding: 15px 30px;
-      width: auto;
-      height: auto;
-    }
-    
     @media only screen and (max-width: 768px) {
-      #prev-card, #next-card {
+      #prev-card, #next-card, #lista-button, #limpar-button {
         font-size: 18px;
-        padding: 10px 20px;
+        padding: 5px 10px;
+        width: 47%;
       }
-      
-      #lista-button, #limpar-button {
-        font-size: 18px;
-        padding: 10px 20px;
-        width: 150px;
-      }
-      
       #file-input-label {
         font-size: 16px;
         padding: 8px 16px;
       }
-      
       #group-list {
         font-size: 16px;
         padding: 8px 16px;
       }
-      
       #card-content {
         font-size: 24px;
       }
-      
       #progress-bar {
         width: 150px;
         height: 15px;
       }
-      
       #progress-bar-fill {
         height: 15px;
       }
@@ -101,11 +71,12 @@
   <p id="progress-text">0.00%</p>
   <select id="group-list"></select>
   <div style="display: block; text-align: left;">
-    <button id="prev-card" style="margin-right: 10px;">precedente</button>
-    <button id="next-card">successivo</button>
-    <br>
-    <button id="lista-button" style="width: 192px; margin-top: 10px;">lista</button>
-    <button id="limpar-button" style="width: 185px; margin-top: 10px;">pulire lista</button>
+    <button id="prev-card" style="margin-right: 10px; margin-bottom: 10px;">precedente</button>
+    <button id="next-card" style="margin-bottom: 10px;">successivo</button>
+  </div>
+  <div style="display: block; text-align: left;">
+    <button id="lista-button" style="margin-right: 10px;">lista</button>
+    <button id="limpar-button">pulire lista</button>
   </div>
   <div id="card">
     <div style="text-align: center;">
@@ -116,14 +87,12 @@
   </div>
  
 </body>
-</html>
 
-</div>
 
   
-  <script>
+<script>
                                  
-   let flashcards = {};
+let flashcards = {};
 let currentGroup = null;
 let currentCardIndex = 0;
 let lezione = null;
