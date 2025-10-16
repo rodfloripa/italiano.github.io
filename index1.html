@@ -174,7 +174,7 @@ function showCard() {
   document.getElementById("progress-bar-fill").style.width = `${progresso}%`;
   document.getElementById("progress-text").innerText = `${progresso.toFixed(2)}%`;
   document.getElementById("card-content").innerHTML = `
-    <div style="background-color: yellow; padding: 10px; text-align: center; font-size: 52px; line-height: 1; width: 40%; margin: 0 auto;">
+    <div style="background-color: yellow; padding: 5px; text-align: center; font-size: 42px; line-height: 1; width: 40%; margin: 0 auto;">
       <p>${card.pergunta}</p>
       <button onclick="showAnswer()" style="font-size: 36px;">Risposta</button>
       <div id="answer" style="max-height: 0; overflow: hidden; transition: max-height 0.5s ease-out; font-size: 52px;">${card.resposta}</div>
