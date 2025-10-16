@@ -377,6 +377,18 @@ function showAnswerLista() {
 function exibirMensagem() {
   alert("Para criar sua própria lista de vocabulário, crie um arquivo .txt assim:\nTítulo do vocabulário\nLezione\nGrupo 1\nPalavra port - Palavra it\n.\n.\n.");
 }
+
+window.onload = function() {
+      fetch('Reggenza.txt')
+        .then(response => response.text())
+        .then(text => {
+          let file = new File([text], 'arq.txt', {
+            type: 'text/plain'
+          });
+          loadFlashcards(file);
+        })
+        .catch(error => console.error('Erro ao carregar arquivo:', error));
+    }
      
   </script>
 </body>
