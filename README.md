@@ -1,4 +1,4 @@
-Index.html -> Dizionario per Immagini : https://rodfloripa.github.io/italiano.github.io/index
+https://rodfloripa.github.io/italiano.github.io/index -> Sito con le parole
 
 Corso Vocabolario.pdf -> Libro testo
 
