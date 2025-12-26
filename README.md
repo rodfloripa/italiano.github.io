@@ -4,6 +4,6 @@ Questa tesi presenta il materiale per un corso di vocabolario. Si compone di un 
 
 https://rodfloripa.github.io/italiano.github.io/index -> Sito con le parole
 
-Corso Vocabolario.pdf -> Libro testo
+[Libro testo](https://github.com/rodfloripa/italiano.github.io/blob/main/Corso%20Vocabolario.pdf)
 
-Corso.pdf -> Programma del corso
+[Programma del corso](  )
