@@ -6,4 +6,4 @@ https://rodfloripa.github.io/italiano.github.io/index -> Sito con le parole
 
 [Libro testo](https://github.com/rodfloripa/italiano.github.io/blob/main/Corso%20Vocabolario.pdf)
 
-[Programma del corso](  )
+[Programma del corso](https://github.com/rodfloripa/italiano.github.io/blob/main/Corso.pdf)
