@@ -1,4 +1,8 @@
-Tesi di Laurea - Un Corso di Vocabolario per il CIB
+<figure>
+  <img src="tesi.png" alt="Description of image">
+  <figcaption> </figcaption>
+</figure>
+
 
 Questa tesi presenta il materiale per un corso di vocabolario. Si compone di un sito web di studio, un libro testo e un piano didattico lezione per lezione.
 
