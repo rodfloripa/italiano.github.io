@@ -3,8 +3,9 @@
   <figcaption> </figcaption>
 </figure>
 
-
-Questa tesi presenta il materiale per un corso di vocabolario. Si compone di un sito web di studio, un libro testo e un piano didattico lezione per lezione.
+<p align="justify">
+  Questa tesi presenta il materiale per un corso di vocabolario. Si compone di un sito web di studio, un libro testo e un piano didattico lezione per lezione.
+</p>
 
 [Sito con le parole]( https://rodfloripa.github.io/italiano.github.io/index)
 
