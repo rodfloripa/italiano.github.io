@@ -92,14 +92,23 @@
     let lezione = null;
 
     function getLessonFromURL() {
-      const params = new URLSearchParams(window.location.search);
-      let lesson = params.get('lezione') || params.get('lesson');
+    const params = new URLSearchParams(window.location.search);
+    const lessonParam = params.get('lezione') || params.get('lesson');
 
-      // também aceita #lezione-10
-      if(!lesson && window.location.hash) {
-        lesson = window.location.hash.replace('#lezione-', '').replace('#lesson-', '');
-      }
-      return lesson;
+    if (lessonParam) {
+        // Converte para inteiro para garantir que '1' não seja confundido com '10'
+        return parseInt(lessonParam, 10);
+    }
+
+    // fallback para o hash
+    if (window.location.hash) {
+        const hashMatch = window.location.hash.match(/(?:lezione|lesson)-(\d+)/);
+        if (hashMatch) {
+            return parseInt(hashMatch[1], 10);
+        }
+    }
+
+    return null;
     }
 
     function loadFlashcards(file) {
