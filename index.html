@@ -251,7 +251,13 @@
         targetGroup = Object.keys(flashcards).find(g => g.includes(lessonFromURL));
       }
 
-      groupList.value = targetGroup || Object.keys(flashcards)[1];
+      
+    // No final da função showGroups, substitua por isto:
+    
+    // Se targetGroup não for encontrado, tente pegar a Lezione 1 ou a primeira disponível
+      let grupoPadrao = targetGroup || Object.keys(flashcards).find(g => g.includes("Lezione 1")) || Object.keys(flashcards)[0];
+    
+      groupList.value = grupoPadrao;
       showFlashcards();
     }
 
