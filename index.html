@@ -248,7 +248,9 @@
       let targetGroup = null;
 
       if(lessonFromURL) {
-        targetGroup = Object.keys(flashcards).find(g => g.includes(lessonFromURL));
+        // targetGroup = Object.keys(flashcards).find(g => g.includes(lessonF
+        // Substitua a linha do targetGroup por esta:
+        targetGroup = Object.keys(flashcards).find(g => g.toLowerCase().includes("lezione " + lessonFromURL));
       }
 
       
