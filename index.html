@@ -114,6 +114,7 @@
     function loadFlashcards(file) {
       let reader = new FileReader();
       reader.onload = function(event) {
+        // ... (seu código de processamento de linhas igual ao anterior) ...
         let txt = event.target.result;
         let lines = txt.split("\n");
         let vocabolario = lines[0].trim();
@@ -122,11 +123,12 @@
         document.querySelector("h1").innerText = vocabolario;
         txt = txt.replace(/Vocabolario/g, vocabolario);
         txt = txt.replace(/Lezione/g, lezione);
-        let group = null;
-        let groupName = null;
-        lines = txt.split("\n");
+        
         flashcards = {};
         let newFlashcards = {};
+        let group = null;
+        let groupName = null;
+        
         lines.forEach(line => {
           if (line.match(/^(Lezione|Grupo)/)) {
             group = line.trim();
@@ -137,22 +139,27 @@
           } else if (group && line.trim()!== "") {
             let sides = line.split("-");
             if (sides.length === 2) {
-              flashcards[group].push({
-                pergunta: sides[0].trim(),
-                risposta: sides[1].trim()
-              });
-              newFlashcards[groupName].push({
-                domanda: sides[0].trim(),
-                risposta: sides[1].trim()
-              });
+              flashcards[group].push({ pergunta: sides[0].trim(), risposta: sides[1].trim() });
+              newFlashcards[groupName].push({ domanda: sides[0].trim(), risposta: sides[1].trim() });
             }
           }
         });
         flashcards = newFlashcards;
+
+        // --- A CORREÇÃO ESTÁ AQUI: Chamamos a lógica de seleção APÓS processar os dados ---
         showGroups();
+        
+        let lessonFromURL = getLessonFromURL();
+        if(lessonFromURL) {
+            let targetGroup = Object.keys(flashcards).find(g => g.toLowerCase().includes("lezione " + lessonFromURL));
+            if(targetGroup) {
+                document.getElementById("group-list").value = targetGroup;
+                showFlashcards(); // Isso vai carregar a lição correta
+            }
+        }
       };
       reader.readAsText(file);
-    }
+                          }
 
     function showGroups() {
       let groupList = document.getElementById("group-list");
