@@ -111,164 +111,58 @@
     return null;
     }
 
+    
     function loadFlashcards(file) {
       let reader = new FileReader();
       reader.onload = function(event) {
-        // ... (seu código de processamento de linhas igual ao anterior) ...
         let txt = event.target.result;
         let lines = txt.split("\n");
         let vocabolario = lines[0].trim();
         lezione = lines[1].trim();
         document.title = vocabolario;
         document.querySelector("h1").innerText = vocabolario;
-        txt = txt.replace(/Vocabolario/g, vocabolario);
-        txt = txt.replace(/Lezione/g, lezione);
         
         flashcards = {};
-        let newFlashcards = {};
-        let group = null;
-        let groupName = null;
+        let groupNumber = "";
         
         lines.forEach(line => {
           if (line.match(/^(Lezione|Grupo)/)) {
-            group = line.trim();
-            let groupNumber = line.trim().replace("Grupo", "").replace("Lezione", "");
-            groupName = lezione + groupNumber;
-            flashcards[group] = [];
-            newFlashcards[groupName] = [];
-          } else if (group && line.trim()!== "") {
+            // Extrai apenas o número da linha
+            groupNumber = line.replace(/\D/g, "").trim();
+            flashcards[groupNumber] = [];
+          } else if (groupNumber && line.trim() !== "") {
             let sides = line.split("-");
             if (sides.length === 2) {
-              flashcards[group].push({ pergunta: sides[0].trim(), risposta: sides[1].trim() });
-              newFlashcards[groupName].push({ domanda: sides[0].trim(), risposta: sides[1].trim() });
+              flashcards[groupNumber].push({ pergunta: sides[0].trim(), risposta: sides[1].trim() });
             }
           }
         });
-        flashcards = newFlashcards;
-
-        // --- A CORREÇÃO ESTÁ AQUI: Chamamos a lógica de seleção APÓS processar os dados ---
         showGroups();
-        
-        let lessonFromURL = getLessonFromURL();
-        if(lessonFromURL) {
-            let targetGroup = Object.keys(flashcards).find(g => g.toLowerCase().includes("lezione " + lessonFromURL));
-            if(targetGroup) {
-                document.getElementById("group-list").value = targetGroup;
-                showFlashcards(); // Isso vai carregar a lição correta
-            }
-        }
       };
       reader.readAsText(file);
-                          }
+    }
 
     function showGroups() {
+      const titulos = { "3": "L'ORA E LE PARTI DEL GIORNO", "4": "I GIORNI, I MESI E LE STAGIONI", "5": "GLI ANNI E I SECOLI", "6": "LE FESTE LE PREPOSIZIONI", "7": "LE PREPOSIZIONI", "8": "LE FORME", "9": "LE PERSONE", "10": "LA FAMIGLIA E I PARENTI", "11": "IL CORPO UMANO", "12": "IL CORPO UMANO", "13": "LE CARATTERISTICHE FISICHE", "14": "I VESTITI", "15": "GLI ACCESSORI E LE CALZATURE", "16": "LA BIANCHERIA", "17": "I GIOIELLI E I COSMETICI", "18": "LA DESCRIZIONE DEI VESTITI E I MATERIALI", "19": "LA CASA", "20": "IL SOGGIORNO", "21": "LA CUCINA", "22": "VERBI PER LA CUCINA", "23": "LA STANZA DA LETTO", "24": "LA CAMERA DEL BAMBINO", "25": "IL BAGNO", "26": "IL RIPOSTIGLIO", "27": "I LAVORI DI CASA", "28": "A CASA", "29": "AL SUPERMERCATO", "30": "LE VERDURE", "31": "LA FRUTTA", "32": "I CONTENITORI", "33": "I SOLDI E LA BANCA", "34": "I MESTIERI", "35": "IL TEMPO LIBERO", "36": "GLI HOBBY", "37": "GLI STRUMENTI MUSICALI", "38": "GLI UTENSILI", "39": "AL RISTORANTE", "40": "AL BAR", "41": "DAL MEDICO", "42": "DAL DENTISTA", "43": "LE MALATTIE", "44": "I VERBI", "45": "LE CURE", "46": "L'OSPEDALE", "47": "LA CLASSE", "48": "I VERBI PER LA SCUOLA", "49": "IN UFFICIO", "50": "LA POSTA", "51": "GLI SPORT", "52": "IL CALCIO", "53": "LA GIUSTIZIA", "54": "LA CITTÀ", "55": "L'AUTOSTRADA", "56": "I SEGNALI STRADALI", "57": "L'AEREOPORTO", "58": "I TRASPORTI", "59": "L'AUTOMOBILE", "60": "LA BICICLETTA", "61": "LA CAMPAGNA", "62": "IL GIARDINO", "63": "GLI UCCELLI", "64": "GLI ANIMALI MARINI", "65": "GLI ANIMALI", "66": "IL MONDO", "67": "L'EUROPA", "68": "L'ITALIA", "69": "L'UNIVERSO", "70": "DESCRIZIONE DEL TEMPO", "71": "LA TERRA", "72": "IL MARE", "73": "I COLORI" };
+      
       let groupList = document.getElementById("group-list");
-      const titulos = {
-        "3": "L'ORA E LE PARTI DEL GIORNO",
-        "4": "I GIORNI, I MESI E LE STAGIONI",
-        "5": "GLI ANNI E I SECOLI",
-        "6": "LE FESTE LE PREPOSIZIONI",
-        "7": "LE PREPOSIZIONI",
-        "8": "LE FORME",
-        "9": "LE PERSONE",
-        "10": "LA FAMIGLIA E I PARENTI",
-        "11": "IL CORPO UMANO",
-        "12": "IL CORPO UMANO",
-        "13": "LE CARATTERISTICHE FISICHE",
-        "14": "I VESTITI",
-        "15": "GLI ACCESSORI E LE CALZATURE",
-        "16": "LA BIANCHERIA",
-        "17": "I GIOIELLI E I COSMETICI",
-        "18": "LA DESCRIZIONE DEI VESTITI E I MATERIALI",
-        "19": "LA CASA",
-        "20": "IL SOGGIORNO",
-        "21": "LA CUCINA",
-        "22": "VERBI PER LA CUCINA",
-        "23": "LA STANZA DA LETTO",
-        "24": "LA CAMERA DEL BAMBINO",
-        "25": "IL BAGNO",
-        "26": "IL RIPOSTIGLIO",
-        "27": "I LAVORI DI CASA",
-        "28": "A CASA",
-        "29": "AL SUPERMERCATO",
-        "30": "LE VERDURE",
-        "31": "LA FRUTTA",
-        "32": "I CONTENITORI",
-        "33": "I SOLDI E LA BANCA",
-        "34": "I MESTIERI",
-        "35": "IL TEMPO LIBERO",
-        "36": "GLI HOBBY",
-        "37": "GLI STRUMENTI MUSICALI",
-        "38": "GLI UTENSILI",
-        "39": "AL RISTORANTE",
-        "40": "AL BAR",
-        "41": "DAL MEDICO",
-        "42": "DAL DENTISTA",
-        "43": "LE MALATTIE",
-        "44": "I VERBI",
-        "45": "LE CURE",
-        "46": "L'OSPEDALE",
-        "47": "LA CLASSE",
-        "48": "I VERBI PER LA SCUOLA",
-        "49": "IN UFFICIO",
-        "50": "LA POSTA",
-        "51": "GLI SPORT",
-        "52": "IL CALCIO",
-        "53": "LA GIUSTIZIA",
-        "54": "LA CITTÀ",
-        "55": "L'AUTOSTRADA",
-        "56": "I SEGNALI STRADALI",
-        "57": "L'AEREOPORTO",
-        "58": "I TRASPORTI",
-        "59": "L'AUTOMOBILE",
-        "60": "LA BICICLETTA",
-        "61": "LA CAMPAGNA",
-        "62": "IL GIARDINO",
-        "63": "GLI UCCELLI",
-        "64": "GLI ANIMALI MARINI",
-        "65": "GLI ANIMALI",
-        "66": "IL MONDO",
-        "67": "L'EUROPA",
-        "68": "L'ITALIA",
-        "69": "L'UNIVERSO",
-        "70": "DESCRIZIONE DEL TEMPO",
-        "71": "LA TERRA",
-        "72": "IL MARE",
-        "73": "I COLORI"
-      };
-
       groupList.innerHTML = "";
-      Object.keys(flashcards).forEach(group => {
-        let match = group.match(/(\d+)/);
-        let groupNumber = match && match[0];
-        let titulo = titulos[groupNumber] || "";
+      
+      // Preenche o select mantendo a chave como número
+      Object.keys(flashcards).forEach(num => {
         let option = document.createElement("option");
-        option.value = group;
-        option.text = `${group} - ${titulo}`;
+        option.value = num;
+        option.text = `Lezione ${num} ${titulos[num] ? "- " + titulos[num] : ""}`;
         groupList.appendChild(option);
       });
 
-      document.getElementById("group-list").onchange = showFlashcards;
-
-      // Verifica se veio lezione na URL
+      // Busca a lição e garante que ela exista
       let lessonFromURL = getLessonFromURL();
-      let targetGroup = null;
-
-      if(lessonFromURL) {
-        // targetGroup = Object.keys(flashcards).find(g => g.includes(lessonF
-        // Substitua a linha do targetGroup por esta:
-        targetGroup = Object.keys(flashcards).find(g => g.toLowerCase().includes("lezione " + lessonFromURL));
+      groupList.value = (lessonFromURL && flashcards[lessonFromURL]) ? lessonFromURL : Object.keys(flashcards)[0];
+      
+      showFlashcards();
       }
 
-      
-    // No final da função showGroups, substitua por isto:
-    
-    // Se targetGroup não for encontrado, tente pegar a Lezione 1 ou a primeira disponível
-      let grupoPadrao = targetGroup || Object.keys(flashcards).find(g => g.includes("Lezione 1")) || Object.keys(flashcards)[0];
-    
-      groupList.value = grupoPadrao;
-      showFlashcards();
-    }
 
     function showFlashcards() {
       currentGroup = document.getElementById("group-list").value;
