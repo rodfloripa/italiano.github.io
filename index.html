@@ -121,7 +121,8 @@
         lines.forEach(line => {
           if (line.match(/^(Lezione|Grupo)/)) {
             group = line.trim();
-            let groupNumber = line.trim().replace("Grupo", "").replace("Lezione", "");
+            let matchNum = line.trim().match(/(\d+[a-zA-Z]*)/);
+            let groupNumber = matchNum ? matchNum[0] : "";
             groupName = lezione + groupNumber;
             flashcards[group] = [];
             newFlashcards[groupName] = [];
@@ -223,9 +224,11 @@
 
       groupList.innerHTML = "";
       Object.keys(flashcards).forEach(group => {
-        let match = group.match(/(\d+)/);
-        let groupNumber = match && match[0];
-        let titulo = titulos[groupNumber] || "";
+        let match = group.match(/(\d+[a-zA-Z]*)/);
+        let groupNumber = match ? match[0] : "";
+        let baseNumMatch = groupNumber.match(/\d+/);
+        let baseNum = baseNumMatch ? baseNumMatch[0] : groupNumber;
+        let titulo = titulos[groupNumber] || titulos[baseNum] || "";
         let option = document.createElement("option");
         option.value = group;
         option.text = `${group} - ${titulo}`;
@@ -252,7 +255,7 @@
       showCard();
 
       // Atualiza a URL com?lezione=XX
-      let match = currentGroup.match(/(\d+)/);
+      let match = currentGroup.match(/(\d+[a-zA-Z]*)/);
       if(match) {
         let lessonNum = match[0];
         const newUrl = `${window.location.pathname}?lezione=${lessonNum}`;
