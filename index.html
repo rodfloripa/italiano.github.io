@@ -1,91 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <title>Vocabolario</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="Este site contém todas as palavras do livro Dizionario per immagini traduzidas do italiano para português.Pode ser utilizado para o ensino da lingua italiana">
-  <meta name="keywords" content="Dizionario per immagini,italiano,vocabulario,italiano para brasileiros">
-  <style>
-    #progress-bar {
-      width: 200px;
-      height: 20px;
-      background-color: #ccc;
-      border-radius: 10px;
-    }
-
-    #progress-bar-fill {
-      height: 20px;
-      background-color: #4CAF50;
-      border-radius: 10px;
-    }
-
-    #file-input-label {
-      font-size: 18px;
-      padding: 10px 20px;
-      border: 1px solid #ccc;
-      border-radius: 5px;
-      cursor: pointer;
-    }
-
-    #group-list {
-      font-size: 18px;
-      padding: 10px 20px;
-    }
-
-    #prev-card, #next-card {
-      font-size: 24px;
-      padding: 15px 30px;
-      width: auto;
-      height: auto;
-    }
-
-    #card {
-      width: 40%;
-      margin: 40px auto;
-      font-size: 52px;
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      height: 300px;
-    }
-
-    @media only screen and (max-width: 768px) {
-      #card {
-        width: 90%;
-        margin: 20px auto;
-        padding-top: 5px;
-        font-size: 33.8px;
-        height: 250px;
-      }
-      #group-list {
-        font-size: 12px;
-        padding: 10px 20px;
-      }
-      #prev-card, #next-card {
-        font-size: 18px;
-        padding: 10px 20px;
-      }
-    }
-  </style>
-</head>
-<body>
-  <h1>Vocabolario</h1>
-  <p style="text-align: center;">Hai trovato una parola sbagliata? Invia un'email a </p>
-  <a href="mailto:rodns01@gmail.com?subject=Correzione"><p style="text-align:center">rodns01@gmail.com</p></a>
-  <label for="file-input" id="file-input-label">Caricare</label>
-  <input type="file" id="file-input" style="display: none;" accept=".txt">
-  <div id="progress-bar">
-    <div id="progress-bar-fill" style="width: 0%;"></div>
-  </div>
-  <p id="progress-text">0.00%</p>
-  <select id="group-list"></select>
-  <div style="display: block; text-align: left;">
-    <button id="prev-card" style="margin-right: 10px;">precedente</button>
-    <button id="next-card">successivo</button>
-    <div id="card"></div>
-  </div>
-
-  <script>
+<script>
     let flashcards = {};
     let currentGroup = null;
     let currentCardIndex = 0;
@@ -95,7 +8,7 @@
       const params = new URLSearchParams(window.location.search);
       let lesson = params.get('lezione') || params.get('lesson');
 
-      // também aceita #lezione-10
+      // também aceita #lezione-12a
       if(!lesson && window.location.hash) {
         lesson = window.location.hash.replace('#lezione-', '').replace('#lesson-', '');
       }
@@ -121,7 +34,9 @@
         lines.forEach(line => {
           if (line.match(/^(Lezione|Grupo)/)) {
             group = line.trim();
-            let groupNumber = line.trim().replace("Grupo", "").replace("Lezione", "");
+            // MODIFICADO: Captura o número e letras opcionais (ex: 12, 12a, 29e)
+            let matchNum = line.trim().match(/(\d+[a-zA-Z]*)/);
+            let groupNumber = matchNum ? matchNum[0] : "";
             groupName = lezione + groupNumber;
             flashcards[group] = [];
             newFlashcards[groupName] = [];
@@ -223,9 +138,13 @@
 
       groupList.innerHTML = "";
       Object.keys(flashcards).forEach(group => {
-        let match = group.match(/(\d+)/);
-        let groupNumber = match && match[0];
-        let titulo = titulos[groupNumber] || "";
+        let match = group.match(/(\d+[a-zA-Z]*)/);
+        let groupNumber = match ? match[0] : "";
+        // Tenta buscar no dicionário pelo número base (ex: "12") caso a chave completa não exista
+        let baseNumMatch = groupNumber.match(/\d+/);
+        let baseNum = baseNumMatch ? baseNumMatch[0] : groupNumber;
+        let titulo = titulos[groupNumber] || titulos[baseNum] || "";
+        
         let option = document.createElement("option");
         option.value = group;
         option.text = `${group} - ${titulo}`;
@@ -234,12 +153,12 @@
 
       document.getElementById("group-list").onchange = showFlashcards;
 
-      // Verifica se veio lezione na URL
+      // Verifica se veio lezione na URL (suportando letras)
       let lessonFromURL = getLessonFromURL();
       let targetGroup = null;
 
       if(lessonFromURL) {
-        targetGroup = Object.keys(flashcards).find(g => g.includes(lessonFromURL));
+        targetGroup = Object.keys(flashcards).find(g => g.toLowerCase().includes(lessonFromURL.toLowerCase()));
       }
 
       groupList.value = targetGroup || Object.keys(flashcards)[1];
@@ -251,8 +170,8 @@
       currentCardIndex = 0;
       showCard();
 
-      // Atualiza a URL com?lezione=XX
-      let match = currentGroup.match(/(\d+)/);
+      // MODIFICADO: Atualiza a URL mantendo a letra (ex: ?lezione=12a)
+      let match = currentGroup.match(/(\d+[a-zA-Z]*)/);
       if(match) {
         let lessonNum = match[0];
         const newUrl = `${window.location.pathname}?lezione=${lessonNum}`;
@@ -334,9 +253,7 @@
             type: 'text/plain'
           });
           loadFlashcards(file);
-        })
+       })
        .catch(error => console.error('Erro ao carregar arquivo:', error));
     }
   </script>
-</body>
-</html>
