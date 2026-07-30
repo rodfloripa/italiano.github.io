@@ -18,13 +18,12 @@
       background-color: #4CAF50;
       border-radius: 10px;
     }
-
-    #file-input-label {
-      font-size: 18px;
-      padding: 10px 20px;
-      border: 1px solid #ccc;
-      border-radius: 5px;
-      cursor: pointer;
+    
+    #header-img {
+      max-width: 100%;
+      height: auto;
+      display: block;
+      margin: 0 auto 15px auto;
     }
 
     #group-list {
@@ -69,11 +68,9 @@
   </style>
 </head>
 <body>
-  <h1>Vocabolario</h1>
+  <img src="diz.jpg" id="header-img" alt="Dizionario per immagini">
   <p style="text-align: center;">Hai trovato una parola sbagliata? Invia un'email a </p>
   <a href="mailto:rodns01@gmail.com?subject=Correzione"><p style="text-align:center">rodns01@gmail.com</p></a>
-  <label for="file-input" id="file-input-label">Caricare</label>
-  <input type="file" id="file-input" style="display: none;" accept=".txt">
   <div id="progress-bar">
     <div id="progress-bar-fill" style="width: 0%;"></div>
   </div>
@@ -322,10 +319,7 @@
       showCard();
     }
 
-    document.getElementById("file-input").addEventListener("change", function(event) {
-      loadFlashcards(event.target.files[0]);
-    });
-
+   
     document.getElementById("next-card").onclick = nextCard;
     document.getElementById("prev-card").onclick = prevCard;
 
