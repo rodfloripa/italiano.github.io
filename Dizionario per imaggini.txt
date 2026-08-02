@@ -122,7 +122,7 @@ o cotovelo                                                                  - il
 as costas                                                                   - la schiena                                                        
 o peito                                                                     - il petto                                                          
 o abdômen                                                                   - l'addome                                                          
-a bunda                                                                     - il sedere                                                         
+o bumbum                                                                     - il sedere                                                         
 a coxa                                                                      - la coscia                                                         
 o joelho                                                                    - il ginocchio                                                      
 a panturrilha                                                               - il polpaccio                                                      
@@ -142,7 +142,7 @@ a orelha                                                                    - l'
 a bochecha                                                                  - la guancia                                                        
 o nariz                                                                     - il naso                                                           
 a narina                                                                    - la narice                                                         
-para a barba                                                                - la barba                                                          
+barba                                                                - la barba                                                          
 o bigode                                                                    - i baffi                                                           
 a língua                                                                    - la lingua                                                         
 os dentes                                                                   - i denti                                                           
