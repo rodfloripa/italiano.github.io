@@ -196,17 +196,17 @@ as luvas                                                                    - i 
 o chapéu                                                                    - il cappello                                                       
 as calças                                                                   - i pantaloni                                                       
 o blusão                                                                    - la giacca a vento                                                 
-eu jeans azul                                                               - i blue jeans                                                      
-a jaqueta                                                                   - il giubbone                                                       
+jeans azul                                                               - i blue jeans                                                      
+a jaqueta pesada                                                                   - il giubbone                                                       
 o suéter                                                                    - il maglione                                                       
-a tampa                                                                     - la cuffia                                                         
-a jaqueta                                                                   - il giubbotto                                                      
+a touca                                                                     - la cuffia                                                         
+a jaqueta de inverno                                                                  - il giubbotto                                                      
 o cachecol                                                                  - la sciarpa                                                        
 o casaco                                                                    - il cappotto                                                       
 a lapela                                                                    - ii bavero                                                         
 o botão                                                                     - il bottone                                                        
 o pescoço                                                                   - il collo                                                          
-a jaqueta                                                                   - la giacca                                                         
+o blazer                                                                   - la giacca                                                         
 Grupo 14b
 o pelúcia                                                                   - la felpa                                                          
 o agasalho                                                                  - la tuta da ginnastica                                             
