@@ -208,9 +208,9 @@ o botão                                                                     - i
 o pescoço                                                                   - il collo                                                          
 o blazer                                                                   - la giacca                                                         
 Grupo 14b
-o pelúcia                                                                   - la felpa                                                          
+o moletom                                                                   - la felpa                                                          
 o agasalho                                                                  - la tuta da ginnastica                                             
-as calças curtas                                                            - i pantaloni corti                                                 
+os shorts                                                            - i pantaloni corti                                                 
 a manga                                                                     - la manica                                                         
 a manga curta                                                               - la manica corta                                                   
 o vestido                                                                   - il vestito                                                        
