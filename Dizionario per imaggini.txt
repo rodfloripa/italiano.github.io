@@ -227,8 +227,8 @@ a camisa social                                                                 
 a gravata                                                                   - la cravatta                                                       
 Grupo 15
 a carteira                                                                  - il portafoglio                                                    
-a bolsa                                                                     - il borsellino                                                     
-a cintura                                                                   - la cintura                                                        
+a bolsa pequena                                                                     - il borsellino                                                     
+o cinto                                                                   - la cintura                                                        
 a fivela                                                                    - la fibbia                                                         
 a sacola de compras                                                         - la borsa della spesa                                              
 a faixa de suor                                                             - la fascia per il sudore                                           
@@ -240,7 +240,7 @@ a mochila                                                                   - lo
 a mala                                                                      - la valigia                                                        
 as botas                                                                    - gli stivali                                                       
 o sapato                                                                    - la scarpa                                                         
-o calcanhar                                                                 - il tacco                                                          
+o salto alto                                                                 - il tacco                                                          
 a sola                                                                      - la suola                                                          
 os cadarços                                                                 - i lacci                                                           
 os tênis                                                                    - le scarpe da ginnastica                                           
