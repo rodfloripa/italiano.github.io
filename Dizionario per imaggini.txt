@@ -295,18 +295,18 @@ o lápis de olho                                                             - l
 Grupo 18
 longo                                                                       - lungo                                                             
 curto                                                                       - corto                                                             
-estrito                                                                     - stretto                                                           
-longo                                                                       - largo                                                             
+justo                                                                     - stretto                                                           
+largo                                                                       - largo                                                             
 novo                                                                        - nuovo                                                             
 velho                                                                       - vecchio                                                           
 sujo                                                                        - sporco                                                            
-limpar                                                                      - pulito                                                            
+limpo                                                                      - pulito                                                            
 escuro                                                                      - scuro                                                             
 claro                                                                       - chiaro                                                            
-abrir                                                                       - aperto                                                            
+aberto                                                                       - aperto                                                            
 fechado                                                                     - chiuso                                                            
-linha                                                                       - a righe                                                           
-verificado                                                                  - a quadri                                                          
+listrado                                                                       - a righe                                                           
+xadrez                                                                  - a quadri                                                          
 Grupo 18b
 aderente                                                                    - aderente                                                          
 decote baixo                                                                - scollato                                                          
