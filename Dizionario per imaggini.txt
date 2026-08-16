@@ -308,7 +308,7 @@ fechado                                                                     - ch
 listrado                                                                       - a righe                                                           
 xadrez                                                                  - a quadri                                                          
 Grupo 18b
-aderente                                                                    - aderente                                                          
+ajustado                                                                    - aderente                                                          
 decote baixo                                                                - scollato                                                          
 com bolinhas                                                                - a pois                                                            
 cor sólida                                                                  - a tinta unita                                                     
