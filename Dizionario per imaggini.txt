@@ -309,7 +309,7 @@ listrado                                                                       -
 xadrez                                                                  - a quadri                                                          
 Grupo 18b
 ajustado                                                                    - aderente                                                          
-decote baixo                                                                - scollato                                                          
+decotado                                                                - scollato                                                          
 com bolinhas                                                                - a pois                                                            
 cor sólida                                                                  - a tinta unita                                                     
 escocês                                                                     - scozzese                                                          
@@ -322,13 +322,13 @@ o sintético                                                                 - i
 Grupo 19
 a entrada                                                                   - l'ingresso                                                        
 a sala de estar                                                             - il soggiorno                                                      
-o armário                                                                   - il ripostiglio                                                    
+a despensa                                                                  - il ripostiglio                                                    
 o banheiro                                                                  - il bagno                                                          
 a cozinha                                                                   - la cucina                                                         
 a sala de jantar                                                            - la sala da pranzo                                                 
 o quarto                                                                    - la camera da letto                                                
 o corredor                                                                  - il corridoio                                                      
-o estudo                                                                    - lo studio                                                         
+o escritório                                                                   - lo studio                                                         
 as escadas                                                                  - le scale                                                          
 o elevador                                                                  - l'ascensore                                                       
 Grupo 19b
