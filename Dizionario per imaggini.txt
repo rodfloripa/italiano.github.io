@@ -340,7 +340,8 @@ a mansao                                                                    - la
 a casa geminada                                                             - la casa a schiera                                                 
 o arranha-céu                                                               - il grattacielo                                                    
 a cabana                                                                    - la capanna                                                        
-a tenda                                                                     - la tenda                                                          
+a barraca
+- la tenda                                                          
 Grupo 19c
 a garagem                                                                   - il garage                                                         
 a adega                                                                     - la cantina                                                        
