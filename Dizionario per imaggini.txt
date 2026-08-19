@@ -351,7 +351,7 @@ a calha                                                                     - la
 a lareira                                                                   - il camino                                                         
 o jardim                                                                    - il giardino                                                       
 o portão                                                                    - il cancello                                                       
-o corrimão                                                                  - la ringhiera                                                      
+a grade                                                                  - la ringhiera                                                      
 o sino                                                                      - il campanello                                                     
 a caixa de correio                                                          - la cassetta delle lettere                                         
 a varanda                                                                   - il balcone                                                        
