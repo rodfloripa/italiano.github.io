@@ -363,12 +363,12 @@ o teto                                                                      - il
 a parede                                                                    - la parete                                                         
 o radiador                                                                  - il termosifone                                                    
 a caldeira                                                                  - la caldaia                                                        
-o chão                                                                      - il pavimento                                                      
+o piso                                                                      - il pavimento                                                      
 o interruptor                                                               - l'interruttore                                                    
 a porta                                                                     - la porta                                                          
-a alça                                                                      - la maniglia                                                       
+a maçaneta                                                                     - la maniglia                                                       
 a janela                                                                    - la finestra                                                       
-a barragem                                                                  - la presa                                                          
+a tomada                                                                  - la presa                                                          
 o painel elétrico                                                           - il quadro elettrico                                               
 Grupo 20
 a moldura                                                                    - la cornice                                                        
