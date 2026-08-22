@@ -392,7 +392,7 @@ a lâmpada                                                                   - l
 o ornamento                                                                 - il soprammobile                                                   
 o lustre                                                                    - il lampadario                                                     
 Grupo 21
-o armario                                                                    - la credenza                                                       
+o armario baixo                                                                   - la credenza                                                       
 o lustre                                                                    - il lampadario                                                     
 a garrafa                                                                   - la caraffa                                                        
 o copo                                                                      - il bicchiere                                                      
@@ -411,15 +411,15 @@ o pires                                                                     - il
 os talheres                                                                 - le posate                                                         
 a saladeira                                                                 - l'insalatiera                                                     
 o pote                                                                      - la pentola                                                        
-a panela                                                                    - la casseruola                                                     
+a caçarola                                                                    - la casseruola                                                     
 a tesoura de aves                                                           - il trinciapollo                                                   
 a torradeira                                                                - il tostapane                                                      
-o prato                                                                     - la piastra                                                        
-o enredo                                                                    - il canovaccio                                                     
+o grill do fogao                                                                     - la piastra                                                        
+o pano de prato                                                                    - il canovaccio                                                     
 a geladeira                                                                 - il frigorifero                                                    
 o congelador                                                                - il congelatore                                                    
 os cubos de gelo                                                            - i cubetti di ghiaccio                                             
-a unidade de parede                                                         - il pensile                                                        
+o armário alto                                                        - il pensile                                                        
 o forno de micro-ondas                                                      - il forno a microonde                                              
 o rolo de massa                                                             - il matterello                                                     
 a tábua de corte                                                            - il tagliere                                                       
@@ -432,7 +432,7 @@ o abridor de latas                                                          - l'
 o abridor de garrafas                                                       - l'apribottiglie                                                   
 o escorredor                                                                - il colapasta                                                      
 a panela                                                                    - la padella                                                        
-a tampa                                                                     - il coperchio                                                      
+a tampa da panela                                                                    - il coperchio                                                      
 os palitos de dente                                                         - gli stuzzicadenti                                                 
 o liquidificador                                                            - il frullatore                                                     
 o forno                                                                     - il forno                                                          
