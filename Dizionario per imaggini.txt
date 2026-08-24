@@ -472,12 +472,12 @@ a cabeceira                                                                 - la
 a fronha                                                                    - la federa                                                         
 o travesseiro                                                               - il cuscino                                                        
 o colchão                                                                   - il materasso                                                      
-a rede                                                                      - la rete                                                           
-a folha                                                                     - il lenzuolo                                                       
+o estrado                                                                      - la rete                                                           
+o lençol                                                                     - il lenzuolo                                                       
 o ventilador de teto                                                        - la ventola a soffitto                                             
 a cama                                                                      - il letto                                                          
 o edredom                                                                   - il piumone                                                        
-na capa                                                                     - la coperta                                                        
+a coberta                                                                     - la coperta                                                        
 a mesa de cabeceira                                                         - il comodino                                                       
 o tapete                                                                    - il tappeto                                                        
 Grupo 24
