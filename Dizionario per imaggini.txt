@@ -483,9 +483,9 @@ o tapete                                                                    - il
 Grupo 24
 o ursinho                                                                   - l'orsetto                                                         
 o berço                                                                     - il lettino                                                        
-a costa                                                                     - la sponda                                                         
+a grade da cama                                                                     - la sponda                                                         
 talco                                                                       - il borotalco                                                      
-o trocador                                                                  - il fasciatoio                                                     
+trocador de fralda                                                                 - il fasciatoio                                                     
 o alfinete de segurança                                                     - la spilla di sicurezza                                            
 a fralda                                                                    - il pannolino                                                      
 o carrinho de bebê                                                          - il passeggino                                                     
@@ -494,16 +494,16 @@ a chupeta                                                                    - i
 os cotonetes                                                                - i bastoncini per le orecchie                                               
 o babador                                                                   - il bavaglino                                                      
 o chocalho                                                                  - il sonaglio                                                       
-andarilho para bebe                                                         - il girello                                                        
+andador para bebe                                                         - il girello                                                        
 o balanço                                                                   - l'altalena                                                        
-a casa do                                                                   - la casa delle                                                     
+a casa de bonecas                                                                   - la casa delle bambole                                                    
 o berço                                                                     - la culla                                                          
 a pelucia                                                                   - il peluche                                                        
 a boneca                                                                    - la bambola                                                        
-as caixas                                                                   - il box                                                            
+o cercadinho                                                                  - il box                                                            
 o quebra-cabeça                                                             - il puzzle                                                         
 lego                                                                        - i lego                                                            
-a cadeira de rodas                                                          - la carrozzella                                                    
+carrinho de bebê                                                         - la carrozzella                                                    
 Grupo 25
 o chuveiro                                                                  - la doccia                                                         
 a touca de banho                                                            - la cuffia per doccia                                              
