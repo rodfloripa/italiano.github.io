@@ -520,10 +520,10 @@ a toalha                                                                    - l'
 papel toalha                                                                - la salvietta                                                      
 o porta toalhas                                                                 - il portasciugamano                                                
 o secador de cabelo                                                         - l'asciugacapelli                                                  
-o azulejo                                                                   - la mattonella                                                     
+o azulejo                                                                   - la mattonella/piastrella                                                     
 o cesto de roupa suja                                                       - il portabiancheria                                                
 a privada                                                                      - il water                                                                                                         
-as balança                                                                  - la bilancia                                                       
+a balança                                                                  - la bilancia                                                       
 o bidê                                                                     - il bid                                                            
 Grupo 26
 a escada                                                                    - la scala                                                          
