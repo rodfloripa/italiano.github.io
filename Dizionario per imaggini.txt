@@ -507,25 +507,24 @@ carrinho de bebê                                                         - la c
 Grupo 25
 o chuveiro                                                                  - la doccia                                                         
 a touca de banho                                                            - la cuffia per doccia                                              
-a tenda                                                                     - la tenda                                                          
+a porta do box                                                                     - la porta del box doccia                                                          
 a saboneteira                                                               - il portasapone                                                    
 a tampa                                                                     - il tappo                                                          
 a banheira                                                                  - la vasca da bagno                                                 
 o tapete                                                                    - il tappeto                                                        
-o gabinete                                                                  - il mobiletto                                                      
+o armarinho                                                                  - il mobiletto                                                      
 a torneira                                                                  - il rubinetto                                                      
 a pia                                                                       - il lavandino                                                      
-a escova de dentes para o                                                   - lo spazzolino per i                                               
+a escova de dentes                                                   - lo spazzolino per i denti                                              
 a toalha                                                                    - l'asciugamano                                                     
-o guardanapo                                                                - la salvietta                                                      
-o toalheiro                                                                 - il portasciugamano                                                
+papel toalha                                                                - la salvietta                                                      
+o porta toalhas                                                                 - il portasciugamano                                                
 o secador de cabelo                                                         - l'asciugacapelli                                                  
 o azulejo                                                                   - la mattonella                                                     
 o cesto de roupa suja                                                       - il portabiancheria                                                
-a privada                                                                      - il water                                                          
-o pincel para o                                                             - la spazzola per il                                                
+a privada                                                                      - il water                                                                                                         
 as balança                                                                  - la bilancia                                                       
-o lance                                                                     - il bid                                                            
+o bidê                                                                     - il bid                                                            
 Grupo 26
 a escada                                                                    - la scala                                                          
 a bateria                                                                   - la pila                                                           
