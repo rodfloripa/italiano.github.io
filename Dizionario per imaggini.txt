@@ -526,27 +526,26 @@ a privada                                                                      -
 a balança                                                                  - la bilancia                                                       
 o bidê                                                                     - il bid                                                            
 Grupo 26
-a escada                                                                    - la scala                                                          
-a bateria                                                                   - la pila                                                           
-os trapos                                                                   - gli stracci                                                       
-o pincel                                                                    - lo spazzolone                                                     
+a escada                                                                    - la scala                                                                
+os panos de chão                                                                   - gli stracci                                                       
+o vassourão                                                                    - lo spazzolone                                                     
 a vassoura                                                                  - la scopa                                                          
-o remo                                                                      - la paletta                                                        
-o ferro                                                                     - il ferro da stiro                                                 
+a pá                                                                      - la paletta                                                        
+o ferro de passar                                                                    - il ferro da stiro                                                 
 a tábua de passar roupa                                                     - l'asse da stiro                                                   
 o balde                                                                     - il secchio                                                        
 o aspirador de pó                                                           - l'aspirapolvere                                                   
 os prendedores de roupa                                                     - le mollette                                                       
 o amaciante de roupas                                                       - l'ammorbidente                                                    
-a lavanderia                                                                - il bucato                                                         
-o detergente para o                                                         - il detersivo per la                                               
+a roupa suja                                                                - il bucato                                                         
+o detergente                                                          - il detersivo                                               
 o cesto de roupa suja                                                       - il portabiancheria                                                
 detergente líquido para louça                                               - il detersivo liquido per i piatti                                 
 água sanitária                                                              - la candeggina                                                     
 a máquina de lavar                                                          - la lavatrice                                                      
 o polidor                                                                   - la lucidatrice                                                    
 a lata de lixo                                                              - la pattumiera                                                     
-o escorredor de pratos                                                      - lo stenditoio                                                     
+o varal                                                      - lo stenditoio                                                     
 a sapateira                                                                 - la scarpiera                                                      
 Grupo 27
 reordenar                                                                   - riordinare                                                        
