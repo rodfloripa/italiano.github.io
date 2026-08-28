@@ -526,7 +526,16 @@ a privada                                                                      -
 a balança                                                                  - la bilancia                                                       
 o bidê                                                                     - il bid                                                            
 Grupo 26
-a escada                                                                    - la scala                                                                
+a escada                                                                    - la scala   
+
+a lanterna 
+
+- la pila
+
+a estante 
+
+- lo scaffale
+
 os panos de chão                                                                   - gli stracci                                                       
 o vassourão                                                                    - lo spazzolone                                                     
 a vassoura                                                                  - la scopa                                                          
