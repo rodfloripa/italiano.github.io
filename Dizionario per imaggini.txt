@@ -548,16 +548,16 @@ a lata de lixo                                                              - la
 o varal                                                      - lo stenditoio                                                     
 a sapateira                                                                 - la scarpiera                                                      
 Grupo 27
-reordenar                                                                   - riordinare                                                        
+arrumar                                                                   - riordinare                                                        
 polir                                                                       - lucidare                                                          
 limpar                                                                      - pulire                                                            
-aprender                                                                    - appendere                                                         
-cozido                                                                      - cucinare                                                          
+estender                                                                    - appendere                                                         
+cozinhar                                                                      - cucinare                                                          
 varrer                                                                      - scopare                                                           
 arrumar a cama                                                              - fare il letto                                                     
 secar                                                                       - asciugare                                                         
-reparar                                                                     - riparare                                                          
-passar fero                                                                 - stirare                                                           
+consertar                                                                     - riparare                                                          
+passar ferro                                                                 - stirare                                                           
 trocar os lençóis                                                           - cambiare le lenzuola                                              
 limpar com o aspirador de pó                                                - pulire con l'aspirapolvere                                        
 tirar o pó                                                                  - spolverare                                                        
