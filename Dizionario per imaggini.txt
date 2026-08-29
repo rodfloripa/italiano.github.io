@@ -577,16 +577,15 @@ tomar café da manhã                                                         - 
 lavar                                                                       - lavarsi                                                           
 fazer                                                                       - fare                                                              
 secar                                                                       - asciugarsi                                                        
-fazer                                                                       - fare                                                              
-fazer_se                                                                    - farsi                                                             
+                                                             
 colocar maquiagem                                                           - truccarsi                                                         
-vestir_se                                                                   - vestirsi                                                          
+vestir-se                                                                   - vestirsi                                                          
 pentear o cabelo                                                            - pettinarsi                                                        
 sair                                                                        - uscire                                                            
 voltar para casa                                                            - tornare a casa                                                    
-para dizer adeus                                                            - salutarsi                                                         
+ despedir-se                                                          - salutarsi                                                         
 almoçar                                                                     - pranzare                                                          
-luz                                                                         - leggere                                                           
+ler                                                                         - leggere                                                           
 ouvir                                                                       - ascoltare                                                         
 assistir                                                                    - guardare                                                          
 jogar cartas                                                                - giocare a carte                                                   
