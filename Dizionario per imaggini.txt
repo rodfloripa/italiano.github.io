@@ -576,7 +576,7 @@ levantar                                                                    - al
 tomar café da manhã                                                         - fare colazione                                                    
 lavar                                                                       - lavarsi                                                           
 fazer                                                                       - fare                                                              
-secar                                                                       - asciugarsi                                                        
+secar-se                                                                       - asciugarsi                                                        
                                                              
 colocar maquiagem                                                           - truccarsi                                                         
 vestir-se                                                                   - vestirsi                                                          
