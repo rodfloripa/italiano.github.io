@@ -593,27 +593,27 @@ jantar                                                                      - ce
 ir para                                                                     - andare a                                                          
 adormecer                                                                   - addormentarsi                                                     
 Grupo 29
-a pista                                                                     - la corsia                                                         
+o corredor                                                                     - la corsia                                                         
 as prateleiras                                                              - la scaffalatura                                                   
 o carrinho                                                                  - il carrello                                                       
 o cliente                                                                   - il cliente                                                        
 a balança                                                                   - la bilancia                                                       
-a caixa registradora                                                        - la cassa                                                          
+o caixa                                                               - la cassa                                                          
 a caixa registradora                                                        - il registratore di cassa                                          
 o recibo                                                                    - lo scontrino                                                      
 a seção do congelador                                                       - il banco congelatore                                              
 o balcão de vendas                                                          - il banco vendita                                                  
-o preço                                                                     - il cartellino del prezzo                                          
-o caixa                                                                     - la cassiera                                                       
+etiqueta do preço                                                                     - il cartellino del prezzo                                          
+a operadora de caixa                                                                     - la cassiera                                                       
 a sacola de compras                                                         - la borsa della spesa                                              
 os departamentos                                                            - i reparti                                                         
 laticínios                                                                  - i latticini                                                       
-a delicatessen                                                              - la salumeria                                                      
+frios/embutidos                                                              - la salumeria                                                      
 o açougue                                                                   - la macelleria                                                     
 os congelados                                                               - i surgelati                                                       
 frutas e vegetais                                                           - ortofrutta                                                        
 a padaria                                                                   - la panetteria                                                     
-o peixeiro                                                                  - la pescheria                                                      
+peixaria                                                                - la pescheria                                                      
 Grupo 29b
 o bezerro                                                                   - il vitello                                                        
 carne de porco bovina                                                       - il manzo carne suina                                              
