@@ -625,7 +625,7 @@ o bife                                                                      - la
 o assado                                                                    - l'arrosto                                                         
 a carne para caldo                                                          - la carne da brodo                                                 
 o filé                                                                      - il filetto                                                        
-costelas                                                                    - costine                                                           
+costela                                                                    - costine                                                           
 a carne moída                                                               - il macinato                                                       
 o ensopado                                                                  - lo spezzatino                                                     
 Grupo 29c
