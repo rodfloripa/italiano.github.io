@@ -616,11 +616,11 @@ a padaria                                                                   - la
 peixaria                                                                - la pescheria                                                      
 Grupo 29b
 o bezerro                                                                   - il vitello                                                        
-carne de porco bovina                                                       - il manzo carne suina                                              
-carne de porco carne de ovelha                                              - il maiale carne ovina                                             
-a cabrito                                                                   - il capretto                                                       
+carne de porco/bovina                                                       - la carne suina/di manzo                                              
+carne de cabrito e cordeiro                                              - la carne ovina                                             
+o cabrito                                                                   - il capretto                                                       
 o cordeiro                                                                  - l'agnello                                                         
-o cavalo                                                                    - il cavallo                                                        
+carne de cavalo                                                                    - carne di cavallo                                                        
 o bife                                                                      - la bistecca                                                       
 o assado                                                                    - l'arrosto                                                         
 a carne para caldo                                                          - la carne da brodo                                                 
