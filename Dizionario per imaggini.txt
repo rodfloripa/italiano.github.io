@@ -633,14 +633,14 @@ a galinha                                                                   - la
 o peru                                                                      - il tacchino                                                       
 o pato                                                                      - l'anatra                                                          
 o ganso                                                                     - l'oca                                                             
-a galinha                                                                   - il pollo                                                          
+o frango                                                                   - il pollo                                                          
 o coelho                                                                    - il coniglio                                                       
 o peito                                                                     - il petto                                                          
 a parte traseira                                                            - il posteriore                                                     
 a coxa                                                                      - la coscia                                                         
 a asa                                                                       - l'ala                                                             
-o frango int                                                                - il pollo int                                                      
-o meio frango                                                               - il mezzo pollo                                                    
+o frango inteiro                                                                - il pollo intero                                                      
+pedaço de frango                                                               - il mezzo pollo/porzionato                                                    
 Grupo 29d
 o salame                                                                    - il salame                                                         
 o presunto                                                                  - il prosciutto                                                     
