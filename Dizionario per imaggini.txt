@@ -647,7 +647,10 @@ o presunto                                                                  - il
 o bacon                                                                     - la pancetta                                                       
 o cotechino                                                                 - il cotechino                                                      
 mortadela                                                                   - la mortadella                                                     
-as salsichas                                                                - le salsicce                                                       
+as linguiças                                                                - le salsicce  
+
+a salsicha                                                               - il würst  
+
 Grupo 29e
 a veia                                                                      - il filone                                                         
 as rosetas                                                                  - le rosette                                                        
