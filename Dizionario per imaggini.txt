@@ -652,14 +652,14 @@ as linguiças                                                                - l
 a salsicha                                                               - il würstel  
 
 Grupo 29e
-a veia                                                                      - il filone                                                         
-as rosetas                                                                  - le rosette                                                        
-o pão                                                                       - lo sfilatino                                                      
+pão grande                                                                     - il filone                                                         
+pão roseta                                                                  - la rosetta                                                        
+mini baguete                                                                       - lo sfilatino                                                      
 palitos de pão                                                              - i grissini                                                        
-os biscoitos                                                                - le fette biscottate                                               
+torradas                                                                - le fette biscottate                                               
 o sanduíche                                                                 - il panino                                                         
 a pizza                                                                     - la pizza                                                          
-os doces                                                                    - i pasticcini                                                      
+mini bombas/carolinas                                                                    - i pasticcini                                                      
 Grupo 29f
 lasanha                                                                     - le lasagne                                                        
 espaguete                                                                   - gli spaghetti                                                     
