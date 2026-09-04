@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <title>Vocabolario</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Este site contém todas as palavras do livro Dizionario per immagini traduzidas do italiano para português.">
+  <script src="https://cdn.tailwindcss.com"></script>
+  <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@800&family=Inter:wght@500;700&display=swap" rel="stylesheet">
+  <style>
+    body{font-family:'Inter',sans-serif;background:#0F0F0F;color:#fff}
+   .card{background:#242424;border-radius:24px}
+   .progress-gradient{background:linear-gradient(90deg,#00E676,#D4FF32)}
+    #card{font-family:'Nunito',sans-serif}
+  </style>
+</head>
+<body class="min-h-screen max-w-[480px] mx-auto px-4 py-4">
+
+  <!-- HEADER -->
+  <header class="card flex items-center justify-between p-3 mb-5">
+    <div class="flex items-center gap-2">
+      <div class="w-9 h-9 rounded-full bg-[#333] flex items-center justify-center">‹</div>
+      <span class="font-bold text-[13px] tracking-widest">DIZIONARIO PER IMMAGINI</span>
+    </div>
+    <div class="flex gap-2 text-[#666]"><div class="w-9 h-9 rounded-full bg-[#333] flex items-center justify-center">↗</div><div class="w-9 h-9 rounded-full bg-[#333] flex items-center justify-center">…</div></div>
+  </header>
+
+  <!-- CAPA + PROGRESSO -->
+  <div class="card p-4 mb-4">
+    <div class="flex justify-center mb-5">
+      <img src="diz.jpg" id="header-img" class="w-[240px] rounded-[16px] shadow-2xl" alt="">
+    </div>
+    <div class="flex justify-between text-[13px] mb-2 text-zinc-400">
+      <span>Progresso</span>
+      <span id="progress-text" class="text-[#A3FF5A] font-bold">0.00%</span>
+    </div>
+    <div class="w-full h-[12px] bg-[#333] rounded-full overflow-hidden">
+      <div id="progress-bar-fill" class="h-full progress-gradient rounded-full transition-all duration-500" style="width:0%"></div>
+    </div>
+  </div>
+
+  <!-- LIÇÃO -->
+  <div class="card p-3 mb-5">
+    <div class="relative">
+      <select id="group-list" class="w-full bg-[#333] text-white text-[14px] font-bold p-3 pr-10 rounded-xl outline-none appearance-none"></select>
+      <div class="pointer-events-none absolute right-3 top-[10px] w-7 h-7 bg-[#F9E94E] rounded-full flex items-center justify-center text-black text-[12px]">▼</div>
+    </div>
+    <div class="flex gap-3 mt-3">
+      <button id="prev-card" class="flex-1 h-11 rounded-full border-2 border-[#A3FF5A] text-[#A3FF5A] font-bold text-[14px]">precedente</button>
+      <button id="next-card" class="flex-1 h-11 rounded-full bg-[#4CFF88] text-black font-extrabold text-[14px]">successivo</button>
+    </div>
+  </div>
+
+  <!-- CARD MINIMALISTA - SÓ PALAVRA + RISPOSTA -->
+  <div class="card p-8 text-center min-h-[360px] flex flex-col justify-center">
+    <div id="card" class="text-[48px] font-extrabold leading-tight break-words"></div>
+  </div>
+
+  <script>
+    let flashcards = {};
+    let currentGroup = null;
+    let currentCardIndex = 0;
+    let lezione = null;
+
+    function getLessonFromURL() {
+      const params = new URLSearchParams(window.location.search);
+      let lesson = params.get('lezione') || params.get('lesson');
+      if(!lesson && window.location.hash) {
+        lesson = window.location.hash.replace('#lezione-', '').replace('#lesson-', '');
+      }
+      return lesson;
+    }
+
+    function loadFlashcards(file) {
+      let reader = new FileReader();
+      reader.onload = function(event) {
+        let txt = event.target.result;
+        let lines = txt.split("\n");
+        let vocabolario = lines[0].trim();
+        lezione = lines[1].trim();
+        document.title = vocabolario;
+        txt = txt.replace(/Vocabolario/g, vocabolario);
+        txt = txt.replace(/Lezione/g, lezione);
+        let group = null;
+        let groupName = null;
+        lines = txt.split("\n");
+        flashcards = {};
+        let newFlashcards = {};
+        lines.forEach(line => {
+          if (line.match(/^(Lezione|Grupo)/)) {
+            group = line.trim();
+            let matchNum = line.trim().match(/(\d+[a-zA-Z]*)/);
+            let groupNumber = matchNum? matchNum[0] : "";
+            groupName = lezione + groupNumber;
+            flashcards[group] = [];
+            newFlashcards[groupName] = [];
+          } else if (group && line.trim()!== "") {
+            let sides = line.split("-");
+            if (sides.length === 2) {
+              flashcards[group].push({ pergunta: sides[0].trim(), risposta: sides[1].trim() });
+              newFlashcards[groupName].push({ domanda: sides[0].trim(), risposta: sides[1].trim() });
+            }
+          }
+        });
+        flashcards = newFlashcards;
+        showGroups();
+      };
+      reader.readAsText(file);
+    }
+
+    function showGroups() {
+      let groupList = document.getElementById("group-list");
+      const titulos = { "3":"L'ORA E LE PARTI DEL GIORNO","4":"I GIORNI, I MESI E LE STAGIONI","5":"GLI ANNI E I SECOLI","6":"LE FESTE LE PREPOSIZIONI","7":"LE PREPOSIZIONI","8":"LE FORME","9":"LE PERSONE","10":"LA FAMIGLIA E I PARENTI","11":"IL CORPO UMANO","12":"IL CORPO UMANO","13":"LE CARATTERISTICHE FISICHE","14":"I VESTITI","15":"GLI ACCESSORI E LE CALZATURE","16":"LA BIANCHERIA","17":"I GIOIELLI E I COSMETICI","18":"LA DESCRIZIONE DEI VESTITI E I MATERIALI","19":"LA CASA","20":"IL SOGGIORNO","21":"LA CUCINA","22":"VERBI PER LA CUCINA","23":"LA STANZA DA LETTO","24":"LA CAMERA DEL BAMBINO","25":"IL BAGNO","26":"IL RIPOSTIGLIO","27":"I LAVORI DI CASA","28":"A CASA","29":"AL SUPERMERCATO","30":"LE VERDURE","31":"LA FRUTTA","32":"I CONTENITORI","33":"I SOLDI E LA BANCA","34":"I MESTIERI","35":"IL TEMPO LIBERO","36":"GLI HOBBY","37":"GLI STRUMENTI MUSICALI","38":"GLI UTENSILI","39":"AL RISTORANTE","40":"AL BAR","41":"DAL MEDICO","42":"DAL DENTISTA","43":"LE MALATTIE","44":"I VERBI","45":"LE CURE","46":"L'OSPEDALE","47":"LA CLASSE","48":"I VERBI PER LA SCUOLA","49":"IN UFFICIO","50":"LA POSTA","51":"GLI SPORT","52":"IL CALCIO","53":"LA GIUSTIZIA","54":"LA CITTÀ","55":"L'AUTOSTRADA","56":"I SEGNALI STRADALI","57":"L'AEREOPORTO","58":"I TRASPORTI","59":"L'AUTOMOBILE","60":"LA BICICLETTA","61":"LA CAMPAGNA","62":"IL GIARDINO","63":"GLI UCCELLI","64":"GLI ANIMALI MARINI","65":"GLI ANIMALI","66":"IL MONDO","67":"L'EUROPA","68":"L'ITALIA","69":"L'UNIVERSO","70":"DESCRIZIONE DEL TEMPO","71":"LA TERRA","72":"IL MARE","73":"I COLORI" };
+      groupList.innerHTML = "";
+      Object.keys(flashcards).forEach(group => {
+        let match = group.match(/(\d+[a-zA-Z]*)/);
+        let groupNumber = match? match[0] : "";
+        let baseNumMatch = groupNumber.match(/\d+/);
+        let baseNum = baseNumMatch? baseNumMatch[0] : groupNumber;
+        let titulo = titulos[groupNumber] || titulos[baseNum] || "";
+        let option = document.createElement("option");
+        option.value = group;
+        option.text = `${group} - ${titulo}`;
+        groupList.appendChild(option);
+      });
+      document.getElementById("group-list").onchange = showFlashcards;
+      let lessonFromURL = getLessonFromURL();
+      let targetGroup = null;
+      if(lessonFromURL) targetGroup = Object.keys(flashcards).find(g => g.includes(lessonFromURL));
+      groupList.value = targetGroup || Object.keys(flashcards)[1] || Object.keys(flashcards)[0];
+      showFlashcards();
+    }
+
+    function showFlashcards() {
+      currentGroup = document.getElementById("group-list").value;
+      currentCardIndex = 0;
+      showCard();
+      let match = currentGroup.match(/(\d+[a-zA-Z]*)/);
+      if(match){
+        let lessonNum = match[0];
+        const newUrl = `${window.location.pathname}?lezione=${lessonNum}`;
+        window.history.replaceState(null, '', newUrl);
+      }
+    }
+
+    function showCard() {
+      let card = flashcards[currentGroup][currentCardIndex];
+      let progresso = ((currentCardIndex + 1) / flashcards[currentGroup].length) * 100;
+      let total = flashcards[currentGroup].length;
+      document.getElementById("progress-bar-fill").style.width = `${progresso}%`;
+      document.getElementById("progress-text").innerText = `${progresso.toFixed(2)}% • ${currentCardIndex+1} di ${total}`;
+
+      // AQUI ESTÁ A MUDANÇA: só pão grande + botão Risposta, sem tag e sem [ ]
+      document.getElementById("card").innerHTML = `
+        <div class="flex flex-col items-center justify-center w-full">
+          <p class="mb-12">${card.domanda}</p>
+          <button onclick="showAnswer()" class="w-full h-[60px] bg-[#F9E94E] rounded-[16px] text-black font-extrabold text-[22px] flex items-center justify-center gap-2 shadow-[0_0_20px_rgba(249,233,78,.4)]">
+            <span>💡</span> Risposta
+          </button>
+          <div id="answer" class="hidden mt-6 text-[28px] text-[#A3FF5A] font-bold">${card.risposta}</div>
+        </div>
+      `;
+    }
+
+    function showAnswer() {
+      let answer = document.getElementById("answer");
+      answer.classList.toggle('hidden');
+    }
+
+    function nextCard() {
+      currentCardIndex++;
+      if (currentCardIndex >= flashcards[currentGroup].length) {
+        let groups = Object.keys(flashcards);
+        let currentIndex = groups.indexOf(currentGroup);
+        currentIndex = (currentIndex === groups.length - 1)? 0 : currentIndex+1;
+        currentGroup = groups[currentIndex];
+        currentCardIndex = 0;
+        document.getElementById("group-list").value = currentGroup;
+      }
+      showCard();
+    }
+
+    function prevCard() {
+      currentCardIndex--;
+      if (currentCardIndex < 0) {
+        let groups = Object.keys(flashcards);
+        let currentIndex = groups.indexOf(currentGroup);
+        currentIndex = (currentIndex === 0)? groups.length - 1 : currentIndex-1;
+        currentGroup = groups[currentIndex];
+        currentCardIndex = flashcards[currentGroup].length - 1;
+        document.getElementById("group-list").value = currentGroup;
+      }
+      showCard();
+    }
+
+    document.getElementById("next-card").onclick = nextCard;
+    document.getElementById("prev-card").onclick = prevCard;
+
+    window.onload = function() {
+      fetch('Dizionario per imaggini.txt')
+      .then(response => response.text())
+      .then(text => {
+          let file = new File([text], 'arq.txt', { type: 'text/plain' });
+          loadFlashcards(file);
+        })
+      .catch(error => console.error('Erro ao carregar arquivo:', error));
+    }
+  </script>
+</body>
+  </html>
