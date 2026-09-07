@@ -717,12 +717,12 @@ o absorvente                                                                - l'
 o detergente                                                                - il detersivo                                                      
 espuma de barbear                                                           - la schiuma da barba                                               
 o sabão                                                                     - il sapone                                                         
-o gel de banho                                                              - il bagnoschiuma                                                   
+o sabonete líquido                                                             - il bagnoschiuma                                                   
 o desodorante                                                               - il deodorante                                                     
 o perfume                                                                   - il profumo                                                        
 a lâmina de barbear                                                         - la lametta da barba                                               
-xampu lo                                                                    - lo shampoo                                                        
-para o creme                                                                - la crema                                                          
+xampu                                                                     - lo shampoo                                                        
+creme de barbear                                                                - la crema                                                          
 a esponja                                                                   - la spugna                                                         
 o pincel                                                                    - la spazzola                                                       
 a pasta de dente                                                            - il dentifricio                                                    
