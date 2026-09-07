@@ -348,14 +348,23 @@ a adega                                                                     - la
 a persiana                                                                  - la persiana                                                       
 o telhado                                                                   - il tetto                                                          
 a calha                                                                     - la grondaia                                                       
-a lareira                                                                   - il camino                                                         
+a lareira                                                                   - il camino    
+
+a chaminé                                                                   - il
+comignolo
+
+
 o jardim                                                                    - il giardino                                                       
 o portão                                                                    - il cancello                                                       
 a grade                                                                  - la ringhiera                                                      
 o sino                                                                      - il campanello                                                     
 a caixa de correio                                                          - la cassetta delle lettere                                         
 a varanda                                                                   - il balcone                                                        
-a antena                                                                    - l'antenna                                                         
+a antena                                                                    - l'antenna
+
+poste de luz                                                                    - il lampione 
+
+
 o número da casa                                                            - il numero civico                                                  
 Grupo 19d
 as persianas                                                                - le tapparelle                                                     
