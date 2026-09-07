@@ -1,7 +1,7 @@
 Dizionario per immagini                                                                                              
 lezione                                                                                                                              
 Grupo 3
-a tarde                                                                     - il pomeriggio                                                     
+a tarde                                                                     - il pomeriggio.                                                      
 meio_dia                                                                    - mezzogiorno                                                       
 pela manhã                                                                  - il mattino                                                        
 a noite                                                                    - la sera                                                           
