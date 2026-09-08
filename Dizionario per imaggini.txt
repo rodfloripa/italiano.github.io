@@ -532,7 +532,7 @@ a balança                                                                  - la
 o bidê                                                                     - il bid                                                            
 Grupo 26
 a escada                                                                    - la scala   
-a lanterna                                                                  - la pila
+a lanterna                                                                  - la torcia
 
 a estante                                                                  - lo scaffale
 
@@ -1353,8 +1353,8 @@ a porta traseira                                                            - il
 o teto solar                                                                - il tettuccio apribile                                             
 o para-brisa                                                                - il parabrezza                                                     
 a antena                                                                    - l'antenna                                                         
-o capuz                                                                     - il cofano                                                         
-os fari\ois                                                                 - i fari                                                            
+o capô                                                                     - il cofano                                                         
+os farois                                                                 - i fari  a lanterna                                                                 - il fanale                                                          
 as luzes de posição                                                         - le luci di posizione                                              
 o para-choque traseiro                                                      - il paraurti posteriore                                            
 o para-choque dianteiro                                                     - il paraurti anteriore                                             
