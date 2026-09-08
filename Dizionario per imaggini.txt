@@ -735,11 +735,11 @@ detergente de louça                                                         - i
 Grupo 30
 a couve-flor                                                                - il cavolfiore                                                     
 alface                                                                      - la lattuga                                                        
-salada encaracolada                                                         - l'insalata riccia                                                 
+alface crespa                                                        - l'insalata riccia                                                 
 salsão                                                                      - il sedano                                                         
 a espiga de milho                                                           - la pannocchia                                                     
 espargos                                                                    - gli asparagi                                                      
-o foguete                                                                   - la rucola                                                         
+a rúcula                                                                   - la ruccola                                                         
 abacate                                                                     - l'avocado                                                         
 o tomate                                                                    - il pomodoro                                                       
 o pepino                                                                    - il cetriolo                                                       
@@ -755,7 +755,7 @@ a cebola                                                                    - la
 a cenoura                                                                   - la carota                                                         
 a acelga                                                                    - la bietola                                                        
 o grão-de-bico                                                              - i ceci                                                            
-o favorito                                                                  - le fave                                                           
+feijão-fava                                                                 - le fave                                                           
 lentilhas                                                                   - le lenticchie                                                     
 os feijões                                                                  - i fagioli                                                         
 as ervilhas                                                                 - i piselli                                                         
