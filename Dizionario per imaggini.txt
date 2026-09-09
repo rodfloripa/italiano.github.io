@@ -774,7 +774,7 @@ o melão                                                                     - i
 a noz                                                                    - la noce                                                           
 a avelã                                                                     - la nocciola                                                       
 a castanha                                                                  - la castagna                                                       
-pesca                                                                       - la pesca                                                          
+pêssego                                                                       - la pesca                                                          
 a pêra                                                                      - la pera                                                           
 as cerejas                                                                  - le ciliegie                                                       
 a banana                                                                    - la banana                                                         
