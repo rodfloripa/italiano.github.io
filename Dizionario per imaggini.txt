@@ -790,16 +790,16 @@ o pacote                                                                    - il
 o copo                                                                      - il bicchiere                                                      
 a garrafa                                                                   - la bottiglia                                                      
 o tubo                                                                      - il tubo                                                           
-a bolsa                                                                     - il sacchetto                                                      
+o saquinho                                                                     - il sacchetto                                                      
 a xícara                                                                    - la tazza                                                          
 o balde                                                                     - il secchio                                                        
-o barril                                                                    - il fustino                                                        
+o barril(pequeno)                                                                   - il fustino                                                        
 a lata de spray                                                             - la bomboletta                                                     
-a vasilha                                                                   - la tanica                                                         
+a bombona                                                                   - la tanica                                                         
 a garrafa de água                                                           - la borraccia                                                      
 o saco                                                                      - il sacco                                                          
-o vaso                                                                      - il vaso                                                           
-o tetra-pacote                                                              - il tetra-pack                                                     
+o pote                                                                      - il vaso                                                           
+o tetra-pack                                                              - il tetra-pack                                                     
 Grupo 33
 o cheque                                                                    - l'assegno                                                         
 o cartão de crédito                                                         - la carta di credito                                               
