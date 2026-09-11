@@ -346,7 +346,9 @@ Grupo 19c
 a garagem                                                                   - il garage                                                         
 a adega                                                                     - la cantina                                                        
 a persiana                                                                  - la persiana                                                       
-o telhado                                                                   - il tetto                                                          
+o telhado                                                                   - il tetto 
+a telha                                                                   - la tegola 
+
 a calha                                                                     - la grondaia                                                       
 a lareira                                                                   - il camino    
 a chaminé                                                                    - il comignolo 
