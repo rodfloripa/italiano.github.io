@@ -821,7 +821,7 @@ cem euros                                                                   - ce
 duzentos euros                                                              - duecento euro                                                     
 quinhentos euros                                                            - cinquecento euro                                                  
 Grupo 33a
-no banco                                                                    - la banca                                                          
+o banco                                                                    - la banca                                                          
 o balcão                                                                    - lo sportello                                                      
 o caixa                                                                     - il cassiere                                                       
 o caixa eletrônico                                                          - lo sportello bancomat                                             
