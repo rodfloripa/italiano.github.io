@@ -835,9 +835,9 @@ o mecânico                                                                  - i
 o barbeiro                                                                  - il barbiere                                                       
 o alfaiate                                                                  - il sarto                                                          
 o verdureiro                                                                - il fruttivendolo                                                  
-o chef pasteleiro                                                           - il pasticcere                                                     
-o oftalmologista                                                            - l'oculista                                                        
-o cabeleireiro                                                              - la parrucchiera                                                   
+o confeiteiro                                                           - il pasticcere                                                     
+o oculista                                                            - l'oculista                                                        
+a cabeleireira                                                              - la parrucchiera                                                   
 a florista                                                                  - il fiorista                                                       
 o joalheiro                                                                 - il gioielliere                                                    
 o açougueiro                                                                - il macellaio                                                      
@@ -847,16 +847,16 @@ o jardineiro                                                                - il
 o ferreiro                                                                  - il fabbro                                                         
 o eletricista                                                               - l'elettricista                                                    
 o pintor de casas                                                           - l'imbianchino                                                     
-a empregada                                                                 - la donna di servizio                                              
-o zelador                                                                   - il bidello                                                        
+a empregada                                                                 - la colf                                              
+o zelador                                                                   - il portiere/portinaio                                                        
 o entregador                                                                - il fattorino                                                      
-o trabalhador                                                               - l'operaia                                                         
+o trabalhador                                                               - l'operaio                                                         
 o fotógrafo                                                                 - il fotografo                                                      
-o modelo                                                                    - la modella                                                        
+a modelo                                                                    - la modella                                                        
 o disc jockey                                                               - il disc jockey                                                    
 a vendedora                                                                 - la commessa                                                       
 o funcionário do banco                                                      - l'impiegato di banca                                              
-o caixa                                                                     - la cassiera                                                       
+o caixa                                                                     - il cassiere                                                       
 o ator                                                                      - l'attore                                                          
 o sapateiro                                                                 - il calzolaio                                                      
 o limpador de rua                                                           - il netturbino                                                     
