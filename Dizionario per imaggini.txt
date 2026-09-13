@@ -368,7 +368,7 @@ Grupo 19d
 as persianas                                                                - le tapparelle                                                     
 o teto                                                                      - il soffitto                                                       
 a parede                                                                    - la parete                                                         
-o radiador                                                                  - il termosifone                                                    
+o aquecedor                                                                  - il termosifone                                                    
 a caldeira                                                                  - la caldaia                                                        
 o piso                                                                      - il pavimento                                                      
 o interruptor                                                               - l'interruttore                                                    
