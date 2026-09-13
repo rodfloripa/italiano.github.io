@@ -375,7 +375,10 @@ o interruptor                                                               - l'
 a porta                                                                     - la porta                                                          
 a maçaneta                                                                     - la maniglia                                                       
 a janela                                                                    - la finestra                                                       
-a tomada                                                                  - la presa                                                          
+a tomada                                                                  - la presa 
+
+o abajur                                                                  - il paralume
+
 o painel elétrico                                                           - il quadro elettrico                                               
 Grupo 20
 a moldura                                                                    - la cornice                                                        
