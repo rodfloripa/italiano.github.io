@@ -859,7 +859,7 @@ o funcionário do banco                                                      - l
 o caixa                                                                     - il cassiere                                                       
 o ator                                                                      - l'attore                                                          
 o sapateiro                                                                 - il calzolaio                                                      
-o limpador de rua                                                           - il netturbino                                                     
+o lixeiro                                                           - il netturbino                                                     
 o peixeiro                                                                  - il pescivendolo                                                   
 o bombeiro                                                                  - il pompiere                                                       
 o jornaleiro                                                                - il giornalaio                                                     
