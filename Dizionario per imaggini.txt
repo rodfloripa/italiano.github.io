@@ -355,7 +355,7 @@ a chaminé                                                                    - 
 o jardim                                                                    - il giardino                                                       
 o portão                                                                    - il cancello                                                       
 a grade                                                                  - la ringhiera                                                      
-o sino                                                                      - il campanello                                                     
+a campainha                                                                      - il campanello                                                     
 a caixa de correio                                                          - la cassetta delle lettere                                         
 a varanda                                                                   - il balcone                                                        
 a antena                                                                    - l'antenna
