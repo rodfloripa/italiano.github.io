@@ -878,10 +878,10 @@ o teatro                                                                    - il
 o cinema                                                                    - il cinema                                                         
 a biblioteca                                                                - la biblioteca                                                     
 o balé                                                                      - il balletto                                                       
-a cervejaria                                                                - la birrerial                                                      
+a cervejaria/pub                                                                - la birreria                                                      
 o bar                                                                       - il bar                                                            
 a piscina                                                                   - la piscina                                                        
-ii concerto rock                                                            - ii concerto rock                                                  
+o concerto de rock                                                            - il concerto rock                                                  
 a academia                                                                  - la palestra                                                       
 a pizzaria                                                                  - la pizzeria                                                       
 a festa                                                                     - la festa                                                          
