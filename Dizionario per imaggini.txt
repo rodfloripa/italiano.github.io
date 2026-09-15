@@ -888,22 +888,22 @@ a festa                                                                     - la
 Grupo 36
 a coleção de selos                                                          - la collezione di francobolli                                      
 a coleção de moedas                                                         - la collezione di monete                                           
-para a foto                                                                 - la fotografia                                                     
-o objetivo                                                                  - l'obiettivo                                                       
+a fotografia                                                                 - la fotografia                                                     
+a objetiva                                                                  - l'obiettivo                                                       
 flash                                                                       - il flash                                                          
 o rolo de filme                                                             - il rullino                                                        
 o projetor de slides                                                        - il proiettore di diapositive                                      
-o diapositivo                                                               - le diapositive                                                    
+os diapositivos                                                               - le diapositive                                                    
 a câmera de vídeo                                                           - la videocamera                                                    
 astronomia                                                                  - l'astronomia                                                      
 o telescópio                                                                - il telescopio                                                     
 observação de pássaros                                                      - il bird-watching                                                  
 o telescópio                                                                - il cannocchiale                                                   
 pesca                                                                       - la pesca                                                          
-o barril                                                                    - la canna                                                          
-eu amo ela                                                                  - l'amo                                                             
+a varanda de pesca                                                                    - la canna di pesca                                                        
+o anzol                                                                  - l'amo                                                             
 a linha de pesca                                                            - la lenza                                                          
-o flutuador                                                                 - il galleggiante                                                   
+a boia de pesca                                                                 - il galleggiante                                                   
 a caça                                                                      - la caccia                                                         
 a pintura                                                                   - la pittura                                                        
 a escultura                                                                 - la scultura                                                       
@@ -911,7 +911,7 @@ cerâmica                                                                    - l
 tricô                                                                       - il lavoro a maglia                                                
 de costura                                                                  - il cucito                                                         
 a máquina de costura                                                        - la macchina da cucire                                             
-lago                                                                        - l'ago                                                             
+a agulha                                                                        - l'ago                                                             
 o fio                                                                       - il filo                                                           
 o bordado                                                                   - il ricamo                                                         
 a cozinha                                                                   - la cucina                                                         
@@ -919,7 +919,7 @@ jardinagem                                                                  - il
 a dança                                                                     - il ballo                                                          
 tocar um instrumento musical                                                - suonare uno strumento musicale                                    
 faça você mesmo                                                             - il fai da te                                                      
-a música                                                                    - il canto                                                          
+o canto                                                                    - il canto                                                          
 Grupo 37
 o violino                                                                   - il violino                                                        
 a guitarra                                                                  - la chitarra                                                       
