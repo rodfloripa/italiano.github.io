@@ -893,14 +893,14 @@ a objetiva                                                                  - l'
 flash                                                                       - il flash                                                          
 o rolo de filme                                                             - il rullino                                                        
 o projetor de slides                                                        - il proiettore di diapositive                                      
-os diapositivos                                                               - le diapositive                                                    
+os slides                                                               - le diapositive                                                    
 a câmera de vídeo                                                           - la videocamera                                                    
 astronomia                                                                  - l'astronomia                                                      
 o telescópio                                                                - il telescopio                                                     
 observação de pássaros                                                      - il bird-watching                                                  
-o telescópio                                                                - il cannocchiale                                                   
+a luneta                                                                - il cannocchiale                                                   
 pesca                                                                       - la pesca                                                          
-a varanda de pesca                                                                    - la canna di pesca                                                        
+a vara de pesca                                                                    - la canna di pesca                                                        
 o anzol                                                                  - l'amo                                                             
 a linha de pesca                                                            - la lenza                                                          
 a boia de pesca                                                                 - il galleggiante                                                   
@@ -909,7 +909,7 @@ a pintura                                                                   - la
 a escultura                                                                 - la scultura                                                       
 cerâmica                                                                    - la ceramica                                                       
 tricô                                                                       - il lavoro a maglia                                                
-de costura                                                                  - il cucito                                                         
+costurar                                                                  - il cucito                                                         
 a máquina de costura                                                        - la macchina da cucire                                             
 a agulha                                                                        - l'ago                                                             
 o fio                                                                       - il filo                                                           
