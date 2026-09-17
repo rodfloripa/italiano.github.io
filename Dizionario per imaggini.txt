@@ -936,15 +936,15 @@ o trombone                                                                  - il
 a bateria                                                                   - la batteria                                                       
 Grupo 38
 o martelo                                                                   - il martello                                                       
-a colheita                                                                  - la sega                                                           
-a braçadeira                                                                - la pinza                                                          
+o serrote                                                                  - la sega a mano                                                          
+o alicate                                                                - la pinza                                                          
 a chave de fenda                                                            - il cacciavite                                                     
-o rápido                                                                    - la vite                                                           
-o parafuso                                                                  - il bullone                                                        
-o dado                                                                      - il dado                                                           
+o parafuso                                                                    - la vite                                                           
+o parafuso grande                                                                 - il bullone                                                        
+a porca                                                                      - il dado                                                           
 o prego                                                                     - il chiodo                                                         
-o medidor                                                                   - il metro                                                          
-o aperto                                                                    - la morsa                                                          
+a trena                                                                   - il metro                                                          
+o torno                                                                    - la morsa                                                          
 Grupo 39
 comer                                                                       - mangiare                                                          
 beber                                                                       - bere                                                              
