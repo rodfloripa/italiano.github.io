@@ -1686,3 +1686,50 @@ o salva-vidas                                                               - il
 o traje                                                                     - il costume                                                        
 o pedal                                                                     - il pedal                                                          
 a cabine                                                                    - la cabina                                                         
+Grupo 73
+a panturrilha                                                                - il polpaccio
+o dedão do pé                                                                - l'alluce
+os cílios                                                                    - le ciglia
+as luvas                                                                     - i guanti
+o suéter                                                                     - il maglione
+a lapela                                                                     - il bavero
+o macacão                                                                    - la tuta
+a maleta                                                                     - la valigetta
+o roupão                                                                     - l'accappatoio
+a pulseira                                                                   - il braccialetto
+o sótão                                                                      - la soffitta
+a adega                                                                      - la cantina
+o abajur                                                                     - l'abat-jour
+o lustre                                                                     - il lampadario
+a tesoura de aves                                                            - il trinciapollo
+o ralador                                                                    - la grattugia
+o avental                                                                    - il grembiule
+fatiar                                                                       - affettare
+picar                                                                        - tritare / sminuzzare / trinciare / spezzettare / tagliuzzare
+moer                                                                         - macinare
+a fronha                                                                     - la federa
+o estrado                                                                    - la rete del letto
+a chupeta                                                                    - il ciuccio
+o balanço                                                                    - l'altalena
+o andador de bebê                                                            - il girello
+o quebra-cabeça                                                              - il puzzle
+a tampa                                                                      - il tappo / il coperchio
+o papel toalha                                                               - la carta da cucina
+o vassourão                                                                  - lo spazzolone
+a sapateira                                                                  - la scarpiera
+tirar o pó                                                                   - spolverare
+a caixa                                                                      - la scatola
+a caixa registradora                                                         - il registratore di cassa
+o bezerro                                                                    - il vitello
+o bife                                                                       - la bistecca
+o pão grande                                                                 - il filone
+a mini baguete                                                               - lo sfilatino
+os palitos de pão                                                            - i grissini
+as toalhas de papel                                                          - gli asciugamani di carta
+o lenço                                                                      - il fazzoletto
+o salsão                                                                     - il sedano
+a framboesa                                                                  - il lampone
+a groselha                                                                   - il ribes
+o barril pequeno                                                             - il fustino
+o verdureiro                                                                 - il fruttivendolo
+o carpinteiro                                                                - il falegname
