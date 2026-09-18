@@ -952,7 +952,7 @@ Grupo 39
 comer                                                                       - mangiare                                                          
 beber                                                                       - bere                                                              
 servir                                                                      - servire                                                           
-colocar em ordem                                                            - ordinare                                                          
+pedir.                                                                    - ordinare                                                          
 colocar a mesa                                                              - apparecchiare                                                     
 o cardápio                                                                  - il menu                                                           
 a carta de vinhos                                                           - la lista dei vini                                                 
