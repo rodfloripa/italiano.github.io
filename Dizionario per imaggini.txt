@@ -960,7 +960,7 @@ o garçom                                                                    - i
 o cozinheiro                                                                - il cuoco                                                          
 a conta                                                                     - il conto                                                          
 pagar                                                                       - pagare                                                            
-colocar no caixa                                                            - incassare                                                         
+receber                                                                    - incassare                                                         
 Grupo 40
 o saca-rolhas                                                               - il cavatappi                                                      
 a tampa                                                                     - il tappo                                                          
