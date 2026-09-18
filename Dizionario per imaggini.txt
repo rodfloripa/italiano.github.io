@@ -1697,7 +1697,7 @@ o macacão                                                                    - 
 a maleta                                                                     - la valigetta
 o roupão                                                                     - l'accappatoio
 a pulseira                                                                   - il braccialetto
-o sótão                                                                      - la soffitta
+o sótão                                                                      - la soffitta/mansarda 
 a adega                                                                      - la cantina
 o abajur                                                                     - l'abat-jour
 o lustre                                                                     - il lampadario
@@ -1705,7 +1705,7 @@ a tesoura de aves                                                            - i
 o ralador                                                                    - la grattugia
 o avental                                                                    - il grembiule
 fatiar                                                                       - affettare
-picar                                                                        - tritare / sminuzzare / trinciare / spezzettare / tagliuzzare
+picar                                                                        - spezzettare / tagliuzzare
 moer                                                                         - macinare
 a fronha                                                                     - la federa
 o estrado                                                                    - la rete del letto
@@ -1714,7 +1714,7 @@ o balanço                                                                    - 
 o andador de bebê                                                            - il girello
 o quebra-cabeça                                                              - il puzzle
 a tampa                                                                      - il tappo / il coperchio
-o papel toalha                                                               - la carta da cucina
+o papel toalha                                                               - la salvietta 
 o vassourão                                                                  - lo spazzolone
 a sapateira                                                                  - la scarpiera
 tirar o pó                                                                   - spolverare
