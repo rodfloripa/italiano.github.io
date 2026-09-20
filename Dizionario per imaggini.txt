@@ -995,11 +995,11 @@ a bebida                                                                    - la
 suco de frutas                                                              - il succo di frutta                                                
 Grupo 41
 a clínica                                                                   - l'ambulatorio                                                     
-o berço                                                                     - il lettino                                                        
+a maca                                                                     - il lettino                                                        
 a muleta                                                                    - la stampella                                                      
 o estetoscópio                                                              - lo stetoscopio                                                    
-a pasta clínica                                                             - la cartella clinical                                              
-a visita médica                                                             - la visita medica                                                  
+o prontuário                                                             - la cartella clinica                                              
+a consulta médica                                                             - la visita medica                                                  
 a receita                                                                   - la ricetta                                                        
 o médico                                                                    - il dottore                                                        
 o paciente                                                                  - il paziente                                                       
