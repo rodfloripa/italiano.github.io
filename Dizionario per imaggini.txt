@@ -1011,8 +1011,8 @@ a pia                                                                       - il
 o dentista                                                                  - il dentista                                                       
 o assistente de saúde                                                       - l'assistente sanitaria                                            
 a poltrona                                                                  - la poltrona                                                       
-cárie                                                                       - la carie                                                          
-o recheio                                                                   - l'otturazione                                                     
+a cárie                                                                       - la carie                                                          
+a obturação                                                                    - l'otturazione                                                     
 Grupo 43
 a febre                                                                     - la febbre                                                         
 a picada de inseto                                                          - la puntura d'insetto                                              
