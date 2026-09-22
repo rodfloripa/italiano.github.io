@@ -1029,7 +1029,11 @@ o corte                                                                     - il
 o hematoma                                                                  - il livido                                                         
 a queimadura                                                                - la bruciatura                                                     
 a fratura                                                                   - la frattura                                                       
-problemas de visão                                                          - i problemi della vista                                            
+problemas de visão                                                          - i problemi della vista
+o sarampo                                                                   - il morbillo
+a caxumba                                                                   - la parotite
+a rubéola                                                                   - la rosolia
+a dengue                                                                    - la dengue
 Grupo 44
 ficar doente                                                                - ammalarsi                                                         
 cura                                                                        - curare                                                            
@@ -1733,3 +1737,8 @@ a groselha                                                                   - i
 o barril pequeno                                                             - il fustino
 o verdureiro                                                                 - il fruttivendolo
 o carpinteiro                                                                - il falegname
+o prontuário                                                                 - la cartella clinica
+a maca                                                                       - il lettino
+o sarampo                                                                    - il morbillo
+a caxumba                                                                    - la parotite
+a rubéola                                                                    - la rosolia
