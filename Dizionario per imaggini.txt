@@ -1711,6 +1711,7 @@ o lustre                                                                     - i
 a tesoura de aves                                                            - il trinciapollo
 o ralador                                                                    - la grattugia
 o avental                                                                    - il grembiule
+o saca-rolhas                                                                    - il cavatappi
 fatiar                                                                       - affettare
 picar                                                                        - spezzettare / tagliuzzare
 moer                                                                         - macinare
