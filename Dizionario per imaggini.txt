@@ -1043,7 +1043,7 @@ sentir-se mal                                                               - st
 sentir-se bem                                                          - stare bene                                                        
 curar                                                                       - guarire                                                           
 prescrever                                                                  - prescrivere                                                       
-hospitalizar                                                                - ricoverare                                
+internar-se                                                                - ricoverasi                                
 
 receber alta                                                                - ricevere la dimissione 
 
@@ -1741,6 +1741,7 @@ a groselha                                                                   - i
 o barril pequeno                                                             - il fustino
 o verdureiro                                                                 - il fruttivendolo
 o carpinteiro                                                                - il falegname
+a chave de fenda                                                                 - il cacciavite 
 o prontuário                                                                 - la cartella clinica
 a maca                                                                       - il lettino
 o sarampo                                                                    - il morbillo
