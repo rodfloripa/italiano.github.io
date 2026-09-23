@@ -1036,14 +1036,17 @@ a rubéola                                                                   - l
 a dengue                                                                    - la dengue
 Grupo 44
 ficar doente                                                                - ammalarsi                                                         
-cura                                                                        - curare                                                            
-vacinação                                                                   - vaccinare                                                         
-consulta medica                                                             - visitare                                                          
+curar                                                                        - curare                                                            
+vacinar                                                                   - vaccinare                                                         
+consulta medica                                                             - visita medica                                                          
 sentir-se mal                                                               - stare male                                                        
-para se sentir bem                                                          - stare bene                                                        
+sentir-se bem                                                          - stare bene                                                        
 curar                                                                       - guarire                                                           
 prescrever                                                                  - prescrivere                                                       
-hospitalizar                                                                - ricoverare                                                        
+hospitalizar                                                                - ricoverare                                
+
+receber alta                                                                - ricevere la dimissione 
+
 pronto socorro                                                              - pronto soccorso                                                   
 Grupo 45
 a bolsa de gelo                                                             - la borsa del ghiaccio                                             
