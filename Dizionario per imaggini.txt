@@ -1041,7 +1041,7 @@ vacinar                                                                   - vacc
 consulta medica                                                             - visita medica                                                          
 sentir-se mal                                                               - stare male                                                        
 sentir-se bem                                                          - stare bene                                                        
-curar                                                                       - guarire                                                           
+curar-se                                                                       - guarire                                                           
 prescrever                                                                  - prescrivere                                                       
 internar-se                                                                - ricoverasi                                
 
@@ -1054,8 +1054,7 @@ a pílula                                                                    - l
 a injeção                                                                   - l'iniezione                                                       
 a pomada                                                                    - la pomata                                                         
 o colírio                                                                   - il collirio                                                       
-o xarope para o                                                             - lo sciroppo per la                                                
-os óculos                                                                   - gli occhiali                                                      
+o xarope                                                              - lo sciroppo                                            os óculos                                                                   - gli occhiali                                                      
 lentes de contato                                                           - le lenti a contatto                                               
 Grupo 46
 a pessoa doente                                                             - il malato                                                         
