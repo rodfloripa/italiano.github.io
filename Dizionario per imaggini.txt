@@ -1059,8 +1059,8 @@ lentes de contato                                                           - le
 Grupo 46
 a pessoa doente                                                             - il malato                                                         
 a sala de emergência                                                        - il pronto soccorso                                                
-a fasixa                                                                    - la fascial                                                        
-o patch                                                                     - il cerotto                                                        
+a faixa                                                                    - la fascia                                                        
+a atadura                                                                     - il cerotto                                                        
 o gesso                                                                     - il gesso                                                          
 a maca                                                                      - la barella                                                        
 os pontos                                                                   - i punti                                                           
@@ -1072,7 +1072,7 @@ a seringa                                                                   - la
 a enfermeira                                                                - l'infermiere                                                      
 o médico de plantão                                                         - il medico di guardia                                              
 o radiologista                                                              - il radiologo                                                      
-na radiografia                                                              - la radiografia                                                    
+a radiografia                                                              - la radiografia                                                    
 a sala de cirurgia                                                          - la sala operatoria                                                
 o cirurgião                                                                 - il chirurgo                                                       
 a operação cirúrgica                                                        - l'operazione chirurgica                                           
