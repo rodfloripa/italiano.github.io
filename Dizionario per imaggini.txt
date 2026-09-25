@@ -1062,7 +1062,7 @@ a sala de emergência                                                        - i
 a faixa                                                                    - la fascia                                                        
 a atadura                                                                - la benda /bandaggio /fasciatura 
 
-o curativo                                                                     - il cerotto
+o band aid                                                                     - il cerotto
 
 fazer um curativo                                                           - fare una medicazione
 
