@@ -1060,7 +1060,12 @@ Grupo 46
 a pessoa doente                                                             - il malato                                                         
 a sala de emergência                                                        - il pronto soccorso                                                
 a faixa                                                                    - la fascia                                                        
-a atadura                                                                     - il cerotto                                                        
+a atadura                                                                     - la benda/bandaggio/fasciatura 
+
+o curativo                                                                     - il cerotto
+
+fazer um curativo                                                           - fare una medicazione
+
 o gesso                                                                     - il gesso                                                          
 a maca                                                                      - la barella                                                        
 os pontos                                                                   - i punti                                                           
