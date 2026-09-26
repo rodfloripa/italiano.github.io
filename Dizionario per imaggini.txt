@@ -1089,14 +1089,14 @@ a calculadora                                                               - la
 o professor                                                                 - l'insegnante                                                      
 a cadeira                                                                   - la cattedra                                                       
 o quadro negro                                                              - la lavagna                                                        
-o aluno                                                                     - la studentessa                                                    
-a borracha                                                                  - il cancellino                                                     
+a aluna                                                                     - la studentessa                                                    
+o apagador                                                                  - il cancellino                                                     
 o giz                                                                       - il gesso                                                          
 o desenho                                                                   - il disegno                                                        
 folhas                                                                      - i fogli                                                           
 o caderno                                                                   - il quaderno                                                       
 o banco                                                                     - il banco                                                          
-alunos                                                                      - lo studenter                                                      
+                                        
 o apontador de lápis                                                        - il tempera matite                                                 
 a borracha                                                                  - la gomma                                                          
 a caneta                                                                    - la penna                                                          
