@@ -1102,7 +1102,9 @@ a borracha                                                                  - la
 a caneta                                                                    - la penna                                                          
 a equipe                                                                    - la squadra                                                        
 o lápis                                                                     - la matita                                                         
-o livro                                                                     - il libro                                                          
+o livro                                                                     - il libro 
+o grampeador                                                                    - la cucitrice
+
 Grupo 48
 levante a mão                                                               - alzare la mano                                                    
 apagar                                                                      - cancellare                                                        
