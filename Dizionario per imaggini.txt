@@ -1087,7 +1087,7 @@ Grupo 47
 o mapa                                                                      - la cartina                                                        
 a calculadora                                                               - la calcolatrice                                                   
 o professor                                                                 - l'insegnante                                                      
-a cadeira                                                                   - la cattedra                                                       
+a cadeira/cargo de prof.                                                                  - la cattedra                                                       
 o quadro negro                                                              - la lavagna                                                        
 a aluna                                                                     - la studentessa                                                    
 o apagador                                                                  - il cancellino                                                     
