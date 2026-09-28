@@ -1127,7 +1127,7 @@ o porta-canetas                                                             - il
 pasta de argolas                                                              - il raccoglitore                                                   
 a tela                                                                      - lo schermo                                                        
 a impressora                                                                - la stampante                                                      
-a mesa                                                                      - la scrivania                                                      
+a mesa de escritório                                                                       - la scrivania                                                      
 as gavetas                                                                  - i cassetti                                                        
 mouse                                                                      - il mouse                                                          
 o teclado                                                                   - la tastiera                                                       
