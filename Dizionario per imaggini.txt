@@ -1106,7 +1106,7 @@ o livro                                                                     - il
 o grampeador                                                                    - la cucitrice
 
 Grupo 48
-levante a mão                                                               - alzare la mano                                                    
+levantar a mão                                                               - alzare la mano                                                    
 apagar                                                                      - cancellare                                                        
 falar                                                                       - parlare                                                           
 ler                                                                         - leggere                                                           
@@ -1122,9 +1122,9 @@ Grupo 49
 o ar condicionado                                                           - l'aria condizionata                                               
 o gabinete                                                                  - l'armadietto                                                      
 a máquina de escrever                                                       - la macchina da scrivere                                           
-os pinos                                                                    - le puntine                                                        
+as tachinhas                                                                    - le puntine                                                        
 o porta-canetas                                                             - il portapenne                                                     
-o colecionador                                                              - il raccoglitore                                                   
+pasta de argolas                                                              - il raccoglitore                                                   
 a tela                                                                      - lo schermo                                                        
 a impressora                                                                - la stampante                                                      
 a mesa                                                                      - la scrivania                                                      
