@@ -454,7 +454,10 @@ a superfície de trabalho                                                    - l
 a panela de pressão                                                         - la pentola a pressione                                            
 o avental                                                                   - il grembiule                                                      
 a torneira                                                                  - il rubinetto                                                      
-a assadeira                                                                 - la pirofila                                                       
+a assadeira                                                                 - la pirofila   
+
+petiscos                                                                 - snack/stuzzichini  
+
 Grupo 22
 misturar                                                                    - mescolare                                                         
 grelhar                                                                     - grattugiare                                                       
@@ -1142,7 +1145,7 @@ o pacote                                                                    - il
 o cartão postal                                                             - la cartolina                                                      
 o expresso                                                                  - l'espresso                                                        
 o envelope                                                                  - la busta                                                          
-a carta pelo ar                                                             - la lettera via aerea                                              
+a carta via aerea                                                            - la lettera via aerea                                              
 o destinatário                                                              - il destinatario                                                   
 o endereço                                                                  - l'indirizzo                                                       
 o código postal                                                             - il codice postale                                                 
