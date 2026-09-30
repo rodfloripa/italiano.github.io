@@ -1154,16 +1154,16 @@ Grupo 51
 basquetebol                                                                 - la pallacanestro                                                  
 beisebol                                                                    - il baseball                                                       
 a luta                                                                      - la lotta                                                          
-ele pratica windsurf                                                        - il windsurf                                                       
+windsurf                                                        - il windsurf                                                       
 levantamento de peso                                                        - il sollevamento pesi                                              
-bob                                                                        - il bob                                                            
+bobsled                                                                        - il bob                                                            
 surf                                                                        - il surf                                                           
 arco e flecha                                                               - il tiro con l'arco                                                
 natação                                                                     - il nuoto                                                          
 boliche                                                                     - il bowling                                                        
 boxe                                                                        - il pugilato                                                       
 ciclismo                                                                    - il ciclismo                                                       
-esquiar                                                                     - lo sci                                                            
+esqui                                                                     - lo sci                                                            
 esqui aquático                                                              - lo sci d'acqua                                                    
 rúgbi                                                                       - il rugby                                                          
 esgrima                                                                     - la scherma                                                        
@@ -1177,13 +1177,13 @@ o motocross                                                                 - il
 o lançamento de dardo                                                       - il lancio del giavellotto                                         
 a corrida                                                                   - la corsa                                                          
 montanhismo                                                                 - l'alpinismo                                                       
-ii patinação                                                                - ii pattinaggio                                                    
+patinação                                                                - il pattinaggio                                                    
 ginástica                                                                   - la ginnastica                                                     
-a pista de obstáculos                                                       - la corsa a ostacoli                                               
+corrida com barreiras                                                       - la corsa a ostacoli                                               
 judo                                                                        - il judo                                                           
-corridas de cavalos                                                         - l'ippica                                                          
+hipismo                                                         - l'equitazione                                                          
 a maratona                                                                  - la maratona                                                       
-o quilate                                                                   - il karat                                                          
+o karate                                                                   - il karatè                                                          
 o tênis                                                                     - il tennis                                                         
 o mergulho                                                                  - il tuffo                                                          
 motociclismo                                                                - il motociclismo                                                   
