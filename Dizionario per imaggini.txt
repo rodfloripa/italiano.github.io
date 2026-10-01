@@ -1190,21 +1190,29 @@ motociclismo                                                                - il
 esqui cross-country                                                         - lo sci di fondo                                                   
 Grupo 52
 o goleiro                                                                   - il portiere                                                       
-o defensor                                                                  - il difensore                                                      
+o zagueiro                                                                  - il difensore                                                      
 o meio-campista                                                             - il centrocampista                                                 
 o atacante                                                                  - l'attaccante                                                      
 o árbitro                                                                   - l'arbitro                                                         
 o círculo central                                                           - il cerchio del centro                                             
 o escanteio                                                                 - il calcio d'angolo                                                
 o disco                                                                     - il dischetto                                                      
-a área de grande penalidade                                                 - l'area di rigore                                                  
-a área do gol                                                               - l'area di porta                                                   
-o resultado final                                                           - la linea di fondo                                                 
+a área                                                  - l'area di rigore                                                  
+pequena área                                                                - l'area di porta                                                   
+linha de fundo                                                          - la linea di fondo                                                 
 a bandeira                                                                  - la bandierina                                                     
-os fãs                                                                      - i tifosi                                                          
+a torcida                                                                     - i tifosi                                                          
 o treinador                                                                 - l'allenatore                                                      
 a reserva                                                                   - la riserva                                                        
-o bandeirinha                                                               - il guardalinee                                                    
+a derrota                                                               - la sconfita 
+
+falta                                                               - il fallo
+
+cabecear                                                               - colpire di testa
+
+carrinho                                                               - la scivolata
+
+o lançamento                                                               - il lancio lungo
 Grupo 52a
 o gol                                                                       - la porta                                                          
 o poste                                                                     - il palo                                                           
