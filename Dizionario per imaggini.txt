@@ -1212,14 +1212,10 @@ drible                                                                      -il 
 caneta                                                                      - il tunnel
 falta                                                                       - il fallo
 impedimento                                                                 - il fuorigioco
-tiro di meta                                                                -rinvio dal fondo
+tiro de meta                                                                -rinvio dal fondo
 lateral                                                                     -rimessa laterale
-
-
 cabecear                                                               - colpire di testa
-
 carrinho                                                               - la scivolata
-
 o lançamento                                                               - il lancio lungo
 Grupo 52a
 o gol                                                                       - la porta                                                          
@@ -1772,3 +1768,16 @@ a maca                                                                       - i
 o sarampo                                                                    - il morbillo
 a caxumba                                                                    - la parotite
 a rubéola                                                                    - la rosolia
+a derrota                                                                   - la sconfita 
+o chute                                                                     - il tiro
+penalti                                                                     - il rigore
+empate                                                                      - il pareggio
+drible                                                                      -il dribbing
+caneta                                                                      - il tunnel
+falta                                                                       - il fallo
+impedimento                                                                 - il fuorigioco
+tiro de meta                                                                -rinvio dal fondo
+lateral                                                                     -rimessa laterale
+cabecear                                                                   - colpire di testa
+carrinho                                                                   - la scivolata
+o lançamento                                                               - il lancio lungo
