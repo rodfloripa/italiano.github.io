@@ -1195,18 +1195,26 @@ o meio-campista                                                             - il
 o atacante                                                                  - l'attaccante                                                      
 o árbitro                                                                   - l'arbitro                                                         
 o círculo central                                                           - il cerchio del centro                                             
-o escanteio                                                                 - il calcio d'angolo                                                
+o escanteio                                                                 - il calcio d'angolo/corner                                                
 o disco                                                                     - il dischetto                                                      
-a área                                                  - l'area di rigore                                                  
+a área                                                                      - l'area di rigore                                                  
 pequena área                                                                - l'area di porta                                                   
-linha de fundo                                                          - la linea di fondo                                                 
+linha de fundo                                                              - la linea di fondo                                                 
 a bandeira                                                                  - la bandierina                                                     
-a torcida                                                                     - i tifosi                                                          
+a torcida                                                                   - i tifosi                                                          
 o treinador                                                                 - l'allenatore                                                      
 a reserva                                                                   - la riserva                                                        
-a derrota                                                               - la sconfita 
+a derrota                                                                   - la sconfita 
+o chute                                                                     - il tiro
+penalti                                                                     - il rigore
+empate                                                                      - il pareggio
+drible                                                                      -il dribbing
+caneta                                                                      - il tunnel
+falta                                                                       - il fallo
+impedimento                                                                 - il fuorigioco
+tiro di meta                                                                -rinvio dal fondo
+lateral                                                                     -rimessa laterale
 
-falta                                                               - il fallo
 
 cabecear                                                               - colpire di testa
 
