@@ -1222,10 +1222,10 @@ carrinho                                                               - la sciv
 o lançamento                                                               - il lancio lungo
 Grupo 52a
 o gol                                                                       - la porta                                                          
-o poste                                                                     - il palo                                                           
-na trave                                                                    - la traversa                                                       
+a trave                                                                    - il palo                                                           
+travessão                                                                    - la traversa                                                       
 a rede                                                                      - la rete                                                           
-o assobiador                                                                - il fischiettor                                                    
+o apito                                                                - il fischietto                                                    
 a bola                                                                      - il pallone                                                        
 Grupo 53
 a delegacia de polícia                                                      - la stazione di polizia                                            
