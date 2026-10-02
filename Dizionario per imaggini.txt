@@ -373,7 +373,10 @@ o teto                                                                      - il
 a parede                                                                    - la parete                                                         
 o aquecedor                                                                  - il termosifone                                                    
 a caldeira                                                                  - la caldaia                                                        
-o piso                                                                      - il pavimento                                                      
+o piso laminado                                                                     - il pavimento laminato   
+
+o taco(piso)                                                                     - il parquet
+
 o interruptor                                                               - l'interruttore                                                    
 a porta                                                                     - la porta                                                          
 a maçaneta                                                                     - la maniglia                                                       
