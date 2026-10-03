@@ -1230,8 +1230,8 @@ a bola                                                                      - il
 Grupo 53
 a delegacia de polícia                                                      - la stazione di polizia                                            
 a prisão                                                                    - la prigione                                                       
-o detetive                                                                  - l'investigatore                                                   
-o controlador                                                               - le manette                                                        
+o investigador                                                                 - l'investigatore                                                   
+as algemas                                                               - le manette                                                        
 o distintivo                                                                - il distintivo                                                     
 a sirene                                                                    - la sirena                                                         
 a patrulha                                                                  - la pattuglia                                                      
