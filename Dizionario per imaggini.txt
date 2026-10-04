@@ -1243,7 +1243,7 @@ Grupo 53a
 o juiz                                                                      - il giudice                                                        
 a testemunha                                                                - il testimone                                                      
 o réu                                                                       - l'imputato                                                        
-o promotor público                                                          - il pubblico minist                                                
+o ministério público                                                          - il pubblico ministero                                               
 o júri                                                                      - la giuria                                                         
 o advogado de defesa                                                        - l'avvocato difensore                                              
 impressões digitais                                                         - le impronte digitali                                              
