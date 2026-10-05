@@ -1251,7 +1251,7 @@ Grupo 54
 a faixa de pedestres                                                        - l'attraversamento pedonale                                        
 a calçada                                                                   - il marciapiede                                                    
 a cabine telefônica                                                         - la cabina telefonica                                              
-os correios                                                                 - l'ufficio postale                                                 
+o correio                                                                   - l'ufficio postale                                                 
 o guarda de trânsito                                                        - il vigile                                                         
 a encruzilhada                                                              - l'incrocio                                                        
 o pedestre                                                                  - il pedone                                                         
@@ -1263,7 +1263,7 @@ o estacionamento                                                            - il
 o semáforo                                                                  - il semaforo                                                       
 a fonte                                                                     - la fontana                                                        
 o monumento                                                                 - il monumento                                                      
-a prefeitura                                                                - il municipio                                                      
+a prefeitura                                                                - il municipio/il comune                                                      
 a igreja                                                                    - la chiesa                                                         
 o castelo                                                                   - il castello                                                       
 o quadrado                                                                  - la piazza                                                         
@@ -1271,10 +1271,13 @@ o centro comercial                                                          - il
 a iluminação                                                                - l'illuminazione                                                   
 a rua                                                                       - la strada                                                         
 o bueiro                                                                    - il tombino                                                        
-a transição para                                                            - il passaggio a                                                    
+cruzamento com trilho                                                       - il passaggio a livello 
+o trilho                                                                    - il binario/la rotaia
 a rotatória                                                                 - la rotonda                                                        
 a ponte                                                                     - il ponte                                                          
-a passagem subterrânea                                                      - il sottopassaggio                                                 
+a passagem subterrânea                                                      - il sottopassaggio
+sistema de esgoto                                                           -il sistema fognario
+patinete                                                                    -il monopatino
 Grupo 55
 a pista                                                                     - la corsia                                                         
 o jardim público                                                            - il giardino pubblico                                              
