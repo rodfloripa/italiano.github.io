@@ -1266,7 +1266,7 @@ o monumento                                                                 - il
 a prefeitura                                                                - il municipio/il comune                                                      
 a igreja                                                                    - la chiesa                                                         
 o castelo                                                                   - il castello                                                       
-o quadrado                                                                  - la piazza                                                         
+a praça                                                                     - la piazza                                                         
 o centro comercial                                                          - il centro commerciale                                             
 a iluminação                                                                - l'illuminazione                                                   
 a rua                                                                       - la strada                                                         
@@ -1787,3 +1787,14 @@ lateral                                                                     -rim
 cabecear                                                                   - colpire di testa
 carrinho                                                                   - la scivolata
 o lançamento                                                               - il lancio lungo
+
+a faixa de pedestres                                                        - l'attraversamento pedonale                                        
+o correio                                                                   - l'ufficio postale                                                 
+o guarda de trânsito                                                        - il vigile                                                         
+a lixeira                                                                   - il cestino dei rifiuti                                            
+a prefeitura                                                                - il municipio/il comune                                                      
+o bueiro                                                                    - il tombino                                                        
+cruzamento com trilho                                                       - il passaggio a livello 
+o trilho                                                                    - il binario/la rotaia
+sistema de esgoto                                                           -il sistema fognario
+patinete 
