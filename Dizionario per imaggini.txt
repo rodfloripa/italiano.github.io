@@ -1284,14 +1284,14 @@ o jardim público                                                            - i
 a estação de trem                                                           - la stazione ferroviaria                                           
 a rodovia                                                                   - l'autostrada                                                      
 a rampa                                                                     - la rampa                                                          
-a estrada elevada                                                           - la sopraelevata                                                   
+o elevado                                                           - la sopraelevata                                                   
 a linha central                                                             - la riga di mezzeria                                               
 a via rápida                                                                - la corsia di sorpasso                                             
 a faixa para tráfego normal                                                 - la corsia per il traffico normale                                 
 a faixa para tráfego lento                                                  - la corsia per il traffico lento                                   
 o posto de gasolina                                                         - la stazione di servizio                                           
 o frentista                                                                 - il benzinaio                                                      
-a bomba de gasolina                                                         - la pompa della benzinal                                           
+a bomba de gasolina                                                         - la pompa della benzina                                          
 o guarda-corpo                                                              - il guardrail                                                      
 a curva                                                                     - la curva                                                          
 a cabine de pedágio                                                         - il casello                                                        
@@ -1798,3 +1798,5 @@ cruzamento com trilho                                                       - il
 o trilho                                                                    - il binario/la rotaia
 sistema de esgoto                                                           -il sistema fognario
 patinete 
+                                  -il
+monopatino
