@@ -1276,6 +1276,9 @@ o trilho                                                                    - il
 a rotatória                                                                 - la rotonda                                                        
 a ponte                                                                     - il ponte                                                          
 a passagem subterrânea                                                      - il sottopassaggio
+
+passarela                                                      - la passerella pedonale 
+
 sistema de esgoto                                                           -il sistema fognario
 patinete                                                                    -il monopatino
 Grupo 55
