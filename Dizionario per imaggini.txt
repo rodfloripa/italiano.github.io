@@ -1296,21 +1296,21 @@ o guarda-corpo                                                              - il
 a curva                                                                     - la curva                                                          
 a cabine de pedágio                                                         - il casello                                                        
 Grupo 56
-obrigação de ceder passagem                                                 - obbligo di dare precedenza                                        
-obrigação de parar no cruzamento                                            - obbligo di arresto all'incrocio                                   
-tráfego de mão única                                                        - transito a sensi unici alternati                                  
-trânsito proibido em ambos os sentidos                                      - divieto di transito nei due sensi                                 
+dê a preferência                                                 - obbligo di dare precedenza                                        
+pare no cruzamento                                            - obbligo di arresto all'incrocio                                   
+tráfego alternado                                                        - transito a sensi unici alternati                                  
+trânsito proibido  nos dois sentidos                                      - divieto di transito nei due sensi                                 
 acesso proibido                                                             - divieto di accesso                                                
-limite de velocidade                                                        - limite di velocita                                                
+limite de velocidade                                                        - limite di velocità                                                
 fim do limite                                                               - fine del limite                                                   
-não é permitido estacionar                                                  - sosta vietata                                                     
-direção obrigatória                                                         - direzione obbligatoria                                            
-virar à direita é necessário                                                - obbligo di svolta a destra                                        
-obras em andamento                                                          - lavori in corso                                                   
+estacionamento proibido                                                - sosta vietata                                                     
+desvio obrigatório                                                         - direzione obbligatoria                                            
+vire à direita                                                - obbligo di svolta a destra                                        
+obras na pista                                                         - lavori in corso                                                   
 faixa de pedestres                                                          - attraversamento pedonale                                          
 curva perigosa                                                              - curva pericolosa                                                  
-sem ultrapassagem para                                                      - divieto di sorpasso per                                           
-tráfego de mão única                                                        - unico senso di marcia                                             
+proibido ultrapassar                                                     - divieto di sorpasso per                                           
+mão única                                                        - unico senso di marcia                                             
 Grupo 57
 o terminal                                                                  - il terminale                                                      
 o hangar                                                                    - l'hangar                                                          
