@@ -1309,7 +1309,7 @@ vire à direita                                                - obbligo di svol
 obras na pista                                                         - lavori in corso                                                   
 faixa de pedestres                                                          - attraversamento pedonale                                          
 curva perigosa                                                              - curva pericolosa                                                  
-proibido ultrapassar                                                     - divieto di sorpasso per                                           
+proibido ultrapassar                                                     - divieto di sorpasso                                            
 mão única                                                        - unico senso di marcia                                             
 Grupo 57
 o terminal                                                                  - il terminale                                                      
