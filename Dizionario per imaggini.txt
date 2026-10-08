@@ -1333,12 +1333,19 @@ alfandega                                                                   - la
 o funcionário da alfândega                                                  - il doganiere                                                      
 o cartão de embarque                                                        - la carta d'imbarco                                                
 o passageiro                                                                - il passeggero                                                     
-o porteiro                                                                  - il facchino                                                       
+carregador de malas                                                                 - il facchino                                                       
 a casa de câmbio                                                            - l'ufficio cambi                                                   
 o balcão de informações                                                     - il banco informazioni                                             
 o aluguel de carros                                                         - l'autonoleggio                                                    
-eu negocio duty free                                                        - i negozi duty free                                                
-o carrinho                                                                  - il carrello                                                       
+duty free                                                        - i negozi duty free                                                
+o carrinho                                                                  - il carrello    
+
+decolar
+                                  - decolar
+
+aterrisar
+                                  - atterrare
+
 Grupo 58
 a bicicleta                                                                 - la bicicletta                                                     
 o sedã                                                                      - la berlina                                                        
