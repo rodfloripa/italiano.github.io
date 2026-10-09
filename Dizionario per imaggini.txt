@@ -1353,7 +1353,7 @@ a minivan                                                                   - il
 a perua                                                                     - la familiare                                                      
 o ônibus                                                                    - l'autobus                                                         
 o veículo off-road                                                          - il fuoristrada                                                    
-carreta                                                                     - ii t.i.r                                                          
+carreta                                                                     - il t.i.r                                                          
 a van                                                                       - il furgone                                                        
 o caminhão                                                                  - il camion                                                         
 o trenó puxado por cães                                                     - la slitta con cani                                                
