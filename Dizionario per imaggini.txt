@@ -1337,48 +1337,44 @@ carregador de malas                                                             
 a casa de câmbio                                                            - l'ufficio cambi                                                   
 o balcão de informações                                                     - il banco informazioni                                             
 o aluguel de carros                                                         - l'autonoleggio                                                    
-duty free                                                        - i negozi duty free                                                
+duty free                                                                   - i negozi duty free                                                
 o carrinho                                                                  - il carrello    
-
-decolar
-                                  - decolar
-
-aterrisar
-                                  - atterrare
+decolar                                                                     - decolar
+aterrisar                                                                   - atterrare
 
 Grupo 58
 a bicicleta                                                                 - la bicicletta                                                     
 o sedã                                                                      - la berlina                                                        
 a scooter                                                                   - lo scooter                                                        
-a scooter                                                                   - il motorino                                                       
+a mobilete                                                                  - il motorino                                                       
 a motocicleta                                                               - la motocicletta                                                   
-a esportista                                                                - la sportiva                                                       
+carro esportivo                                                             - la sportiva                                                       
 a minivan                                                                   - il monovolume                                                     
-o familiar                                                                  - la familiare                                                      
+a perua                                                                     - la familiare                                                      
 o ônibus                                                                    - l'autobus                                                         
 o veículo off-road                                                          - il fuoristrada                                                    
-caminhao                                                                    - ii t.i.r                                                          
+carreta                                                                     - ii t.i.r                                                          
 a van                                                                       - il furgone                                                        
 o caminhão                                                                  - il camion                                                         
 o trenó puxado por cães                                                     - la slitta con cani                                                
 o bonde                                                                     - il tram                                                           
 o trem                                                                      - il treno                                                          
 o ônibus espacial                                                           - la navetta spaziale                                               
-para os navios                                                              - la nave                                                           
+navio                                                                       - la nave                                                           
 a lancha                                                                    - il motoscafo                                                      
-na companhia petrolífera                                                    - la petroliera                                                     
+petroleiro                                                                  - la petroliera                                                     
 o barco à vela                                                              - la barca a vela                                                   
 a canoa                                                                     - la canoa                                                          
 o teleférico                                                                - la seggiovia                                                      
-o barco para remi                                                           - la barca a remi                                                   
+o barco a remo                                                              - la barca a remi                                                   
 a balsa                                                                     - il traghetto                                                      
 o bote                                                                      - il gommone                                                        
 o planador                                                                  - l'aliante                                                         
 a asa delta                                                                 - il deltaplano                                                     
 o hidroavião                                                                - l'idrovolante                                                     
-o balão de ar quente                                                        - la mongolfiera                                                    
+o balão                                                                     - la mongolfiera                                                    
 o avião                                                                     - l'aereo                                                           
-o teleférico                                                                - la funivia                                                        
+o bondinho                                                                  - la funivia                                                        
 o dirigível                                                                 - il dirigibile                                                     
 o helicóptero                                                               - l'elicottero                                                      
 Grupo 59
