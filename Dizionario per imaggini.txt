@@ -1380,8 +1380,8 @@ o helicóptero                                                               - l
 Grupo 59
 a fechadura                                                                 - la serratura                                                      
 o espelho retrovisor                                                        - lo specchietto retrovisore                                        
-na porta                                                                    - la portiera                                                       
-a alça                                                                      - la maniglia                                                       
+a porta                                                                    - la portiera                                                       
+a maçaneta                                                                      - la maniglia                                                       
 o limpador de para-brisa                                                    - il tergicristallo                                                 
 o volante                                                                   - il volante                                                        
 o banco da frente                                                           - il sedile anteriore                                               
@@ -1390,12 +1390,12 @@ a placa do carro                                                            - la
 o banco de trás                                                             - il sedile posteriore                                              
 a cadeira de criança                                                        - il sedile per bambini                                             
 a tampa do combustível                                                      - il tappo del serbatoio                                            
-a borda                                                                     - il cerchione                                                      
+o aro                                                                     - il cerchione                                                      
 o pneu                                                                      - il pneumatico                                                     
-ele levanta                                                                 - il cric                                                           
+o macaco                                                                 - il cric                                                           
 a roda sobressalente                                                        - la ruota di scorta                                                
 o painel                                                                    - il cruscotto                                                      
-o tronco                                                                    - il bagagliaio                                                     
+o porta malas                                                                    - il bagagliaio                                                     
 o triângulo                                                                 - il triangolo                                                      
 a porta traseira                                                            - il portellone                                                     
 o teto solar                                                                - il tettuccio apribile                                             
@@ -1420,10 +1420,10 @@ a embreagem                                                                 - la
 o acelerador                                                                - l'acceleratore                                                    
 o quebra-sol                                                                - l'aletta parasole                                                 
 o motor                                                                     - il motore                                                         
-eu parei com isso                                                           - lo stop                                                           
+luz de freio                                                           - lo stop                                                           
 as luzes traseiras                                                          - le luci posteriori                                                
 o encosto de cabeça                                                         - l'appoggiatesta                                                   
-o tronco                                                                    - il portabagagli                                                   
+o rack de teto                                                                    - il portabagagli                                                   
 Grupo 60
 o guidão                                                                    - il manubrio                                                       
 o quadro                                                                    - il telaio                                                         
