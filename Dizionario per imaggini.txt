@@ -1287,7 +1287,7 @@ o jardim público                                                            - i
 a estação de trem                                                           - la stazione ferroviaria                                           
 a rodovia                                                                   - l'autostrada                                                      
 a rampa                                                                     - la rampa                                                          
-o elevado                                                           - la sopraelevata                                                   
+o elevado                                                                   - la sopraelevata                                                   
 a linha central                                                             - la riga di mezzeria                                               
 a via rápida                                                                - la corsia di sorpasso                                             
 a faixa para tráfego normal                                                 - la corsia per il traffico normale                                 
@@ -1299,21 +1299,21 @@ o guarda-corpo                                                              - il
 a curva                                                                     - la curva                                                          
 a cabine de pedágio                                                         - il casello                                                        
 Grupo 56
-dê a preferência                                                 - obbligo di dare precedenza                                        
-pare no cruzamento                                            - obbligo di arresto all'incrocio                                   
-tráfego alternado                                                        - transito a sensi unici alternati                                  
-trânsito proibido  nos dois sentidos                                      - divieto di transito nei due sensi                                 
+dê a preferência                                                           - obbligo di dare precedenza                                        
+pare no cruzamento                                                         - obbligo di arresto all'incrocio                                   
+tráfego alternado                                                          - transito a sensi unici alternati                                  
+trânsito proibido  nos dois sentidos                                       - divieto di transito nei due sensi                                 
 acesso proibido                                                             - divieto di accesso                                                
 limite de velocidade                                                        - limite di velocità                                                
 fim do limite                                                               - fine del limite                                                   
-estacionamento proibido                                                - sosta vietata                                                     
+estacionamento proibido                                                    - sosta vietata                                                     
 desvio obrigatório                                                         - direzione obbligatoria                                            
-vire à direita                                                - obbligo di svolta a destra                                        
-obras na pista                                                         - lavori in corso                                                   
+vire à direita                                                              - obbligo di svolta a destra                                        
+obras na pista                                                              - lavori in corso                                                   
 faixa de pedestres                                                          - attraversamento pedonale                                          
 curva perigosa                                                              - curva pericolosa                                                  
-proibido ultrapassar                                                     - divieto di sorpasso                                            
-mão única                                                        - unico senso di marcia                                             
+proibido ultrapassar                                                       - divieto di sorpasso                                            
+mão única                                                                  - unico senso di marcia                                             
 Grupo 57
 o terminal                                                                  - il terminale                                                      
 o hangar                                                                    - l'hangar                                                          
@@ -1803,6 +1803,56 @@ o bueiro                                                                    - il
 cruzamento com trilho                                                       - il passaggio a livello 
 o trilho                                                                    - il binario/la rotaia
 sistema de esgoto                                                           -il sistema fognario
-patinete 
-                                  -il
-monopatino
+patinete                                                                    -il monopatino
+o balcão de informações                                                     - il banco informazioni                                             
+o aluguel de carros                                                         - l'autonoleggio  
+a via rápida                                                                - la corsia di sorpasso                                             
+a faixa para tráfego normal                                                 - la corsia per il traffico normale                                 
+o posto de gasolina                                                         - la stazione di servizio                                           
+o frentista                                                                 - il benzinaio                                                      
+a bomba de gasolina                                                         - la pompa della benzina                                          
+o guarda-corpo                                                              - il guardrail                                                      
+a curva                                                                     - la curva                                                          
+a cabine de pedágio                                                         - il casello                                                        
+dê a preferência                                                            - obbligo di dare precedenza                                        
+pare no cruzamento                                                          - obbligo di arresto all'incrocio                                   
+tráfego alternado                                                           - transito a sensi unici alternati                                  
+trânsito proibido  nos dois sentidos                                        - divieto di transito nei due sensi                                 
+acesso proibido                                                             - divieto di accesso                                                
+limite de velocidade                                                        - limite di velocità                                                
+estacionamento proibido                                                     - sosta vietata                                                     
+desvio obrigatório                                                         - direzione obbligatoria                                            
+vire à direita                                                              - obbligo di svolta a destra                                        
+obras na pista                                                              - lavori in corso                                                   
+faixa de pedestres                                                          - attraversamento pedonale                                          
+curva perigosa                                                              - curva pericolosa                                                  
+proibido ultrapassar                                                        - divieto di sorpasso                                            
+mão única                                                                   - unico senso di marcia 
+o limpador de para-brisa                                                    - il tergicristallo                                                 
+o volante                                                                   - il volante                                                        
+o banco da frente                                                           - il sedile anteriore                                               
+o cinto de segurança                                                        - la cintura di sicurezza                                           
+a placa do carro                                                            - la targa                                                          
+o banco de trás                                                             - il sedile posteriore                                              
+a cadeira de criança                                                        - il sedile per bambini                                             
+a tampa do combustível                                                      - il tappo del serbatoio                                            
+o aro                                                                       - il cerchione                                                      
+o pneu                                                                      - il pneumatico                                                     
+o macaco                                                                    - il cric                                                           
+a roda sobressalente                                                        - la ruota di scorta                                                
+o painel                                                                    - il cruscotto                                                      
+o porta malas                                                               - il bagagliaio                                                     
+a porta traseira                                                            - il portellone                                                     
+o teto solar                                                                - il tettuccio apribile                                             
+o para-brisa                                                                - il parabrezza                                                     
+o capô                                                                      - il cofano                                                         
+os farois                                                                   - i fari 
+a lanterna                                                                  - il fanale                                                          
+as luzes de posição                                                         - le luci di posizione                                              
+o para-choque traseiro                                                      - il paraurti posteriore                                            
+o para-choque dianteiro                                                     - il paraurti anteriore                                             
+o velocímetro                                                               - il tachimetro                                                     
+o tapete                                                                    - il tappetino                                                      
+o indicador de direção                                                      - l'indicatore di direzione                                         
+a buzina                                                                    - il clacson                                                        
+a ignição                                                                   - l'accensione               
