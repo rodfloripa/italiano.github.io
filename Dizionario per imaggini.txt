@@ -1414,7 +1414,7 @@ a ignição                                                                   - 
 o freio de mão                                                              - il freno a mano                                                   
 a marcha                                                                    - il cambio                                                         
 o rádio                                                                     - la radio                                                          
-a gaveta                                                                    - il cassetto                                                       
+o porta-luvas                                                               - il cassetto                                                       
 a entrada de ar                                                             - la presa d'aria                                                   
 a embreagem                                                                 - la frizione                                                       
 o acelerador                                                                - l'acceleratore                                                    
@@ -1819,8 +1819,7 @@ pare no cruzamento                                                          - ob
 tráfego alternado                                                           - transito a sensi unici alternati                                  
 trânsito proibido  nos dois sentidos                                        - divieto di transito nei due sensi                                 
 acesso proibido                                                             - divieto di accesso                                                
-limite de velocidade                                                        - limite di velocità                                                
-estacionamento proibido                                                     - sosta vietata                                                     
+proibido estacionar                                                         - sosta vietata                                                     
 desvio obrigatório                                                         - direzione obbligatoria                                            
 vire à direita                                                              - obbligo di svolta a destra                                        
 obras na pista                                                              - lavori in corso                                                   
@@ -1855,4 +1854,12 @@ o velocímetro                                                               - i
 o tapete                                                                    - il tappetino                                                      
 o indicador de direção                                                      - l'indicatore di direzione                                         
 a buzina                                                                    - il clacson                                                        
-a ignição                                                                   - l'accensione               
+a ignição                                                                   - l'accensione    
+a ignição                                                                   - l'accensione                                                      
+o freio de mão                                                              - il freno a mano                                                   
+a marcha                                                                    - il cambio                                                         
+o porta-luvas                                                                    - il cassetto                                                       
+a entrada de ar                                                             - la presa d'aria                                                   
+a embreagem                                                                 - la frizione                                                       
+o acelerador                                                                - l'acceleratore                                                    
+o quebra-sol                                                                - l'aletta parasole  
