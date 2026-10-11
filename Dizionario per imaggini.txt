@@ -1437,10 +1437,10 @@ a sela                                                                      - la
 o freio                                                                     - il freno                                                          
 a corrente                                                                  - la catena                                                         
 o pedal                                                                     - il pedale                                                         
-a mudança                                                                   - il cambio                                                         
-os relatórios                                                               - i rapporti                                                        
+o cambio                                                                   - il cambio                                                         
+as marchas                                                               - i rapporti                                                        
 a alavanca do freio                                                         - la leva del freno                                                 
-o refletor                                                                  - il rifrangente                                                    
+o olho de gato                                                                  - il rifrangente                                                    
 os raios                                                                    - i raggi                                                           
 a válvula                                                                   - la valvola                                                        
 a câmara de ar                                                              - la camera d'aria                                                  
