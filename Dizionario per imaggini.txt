@@ -1448,22 +1448,21 @@ Grupo 61
 a mosca                                                                     - la mosca                                                          
 o fazendeiro                                                                - il contadino                                                      
 o boi                                                                       - il bue                                                            
-o carrinho                                                                  - il carro                                                          
+a carroça                                                                  - il carro                                                          
 o porco                                                                     - il maiale                                                         
-as ovelhas                                                                  - la pecora                                                         
+a ovelha                                                                  - la pecora                                                         
 o cordeiro                                                                  - l'agnello                                                         
-para a cabra                                                                - la capra                                                          
-o monturo                                                                   - il letamaio                                                       
+a cabra                                                                - la capra                                                          
+o esterco                                                                   - il letamaio                                                       
 a fazenda                                                                   - la fattoria                                                       
 o burro                                                                     - l'asino                                                           
 o touro                                                                     - il toro                                                           
 o bezerro                                                                   - il vitello                                                        
 a vaca                                                                      - la mucca                                                          
 o estábulo                                                                  - la stalla                                                         
-o celeiro                                                                   - il fienile                                                        
+o celeiro                                                                   - il fienile/granaio                                                        
 o galpão                                                                    - la rimessa                                                        
-maquinaria agrícola                                                         - le macchine agricole                                              
-o celeiro                                                                   - il granaio                                                        
+maquinaria agrícola                                                         - le macchine agricole                                                                                                    
 o campo                                                                     - il campo                                                          
 o trator                                                                    - il trattore                                                       
 a horta                                                                     - l'orto                                                            
@@ -1475,7 +1474,7 @@ o pombo                                                                     - il
 o galinheiro                                                                - il pollaio                                                        
 a galinha                                                                   - la gallina                                                        
 o pintinho                                                                  - il pulcino                                                        
-o feed                                                                      - il mangime                                                        
+a ração                                                                      - il mangime                                                        
 o galo                                                                      - il gallo                                                          
 o cachorro                                                                  - il cane                                                           
 o cachorrinho                                                               - ii cucciolo                                                       
