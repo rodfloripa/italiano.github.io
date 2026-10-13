@@ -1488,9 +1488,9 @@ o galo                                                                      - il
 o pato                                                                      - l'anatra                                                          
 o ganso                                                                     - l'oca                                                             
 Grupo 62
-o mato                                                                      - il cespuglio                                                      
+o arbusto                                                                      - il cespuglio                                                      
 a cerca viva                                                                - la siepe                                                          
-o barril                                                                    - la canna                                                          
+a vara                                                                    - la canna                                                          
 o regador                                                                   - l'annaffiatoio                                                    
 a pá                                                                        - il badile                                                         
 o carrinho de mão                                                           - la carriola                                                       
