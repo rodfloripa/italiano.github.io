@@ -1490,13 +1490,14 @@ o galo                                                                      - il
 o pato                                                                      - l'anatra                                                          
 o ganso                                                                     - l'oca                                                             
 Grupo 62
-o arbusto                                                                  - il cespuglio                                                      
+o arbusto                                                                   - il cespuglio                                                      
 a cerca viva                                                                - la siepe                                                          
 a vara                                                                     - la canna                                                          
 o regador                                                                   - l'annaffiatoio                                                    
 a pá                                                                        - il badile                                                         
 o carrinho de mão                                                           - la carriola                                                       
 a enxada                                                                    - la zappa                                                          
+a foice                                                                     - la falce
 a rosa                                                                      - la rosa                                                           
 a pétala                                                                    - il petalo                                                         
 o espinho                                                                   - la spina                                                          
@@ -1882,6 +1883,7 @@ o regador                                                                   - l'
 a pá                                                                        - il badile                                                         
 o carrinho de mão                                                           - la carriola                                                       
 a enxada                                                                    - la zappa                                                          
+a foice                                                                     - la falce
 a pétala                                                                    - il petalo                                                         
 o espinho                                                                   - la spina                                                          
 o caule                                                                     - lo stelo                                                          
