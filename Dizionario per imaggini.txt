@@ -50,7 +50,7 @@ Grupo 7
 no                                                                          - nel                                                               
 acima/sobre(o)                                                              - sopra/su(lla)                                                     
 sob                                                                         - sotto                                                             
-de                                                                          - fra                                                               
+entre                                                                       - fra                                                               
 em frente de                                                                - di fronte                                                         
 dentro/no                                                                   - dentro/nell'                                                      
 atrás                                                                       - dietro                                                            
@@ -358,7 +358,7 @@ a lareira                                                                   - il
 a chaminé                                                                    - il comignolo 
 o jardim                                                                    - il giardino                                                       
 o portão                                                                    - il cancello                                                       
-a grade                                                                     - la ringhiera                                                      
+o corrimão                                                                  - la ringhiera                                                      
 a campainha                                                                 - il campanello                                                     
 a caixa de correio                                                          - la cassetta delle lettere                                         
 a varanda                                                                   - il balcone                                                        
@@ -1732,7 +1732,7 @@ o traje                                                                     - il
 o pedal                                                                     - il pedal                                                          
 a cabine                                                                    - la cabina                                                         
 Grupo 73
-a tarde - il pomeriggio.
+a tarde - il pomeriggio
 a noite - la sera
 o amanhecer - l'alba
 o pôr do sol - il tramonto
@@ -1753,7 +1753,7 @@ véspera de ano novo - il capodanno
 dia da libertação - la festa della liberazione
 no - nel
 acima/sobre(o) - sopra/su(lla)
-de - fra
+entre - fra
 ao lado - di fianco
 atrás - dietro
 o círculo - il cerchio
@@ -1763,7 +1763,7 @@ o triângulo - il triangolo
 redondo - rotondo
 o recém-nascido - il/la neonato
 a criança - il/la bambina
-a menina/menina - il/la ragazza
+a menina - la ragazza
 o jovem - il/la giovane
 a mulher - la donna
 o velho - l'anziano
@@ -1857,6 +1857,7 @@ a calha - la grondaia
 a lareira - il camino
 o portão - il cancello
 a varanda - il balcone
+o corrimao - la ringhiera
 poste de luz - il lampione
 as persianas - le tapparelle
 o aquecedor - il termosifone
