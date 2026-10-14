@@ -60,7 +60,7 @@ através                                                                     - a
 fora                                                                        - fuori                                                             
 terceiro andar                                                              - terzo piano                                                       
 
-Revisione 1 - Tempo, data, séculos, festas e posições
+Revisione 1 - Tempo, date, secoli, feste e posizioni
 a tarde                                     - il pomeriggio
 a noite                                     - la sera
 o amanhecer                                 - l'alba
@@ -116,7 +116,7 @@ a menina/menina                              - il/la ragazza
 velhice                                      - la vecchiaia                                                      
 o jovem                                      - il/la giovane                                                     
 o homem                                      - l'uomo                                                            
-a mulher                                     - la donna                                                          
+a mulher                                     - l'onda                                                          
 o velho                                      - l'anziano                                                         
 o velho                                      - il/la vecchia                                                     
 Grupo 10
@@ -139,7 +139,7 @@ neto                                         - nipote
 primo                                        - cugina/cugino                                                     
 primos                                       - cugini                                                            
 
-Revisione 2 - Idades da vida, família e datas comemorativas
+Revisione 2 - Età della vita, famiglia e festività
 o círculo                                   - il cerchio
 o hexágono                                  - l'esagono
 o retângulo                                 - il rettangolo
@@ -149,9 +149,7 @@ o recém-nascido                             - il/la neonato
 a criança                                   - il/la bambina
 a menina                                    - la ragazza
 o jovem                                     - il/la giovane
-a mulher                                    - la donna
 o velho                                     - l'anziano
-o velho                                     - il/la vecchia
 sobrinhos                                   - nipoti
 vovô                                        - nonno
 avó                                         - nonna
@@ -247,7 +245,7 @@ loiros                                       - biondi
 grisalhos                                    - grigi                                                             
 brancos                                      - bianchi                                                           
 
-Revisione 3 - Corpo humano, características físicas e vestuário
+Revisione 3 - Corpo umano, caratteristiche fisiche e vestiario
 o rosto                                     - la faccia
 o queixo                                    - il mento
 o ombro                                     - la spalla
@@ -262,7 +260,6 @@ o lábio                                     - il labbro
 o tornozelo                                 - la caviglia
 o dedão do pé                               - l'alluce
 o cérebro                                   - il cervello
-a espinha                                   - la colonna vertebrale
 a garganta                                  - la gola
 o rim                                       - il rene
 bonito                                      - bello
@@ -274,10 +271,8 @@ a panturrilha                               - il polpaccio
 os cílios                                   - le ciglia
 as luvas                                    - i guanti
 o blusão                                    - la giacca a vento
-a jaqueta acolchoada                        - il giubbone
 o suéter                                    - il maglione
 a touca                                     - la cuffia
-a jaqueta de inverno                        - il giubbotto
 o cachecol                                  - la sciarpa
 o sobretudo                                 - il cappotto
 a lapela                                    - il bavero
@@ -285,9 +280,8 @@ o blazer                                    - la giacca
 o terno                                     - il completo/abito da uomo
 o moletom                                   - la felpa
 o jaleco                                    - il camice
-a blusa(feminina com botões)                - la camicetta
+a blusa                                     - la camicetta
 a saia                                      - la gonna
-a capa de chuva                             - l'impermeabile
 o bolso                                     - la tasca
 os óculos                                   - gli occhiali
 o guarda-chuva                              - l'ombrello
@@ -297,20 +291,6 @@ o salto alto                                - il tacco
 os cadarços                                 - i lacci
 os tênis                                    - le scarpe da ginnastica
 os chinelos                                 - le ciabatte
-as cuecas                                   - le mutande
-a regata                                    - la canottiera
-a anágua                                    - la sottoveste
-o sutiã                                     - il reggiseno
-os meiões                                   - il calzettoni
-as meias                                    - le calze
-o roupão                                    - l'accappatoio
-o broche                                    - la spilla
-a pulseira do relógio                       - il cinturino
-a aliança                                   - la fede
-a navalha                                   - il rasoio
-as lâminas de barbear                       - le lamette
-o rímel                                     - il mascara
-o blush                                     - il fard
 
 Grupo 14
 as luvas                                     - i guanti                                                          
@@ -322,7 +302,7 @@ a jaqueta acolchoada                         - il giubbone
 o suéter                                     - il maglione                                                       
 a touca                                      - la cuffia                                                         
 a jaqueta de inverno                         - il giubbotto                                                      
-o cachecol                                   - la sciarpa                                                        
+o cachecol                                   - l'sciarpa                                                         
 o sobretudo                                  - il cappotto                                                       
 a lapela                                     - il bavero                                                         
 o botão                                      - il bottone                                                        
@@ -443,17 +423,28 @@ algodão                                      - il cotone
 seda                                         - la seta                                                           
 o sintético                                  - il sintetico                                                      
 
-Revisione 4 - Roupa interior, cosméticos, descrições, tecidos e casa
+Revisione 4 - Biancheria intima, cosmetici, descrizioni, tessuti e casa
 sujo                                        - sporco
 listrado                                    - a righe
 com bolinhas                                - a pois
 cor sólida                                  - a tinta unita
 lã                                          - la lana
 algodão                                     - il cotone
-o macacão                                   - la tuta
-a maleta                                    - la valigetta
-a pulseira                                  - il braccialetto
-o lenço                                     - il fazzoletto
+as cuecas                                   - le mutande
+a regata                                    - la canottiera
+a anágua                                    - la sottoveste
+o sutiã                                     - il reggiseno
+os meiões                                   - il calzettoni
+as meias                                    - il calze
+o pijama                                    - il pigiama
+o roupão                                    - l'accappatoio
+o broche                                    - la spilla
+a pulseira do relógio                       - il cinturino
+a aliança                                   - la fede
+a navalha                                   - il rasoio
+as lâminas de barbear                       - le lamette
+o rímel                                     - il mascara
+o blush                                     - il fard
 a entrada                                   - l'ingresso
 a sala de estar                             - il soggiorno
 a despensa                                  - il ripostiglio
@@ -464,39 +455,13 @@ a calha                                     - la grondaia
 a lareira                                   - il camino
 o portão                                    - il cancello
 a varanda                                   - il balcone
-o corrimao                                  - la ringhiera
+o corrimão                                  - la ringhiera
 poste de luz                                - il lampione
 as persianas                                - le tapparelle
 o aquecedor                                 - il termosifone
-o taco(piso)                                - il parquet
+o taco                                      - il parquet
 a tomada                                    - la presa
 o abajur                                    - il paralume
-a moldura                                   - la cornice
-a lareira                                   - il caminetto
-o fogo                                      - il fuoco
-o celular                                   - il mobile
-as cortinas                                 - le tende
-os travesseiros                             - i cuscini
-o sofá                                      - il divano
-o lustre                                    - il lampidario
-o armario baixo                             - la credenza
-o copo                                      - il bicchiere
-a mesa                                      - il tavolo
-a colher                                    - il cucchiaio
-o guardanapo                                - il tovagliolo
-a faca                                      - il coltello
-a cadeira                                   - la sedia
-o bule de chá                               - la teiera
-a xícara                                    - la tazza
-os talheres                                 - le posate
-o pote                                      - il barattolo
-a tesoura de aves                           - il trinciapollo
-o grill do fogao                            - la piastra
-a geladeira                                 - il frigorifero
-o armário alto                              - il pensile
-a tábua de corte                            - il tagliere
-a tampa da panela                           - il coperchio
-o avental                                   - il grembiule
 
 Grupo 19
 a entrada                                    - l'ingresso                                                        
@@ -527,8 +492,8 @@ a persiana                                   - la persiana
 o telhado                                    - il tetto 
 a telha                                      - la tegola 
 a calha                                      - la grondaia                                                       
-a lareira                                    - il camino    
-a chaminé                                    - o comignolo 
+o lareira                                    - il camino    
+o chaminé                                    - il comignolo 
 o jardim                                     - il giardino                                                       
 o portão                                     - il cancello                                                       
 o corrimão                                   - la ringhiera                                                      
@@ -543,7 +508,7 @@ as persianas                                 - le tapparelle
 o teto                                       - il soffitto                                                       
 a parede                                     - la parete                                                         
 o aquecedor                                  - il termosifone                                                    
-a caldeira                                   - la caldaia                                                        
+a caldeira                                   - l'caldaia                                                         
 o piso laminado                              - il pavimento laminato   
 o taco(piso)                                 - il parquet
 o interruptor                                - l'interruttore                                                    
@@ -620,8 +585,8 @@ os palitos de dente                          - gli stuzzicadenti
 o liquidificador                             - il frullatore                                                     
 o forno                                      - il forno                                                          
 a grelha                                     - la griglia                                                        
-a superfície de trabalho                     - il superficie da lavoro                                           
-a panela de pressão                          - la pentola a pressione                                            
+a superfície de trabalho                     - la superficie da lavoro                                           
+o panela de pressão                          - la pentola a pressione                                            
 o avental                                    - il grembiule                                                      
 o torneira                                   - il rubinetto                                                      
 a assadeira                                  - la pirofila   
@@ -753,7 +718,7 @@ lavar roupa                                  - fare il bucato
 pendurar a roupa                             - stendere il bucato                                                
 regar as plantas                             - annaffiare le piante                                              
 
-Revisione 5 - Verbos culinários, quarto, bebé, casa de banho, lavandaria e tarefas
+Revisione 5 - Verbi culinari, camera da letto, neonato, bagno, lavanderia e faccende domestiche
 quebrar                                     - rompere
 assar                                       - cuocere al forno
 ferver                                      - bollire
@@ -769,29 +734,21 @@ trocador de fralda                          - il fasciatoio
 a fralda                                    - il pannolino
 a mamadeira                                 - il biberon
 o chocalho                                  - il sonaglio
-o estrado                                   - la rete del letto
-a chupeta                                   - il succhiotto
-o balanço                                   - l'altalena
-o andador de bebê                           - il girello
-o quebra-cabeça                             - il puzzle
 o chuveiro                                  - la doccia
 o armarinho                                 - il mobiletto
 a pia                                       - il lavandino
 a toalha                                    - l'asciugamano
 o azulejo                                   - la mattonella/piastrella
-a tampa                                     - il tappo / il coperchio
-o papel toalha                              - la salvietta
 a lanterna                                  - la torcia
 a estante                                   - lo scaffale
 os panos de chão                            - gli stracci
 o vassourão                                 - lo spazzolone
-o vassoura                                  - la scopa
+a vassoura                                  - la scopa
 polir                                       - lucidare
 arrumar a cama                              - fare il letto
 lavar roupa                                 - fare il bucato
 passar ferro                                - stirare
 pendurar a roupa                            - stendere il bucato
-a sapateira                                 - la scarpiera
 tirar o pó                                  - spolverare
 
 Grupo 28
@@ -834,7 +791,7 @@ os departamentos                             - i reparti
 laticínios                                   - i latticini                                                       
 frios/embutidos                              - la salumeria                                                      
 o açougue                                    - la macelleria                                                     
-os congelados                                - i surgelati                                                       
+os congelados                                - il surgelati                                                      
 frutas e vegetais                            - ortofrutta                                                        
 a padaria                                    - la panetteria                                                     
 peixaria                                     - la pescheria                                                      
@@ -975,7 +932,7 @@ o grão-de-bico                               - i ceci
 feijão-fava                                  - le fave                                                           
 lentilhas                                    - le lenticchie                                                     
 os feijões                                   - il fagioli                                                         
-as ervilhas                                  - i piselli                                                         
+as ervilhas                                  - il piselli                                                         
 Grupo 31
 as uvas                                      - l'uva                                                             
 a maçã                                       - la mela                                                           
@@ -1042,39 +999,107 @@ o caixa                                      - il cassiere
 o caixa eletrônico                           - lo sportello bancomat                                             
 o guarda                                     - la guardia                                                        
 
-Revisione 6 - Rotinas, supermercado, legumes, frutas, recipientes, dinheiro e banco
+Revisione 6 - Routine quotidiane, supermercato, verdure, frutta, contenitori, denaro e banca
+dormir                                      - dormire
+acordar                                     - svegliarsi
+levantar                                    - alzarsi
+tomar café da manhã                         - fare colazione
+fazer                                       - fare
+secar-se                                    - asciugarsi
+colocar maquiagem                           - truccarsi
+vestir-se                                   - vestirsi
+pentear o cabelo                            - pettinarsi
+sair                                        - uscire
+voltar para casa                            - tornare a casa
+despedir-se                                 - salutarsi
+almoçar                                     - pranzare
+ler                                         - leggere
+ouvir                                       - ascoltare
+assistir                                    - guardare
+jogar cartas                                - giocare a carte
+jantar                                      - cenare
+ir para                                     - andare a
+adormecer                                   - addormentarsi
+o corredor                                  - la corsia
+as prateleiras                              - la scaffalatura
+o carrinho                                  - il carrello
+o cliente                                   - il cliente
+a balança                                   - la bilancia
+o caixa                                     - il cassa
+a caixa registradora                        - il registratore di cassa
 o recibo                                    - lo scontrino
+a seção do congelador                       - il banco congelatore
+o balcão de vendas                          - il banco vendita
+etiqueta do preço                           - il cartellino del prezzo
+a operadora de caixa                        - la cassiera
+a sacola de compras                         - la borsa della spesa
+os departamentos                            - i reparti
+laticínios                                  - i latticini
+frios/embutidos                             - la salumeria
 o açougue                                   - la macelleria
+os congelados                               - i surgelati
+frutas e vegetais                           - ortofrutta
+a padaria                                   - la panetteria
+peixaria                                    - la pescheria
 o bezerro                                   - il vitello
+o cabrito                                   - il capretto
 o cordeiro                                  - l'agnello
+o bife                                      - la bistecca
 o assado                                    - l'arrosto
+o filé                                      - il filetto
 alface                                      - la lattuga
 salsão                                      - il sedano
 a espiga de milho                           - la pannocchia
 o pepino                                    - il cetriolo
 a pimenta                                   - il peperone
+a batata                                    - la patata
+alho                                        - l'aglio
+a abóbora                                   - la zucca
+a cebola                                    - la cipolla
+a cenoura                                   - la carota
+as uvas                                     - l'uva
 a maçã                                      - la mela
+a laranja                                   - l'arancia
+o limão                                     - il limone
+as amoras                                   - le more
+mirtilos                                    - i mirtilli
+morangos                                    - le fragole
+a framboesa                                 - il lampone
 a groselha                                  - il ribes
+o melão                                     - il melone
+a noz                                       - la noce
 a avelã                                     - la nocciola
+a castanha                                  - la castagna
 pêssego                                     - la pesca
+a pêra                                      - la pera
 as cerejas                                  - le ciliegie
+a banana                                    - la banana
+o figo                                      - il fico
+a melancia                                  - l'anguria
+as ameixas                                  - le prugne
+o damasco                                   - l'albicocca
+abacaxi                                     - l'ananas
+a caixa                                     - la scatola
+a lata                                      - la lattina
+o pacote                                    - il pacchetto
 o copo                                      - il bicchiere
-a garrafa                                   - la bottiglia
+o tubo                                      - il tubo
+o saquinho                                  - il sacchetto
 a xícara                                    - la tazza
 o balde                                     - il secchio
-o barril pequeno                            - il fustino
+o barril                                    - il fustino
+a lata de spray                             - la bomboletta
+a bombona                                   - la tanica
+o saco                                      - il sacco
+o pote                                      - il vaso
+o tetra-pack                                - il tetra-pack
 o cheque                                    - l'assegno
+o cartão de crédito                         - la carta di credito
+um centavo                                  - un centesimo
+o banco                                     - la banca
 o balcão                                    - lo sportello
 o caixa eletrônico                          - lo sportello bancomat
-o caixa                                     - il cassiere
-dez centavos                                - dieci centesimi
-o bife                                      - la bistecca
-o pão grande                                - il filone
-a mini baguete                              - lo sfilatino
-os palitos de pão                           - i grissini
-as toalhas de papel                         - gli asciugamani di carta
-o lenço                                     - il fazzoletto
-a framboesa                                 - il lampone
+o guarda                                    - la guardia
 
 Grupo 34
 o farmacêutico                              - il farmacista                                                     
@@ -1092,7 +1117,7 @@ o encanador                                 - l'idraulico
 o carpinteiro                               - il falegname                                                      
 o jardineiro                                - il giardiniere                                                    
 o ferreiro                                  - il fabbro                                                         
-o eletricista                               - l'eletricista                                                    
+o eletricista                               - l'elettricista                                                    
 o pintor de casas                           - l'imbianchino                                                     
 a empregada                                 - la colf                                              
 o zelador                                   - il portiere/portinaio                                                        
@@ -1138,7 +1163,7 @@ a coleção de moedas                         - la collezione di monete
 a fotografia                                - la fotografia                                                     
 a objetiva                                  - l'obiettivo                                                       
 flash                                       - il flash                                                          
-o rolo de filme                             - l'rullino                                                         
+o rolo de filme                             - il rullino                                                        
 o projetor de slides                        - il proiettore di diapositive                                      
 os slides                                   - le diapositive                                                    
 a câmera de vídeo                           - la videocamera                                                    
@@ -1168,30 +1193,92 @@ tocar um instrumento musical                - suonare uno strumento musicale
 faça você mesmo                             - il fai da te                                                      
 o canto                                     - il canto                                                          
 
-Revisione 7 - Profissões, tempo livre, hobbies, instrumentos musicais e ferramentas
+Revisione 7 - Professioni, tempo libero, hobby, strumenti musicali e utensili
+o farmacêutico                              - il farmacista
+o mecânico                                  - il meccanico
+o barbeiro                                  - il barbiere
 o alfaiate                                  - il sarto
+o verdureiro                                - il fruttivendolo
 o confeiteiro                               - il pasticcere
+o oculista                                  - l'oculista
+a cabeleireira                              - la parrucchiera
+a florista                                  - il fiorista
 o joalheiro                                 - il gioielliere
 o açougueiro                                - il macellaio
 o encanador                                 - l'idraulico
 o carpinteiro                               - il falegname
-a academia                                  - la palestra
-a cervejaria/pub                            - la birreria
+o jardineiro                                - il giardiniere
+o ferreiro                                  - il fabbro
+o eletricista                               - l'elettricista
+o pintor de casas                           - l'imbianchino
+a empregada                                 - la colf
+o zelador                                   - il portiere/portinaio
+o entregador                                - il fattorino
+o trabalhador                               - l'operaio
+o fotógrafo                                 - il fotografo
+a modelo                                    - la modella
+o disc jockey                               - il disc jockey
+a vendedora                                 - la commessa
+o funcionário do banco                      - l'impiegato di banca
+o ator                                      - l'attore
+o sapateiro                                 - il calzolaio
+o lixeiro                                   - il netturbino
+o peixeiro                                  - il pescivendolo
+o bombeiro                                  - il pompiere
+o jornaleiro                                - il giornalaio
+o motorista do caminhão                     - il camionista
+o motorista de táxi                         - il taxista
+o soldador                                  - il saldatore
+o marinheiro                                - il marinaio
+o pedreiro                                  - il muratore
+o engenheiro                                - l'ingegnere
+o jornalista                                - il giornalista
+o goleiro                                   - il portiere
+o escritor                                  - lo scrittore
+a discoteca                                 - la discoteca
+o teatro                                    - il teatro
+o cinema                                    - il cinema
+a biblioteca                                - la biblioteca
 o balé                                      - il balletto
+a cervejaria/pub                            - la birreria
+o bar                                       - il bar
+a piscina                                   - la piscina
+o concerto de rock                          - il concerto rock
+a academia                                  - la palestra
+a pizzaria                                  - la pizzeria
+a coleção de selos                          - la collezione di francobolli
+a fotografia                                - la fotografia
+a objetiva                                  - l'obiettivo
 o rolo de filme                             - il rullino
+o projetor de slides                        - il proiettore di diapositive
 os slides                                   - le diapositive
 observação de pássaros                      - il bird-watching
 a luneta                                    - il cannocchiale
+a vara de pesca                             - la canna di pesca
 o anzol                                     - l'amo
-a gaita                                     - l'armonica
-o acordeão                                  - la fisarmonica
+o violino                                   - il violino
+a guitarra/violão                           - la chitarra
 o saxofone                                  - il sassofono
-o alicate                                   - la pinza
-o parafuso                                  - la vite
+o contrabaixo                               - il contrabbasso
+a harpa                                     - l'arpa
+a flauta                                    - il flauto
+a gaita                                     - l'armonica
+o tambor                                    - il tamburo
+o piano                                     - il pianoforte
+o acordeão                                  - la fisarmonica
+a trombeta                                  - la tromba
+o trombone                                  - il trombone
+a bateria                                   - il batteria
+o martelo                                   - il martello
+o serrote                                   - la sega a mano
+o alicate                                   - il pinza
+a chave de fenda                            - il cacciavite
+o parafuso                                  - il vite
 o parafuso grande                           - il bullone
 a porca                                     - il dado
 o prego                                     - il chiodo
-a chave de fenda                            - il cacciavite
+a trena                                     - il metro
+o torno                                     - la morsa
 
 Grupo 37
 o violino                                   - il violino                                                        
@@ -1412,67 +1499,183 @@ o endereço                                   - l'indirizzo
 o código postal                             - il codice postale                                                 
 o remetente                                 - il mittente                                                       
 
-Revisione 8 - Restauração, bar, saúde, medicina, escola e escritório
+Revisione 8 - Ristorazione, bar, salute, medicina, scuola e ufficio
 comer                                       - mangiare
-o cardápio                                  - il menu
-o garçom                                    - il cameriere
+beber                                       - bere
+servir                                      - servire
+pedir                                       - ordinare
 colocar a mesa                              - apparecchiare
+o cardápio                                  - il menu
+a carta de vinhos                           - la lista dei vini
+o garçom                                    - il cameriere
+o cozinheiro                                - il cuoco
+a conta                                     - il conto
+pagar                                       - pagare
 receber                                     - incassare
+o saca-rolhas                               - il cavatappi
+a tampa                                     - il tappo
+o vinho                                     - il vino
+o vinho espumante                           - lo spumante
 a cerveja                                   - la birra
 chopeira                                    - la spina
+o barman                                    - il barista
+o licor                                     - il liquore
 base para copo                              - il sottobicchiere
 o cinzeiro                                  - il portacenere
 o isqueiro                                  - l'accendino
+o cigarro                                   - la sigaretta
+a garçonete                                 - la cameriera
+a bandeja                                   - il vassoio
+canudo                                      - la cannuccia
+o juke                                      - il juke
+açúcar                                      - lo zucchero
+o sanduíche                                 - il panino
+as cartas de baralho                        - le carte da gioco
+sorvete                                     - il gelato
+o bolo                                      - la torta
+a máquina de café                           - la macchina per il caffe
+o chá                                       - il te
+o expresso                                  - l'espresso
+o cappuccino                                - il cappuccino
+o chocolate                                 - la cioccolata
+massas                                      - le paste
+o brioche                                   - la brioche
+o tramezzino                                - il tramezzino
+a bebida                                    - la bibita
+suco de frutas                              - il succo di frutta
 a clínica                                   - l'ambulatorio
 a maca                                      - il lettino
+o estetoscópio                              - lo stetoscopio
 o prontuário                                - la cartella clinica
+a consulta médica                           - la visita medica
+a receita                                   - la ricetta
 o médico                                    - il dottore
-a muleta                                    - la stampella
+o paciente                                  - il paziente
+o monitor de pressão arterial               - il misuratore di pressione
+o armário de remédios                       - l'armadietto delle medicine
 a broca                                     - il trapano
 a pia                                       - il lavandino
-a obturação                                 - l'otturazione
+o dentista                                  - il dentista
+o assistente de saúde                       - l'assistente sanitaria
+a poltrona                                  - la poltrona
 a cárie                                     - la carie
+a obturação                                 - l'otturazione
+a febre                                     - la febbre
+a picada de inseto                          - la puntura d'insetto
 os arrepios                                 - i brividi
+o dor de cabeça                             - il mal di testa
+dor de estômago                             - il mal di stomaco
+dor nas costas                              - il mal di schiena
+dor de dente                                - il mal di denti
+pressão alta                                - la pressione alta
+o resfriado                                 - il raffreddore
+dor de garganta                             - il mal di gola
+o deslocamento                              - la slogatura
 o corte                                     - il taglio
 o hematoma                                  - il livido
+a queimadura                                - la bruciatura
+a fratura                                   - la frattura
+problemas de visão                          - i problemi della vista
 o sarampo                                   - il morbillo
 a caxumba                                   - la parotite
+a rubéola                                   - la rosolia
+a dengue                                    - la dengue
 ficar doente                                - ammalarsi
-internar-se                                 - ricoverasi
-curar-se                                    - guarire
-receber alta                                - ricevere la dimissione
+curar                                       - curare
+vacinar                                     - vaccinare
 sentir-se mal                               - stare male
-os óculos                                   - gli occhiali
-a injeção                                   - l'iniezione
-a pílula                                    - la pillola
-o xarope                                    - lo sciroppo
+sentir-se bem                               - stare bene
+curar-se                                    - guarire
+prescrever                                  - prescrivere
+internar-se                                 - ricoverasi
+receber alta                                - ricevere la dimissione
+pronto soccorso                             - pronto soccorso
 a bolsa de gelo                             - la borsa del ghiaccio
+a pílula                                    - la pillola
+a injeção                                   - l'iniezione
+a pomada                                    - la pomata
+o colírio                                   - il collirio
+o xarope                                    - lo sciroppo
+os óculos                                   - gli occhiali
+lentes de contato                           - le lenti a contatto
 a pessoa doente                             - il malato
 a sala de emergência                        - il pronto soccorso
-a atadura                                   - la benda /bandaggio /fasciatura
+a faixa                                     - la fascia
+a atadura                                   - la benda
 o band aid                                  - il cerotto
-a maca                                      - la barella
+fazer um curativo                           - fare una medicazione
+o gesso                                     - il gesso
+os pontos                                   - i punti
+o desinfetante                              - il desinfettante
+algodão                                     - il cotone
+a seringa                                   - la siringa
+a enfermeira                                - l'infermiere
+o médico de plantão                         - il medico di guardia
+o radiologista                              - il radiologo
+a radiografia                               - la radiografia
+a sala de cirurgia                          - la sala operatoria
+o cirurgião                                 - il chirurgo
+a operação cirúrgica                        - l'operazione chirurgica
+o laboratório de análise                    - il laboratorio d'analisi
+o exame de sangue                           - l'analisi del sangue
 o mapa                                      - la cartina
+a calculadora                               - la calcolatrice
 o professor                                 - l'insegnante
+a cattedra                                  - la cattedra
 o quadro negro                              - la lavagna
 a aluna                                     - la studentessa
 o apagador                                  - il cancellino
-ouvir                                       - ascoltare
-digitar                                     - scrivere a macchina
-perguntar                                   - chiedere
+o giz                                       - il gesso
+o desenho                                   - il disegno
+folhas                                      - i fogli
+o caderno                                   - il quaderno
+o banco                                     - il banco
+o apontador de lápis                        - il tempera matite
+a borracha                                  - la gomma
+a caneta                                    - la penna
+a equipe                                    - la squadra
+o lápis                                     - la matita
+o livro                                     - il libro
+o grampeador                                - la cucitrice
+levantar a mão                              - alzare la mano
 apagar                                      - cancellare
+falar                                       - parlare
+ler                                         - leggere
+perguntar                                   - chiedere
+responder                                   - rispondere
+ouvir                                       - ascoltare
+escrever                                    - scrivere
+digitar                                     - scrivere a macchina
+desenhar                                    - disegnare
+entrar                                      - entrare
 sair                                        - uscire
+o ar condicionado                           - l'aria condizionata
+o gabinete                                  - l'armadietto
+a máquina de escrever                       - la macchina da scrivere
+as tachinhas                                - le puntine
+o porta-canetas                             - il portapenne
 pasta de argolas                            - il raccoglitore
 a tela                                      - lo schermo
+o impressora                                - la stampante
+o mesa de escritório                        - la scrivania
+as gavetas                                  - i cassetti
+mouse                                       - il mouse
 o teclado                                   - la tastiera
-a impressora                                - la stampante
-o gabinete                                  - l'armadietto
-a carta                                     - la lettera
-o envelope                                  - la busta
-o endereço                                   - l'indirizzo
-o selo                                      - il francobollo
+o computador                                - il computer
 o carteiro                                  - il portalettere
-a rubéola                                   - la rosolia
+o selo                                      - il francobollo
+a carta                                     - la lettera
+o telegrama                                 - il telegramma
+a carta registrada                          - la raccomandata
+o pacote                                    - il pacco
+o cartão postal                             - la cartolina
+o expresso                                  - l'espresso
+o envelope                                  - la busta
+a carta via aerea                           - la lettera via aerea
+o destinatário                              - il destinatario
+o endereço                                   - l'indirizzo
+o código postal                             - il codice postale
+o remetente                                 - il mittente
 
 Grupo 51
 basquetebol                                 - la pallacanestro                                                  
@@ -1483,7 +1686,7 @@ levantamento de peso                        - il sollevamento pesi
 bobsled                                     - il bob                                                            
 surf                                        - il surf                                                           
 arco e flecha                               - il tiro con l'arco                                                
-natação                                     - il nuoto                                                        
+natação                                     - il nuoto                                                          
 boliche                                     - il bowling                                                        
 boxe                                        - il pugilato                                                       
 ciclismo                                    - il ciclismo                                                       
@@ -1715,7 +1918,7 @@ o painel                                    - il cruscotto
 o porta malas                               - il bagagliaio                                                     
 o triângulo                                 - il triangolo                                                      
 a porta traseira                            - il portellone                                                     
-o teto solar                                - il tettuccio apripile                                             
+o teto solar                                - il tettuccio apribile                                             
 o para-brisa                                - il parabrezza                                                     
 a antena                                    - l'antenna                                                         
 o capô                                      - il cofano                                                         
@@ -1757,73 +1960,239 @@ a corrente                                  - la catena
 o pedal                                     - il pedal                                                          
 o cambio                                    - il cambio                                                         
 as marchas                                  - i rapporti                                                        
-a alavanca do freio                         - la leva del freno                                                 
+a alavanca do freio                         - il leva del freno                                                 
 o olho de gato                              - il rifrangente                                                    
 os raios                                    - i raggi                                                           
 a válvula                                   - la valvola                                                        
 a câmara de ar                              - la camera d'aria                                                  
 
-Revisione 9 - Desportos, futebol, justiça, trânsito, aeroporto e transportes
+Revisione 9 - Sport, calcio, giustizia, traffico, aeroporto e trasporti
+basquetebol                                 - la pallacanestro
+beisebol                                    - il baseball
+a luta                                      - la lotta
+windsurf                                    - il windsurf
+levantamento de peso                        - il sollevamento pesi
+bobsled                                     - il bob
+surf                                        - il surf
 arco e flecha                               - il tiro con l'arco
-a derrota                                   - la sconfita
+natação                                     - il nuoto
+boliche                                     - il bowling
+boxe                                        - il pugilato
+ciclismo                                    - il ciclismo
+esqui                                       - lo sci
+esqui aquático                              - lo sci d'acqua
+rúgbi                                       - il rugby
+esgrima                                     - la scherma
+handebol                                    - il pallamano
+paraquedismo                                - il paracadutismo
+golfe                                       - il golf
+o mergulho                                  - l'immersione
+o salto em altura                           - il salto in alto
+hóquei no gelo                              - l'hockey su ghiaccio
+o motocross                                 - il motocross
+o lançamento de dardo                       - il lancio del giavellotto
+a corrida                                   - la corsa
+montanhismo                                 - l'alpinismo
+patinação                                   - il pattinaggio
+ginástica                                   - la ginnastica
+corrida com barreiras                       - il corsa a ostacoli
+judo                                        - il judo
+hipismo                                     - l'equitazione
+a maratona                                  - la maratona
+o karate                                    - il karatè
+o tênis                                     - il tennis
+o mergulho                                  - il tuffo
+motociclismo                                - il motociclismo
+esqui cross-country                         - lo sci di fondo
+o goleiro                                   - il portiere
+o zagueiro                                  - il difensore
+o meio-campista                             - il centrocampista
+o atacante                                  - l'attaccante
+o árbitro                                   - l'arbitro
+o círculo central                           - il cerchio del centro
+o escanteio                                 - il calcio d'angolo/corner
+o disco                                     - il dischetto
+a área                                      - l'area di rigore
+pequena área                                - l'area di porta
+linha de fondo                              - la linea di fondo
+a bandeira                                  - la bandierina
+a torcida                                   - i tifosi
+o treinador                                 - l'allenatore
+a reserva                                   - la riserva
+o chute                                     - il tiro
+penalti                                     - il rigore
 empate                                      - il pareggio
+drible                                      - il dribbing
 caneta                                      - il tunnel
 falta                                       - il fallo
 impedimento                                 - il fuorigioco
+tiro de meta                                - rinvio dal fondo
+lateral                                     - rimessa laterale
 cabecear                                    - colpire di testa
 carrinho                                    - la scivolata
 o lançamento                                - il lancio lungo
+o gol                                       - la porta
+a trave                                     - il palo
+travessão                                   - la traversa
+a rede                                      - la rete
+o apito                                     - il fischietto
+a bola                                      - il pallone
+a delegacia de polícia                      - la stazione di polizia
+a prisão                                    - la prigione
+o investigador                              - l'investigatore
+as algemas                                  - le manette
+o distintivo                                - il distintivo
+a sirene                                    - la sirena
+a patrulha                                  - la pattuglia
+o policial                                  - il poliziotto
+o cassetete                                 - lo sfollagente
+a arma                                      - la pistola
+o rifle                                     - il fucile
+o juiz                                      - il giudice
+a testemunha                                - il testimone
+o réu                                       - l'imputato
+o ministério público                        - il pubblico ministero
+o júri                                      - la giuria
+o advogado de defesa                        - l'avvocato difensore
+impressões digitais                         - le impronte digitali
 a faixa de pedestres                        - l'attraversamento pedonale
+a calçada                                   - il marciapiede
+a cabine telefônica                         - la cabina telefonica
 o correio                                   - l'ufficio postale
+o guarda de trânsito                        - il vigile
+a encruzilhada                              - l'incrocio
+o pedestre                                  - il pedone
+o ponto de ônibus                           - la fermata dell'autobus
+o banco                                     - la panchina
 a lixeira                                   - il cestino dei rifiuti
+a biblioteca                                - la libreria
+o estacionamento                            - il parcheggio
+o semáforo                                  - il semaforo
+a fonte                                     - la fontana
+o monumento                                 - il monumento
+a prefeitura                                - il municipio/il comune
+a igreja                                    - la chiesa
+o castelo                                   - il castello
+a praça                                     - la piazza
+o centro comercial                          - il centro commerciale
+a iluminação                                - l'illuminazione
+a rua                                       - la strada
 o bueiro                                    - il tombino
 cruzamento com trilho                       - il passaggio a livello
 o trilho                                    - il binario/la rotaia
-o balcão de informações                     - il banco informazioni
+a rotatória                                 - la rotonda
+a ponte                                     - il ponte
+a passagem subterrânea                      - il sottopassaggio
+passarela                                   - la passerella pedonale
+sistema de esgoto                           - il sistema fognario
+patinete                                    - il monopatino
+a pista                                     - la corsia
+o jardim público                            - il giardino pubblico
+a estação de trem                           - la stazione ferroviaria
+a rodovia                                   - l'autostrada
+a rampa                                     - l'rampa
+o elevado                                   - la sopraelevata
+a linha central                             - la riga di mezzeria
 a via rápida                                - la corsia di sorpasso
 a faixa para tráfego normal                 - la corsia per il traffico normale
+a faixa para tráfego lento                  - la corsia per il traffico lento
 o posto de gasolina                         - la stazione di servizio
+o frentista                                 - il benzinaio
 a bomba de gasolina                         - la pompa della benzina
 o guarda-corpo                              - il guardrail
 a curva                                     - la curva
+a cabine de pedágio                         - il casello
+dê a preferência                            - obbligo di dare precedenza
 pare no cruzamento                          - obbligo di arresto all'incrocio
 tráfego alternado                           - transito a sensi unici alternati
 trânsito proibido nos dois sentidos         - divieto di transito nei due sensi
 acesso proibido                             - divieto di accesso
-proibido estacionar                         - sosta vietata
+limite de velocidade                        - limite di velocità
+fim do limite                               - fine del limite
+estacionamento proibido                     - sosta vietata
 desvio obrigatório                          - direzione obbligatoria
+vire à direita                              - obbligo di svolta a destra
+obras na pista                              - lavori in corso
 curva perigosa                              - curva pericolosa
 proibido ultrapassar                        - divieto di sorpasso
 mão única                                   - unico senso di marcia
-o limpador de para-brisa                    - il tergicristallo
-o volante                                   - il volante
-o banco da frente                           - il sedile anteriore
-o cinto de segurança                        - la cintura di sicurezza
-a placa do carro                            - la targa
-o banco de trás                             - il sedile posteriore
-a cadeira de criança                        - il sedile per bambini
-a tampa do combustível                      - il tappo del serbatoio
-o pneu                                      - il pneumatico
-o roda sobressalente                        - la ruota di scorta
-a porta traseira                            - il portellone
-o teto solar                                - il tettuccio apripile
-o para-brisa                                - il parabrezza
-os farois                                   - i fari
-as luzes de posição                         - le luci di posizione
-o para-choque traseiro                      - il paraurti posteriore
-o para-choque dianteiro                     - il paraurti anteriore
-o velocímetro                               - il tachimetro
-o tapete                                    - il tappetino
-o indicador de direção                      - l'indicatore di direzione
-a buzina                                    - il clacson
-a ignição                                   - l'accensione
-o freio de mão                              - il freno a mano
-a marcha                                    - il cambio
-o porta-luvas                               - il cassetto
-a entrada de ar                             - la presa d'aria
-a embreagem                                 - la frizione
-o acelerador                                - l'acceleratore
-o quebra-sol                                - l'aletta parasole
+o terminal                                  - il terminale
+o hangar                                    - l'hangar
+o avião                                     - l'aeroplano
+a torre de controle                         - la torre di controllo
+o piloto                                    - il pilota
+a aeromoça                                  - l'hostess
+o balcão de check-in                        - il banco del check-in
+a passagem de avião                         - il biglietto aereo
+o bagagem                                   - il bagaglio
+bagagem de mão                              - il bagaglio a mano
+controle de passaportes                     - il controllo passaporti
+o saguão de embarque                        - la sala partenze
+a saída                                     - l'uscita
+alfandega                                   - la dogana
+o funcionário da alfândega                  - il doganiere
+o cartão de embarque                        - la carta d'imbarco
+o passageiro                                - il passeggero
+carregador de malas                         - il facchino
+o casa de câmbio                            - l'ufficio cambi
+o balcão de informações                     - il banco informazioni
+o aluguel de carros                         - l'autonoleggio
+duty free                                   - i negozi duty free
+decolar                                     - decolar
+aterrisar                                   - atterrare
+a bicicleta                                 - la bicicletta
+o sedã                                      - la berlina
+a scooter                                   - lo scooter
+a mobilete                                  - il motorino
+a motocicleta                               - la motocicletta
+carro esportivo                             - la sportiva
+a minivan                                   - il monovolume
+a perua                                     - la familiare
+o ônibus                                    - l'autobus
+o veículo off-road                          - il fuoristrada
+carreta                                     - il t.i.r
+a van                                       - il furgone
+o caminhão                                  - il camion
+o trenó puxado por cães                     - la slitta con cani
+o bonde                                     - il tram
+o trem                                      - il treno
+o ônibus espacial                           - la navetta spaziale
+navio                                       - la nave
+a lancha                                    - il motoscafo
+petroleiro                                  - la petroliera
+o barco à vela                              - la barca a vela
+a canoa                                     - la canoa
+o teleférico                                - la seggiovia
+o barco a remo                              - la barca a remi
+a balsa                                     - il traghetto
+o bote                                      - il gommone
+o planador                                  - l'aliante
+a asa delta                                 - il deltaplano
+o hidroavião                                - l'idrovolante
+o balão                                     - la mongolfiera
+o avião                                     - l'aereo
+o bondinho                                  - la funivia
+o dirigível                                 - il dirigibile
+o helicóptero                               - l'elicottero
+o guidão                                    - il manubrio
+o quadro                                    - il telaio
+a roda                                      - la ruota
+o sino                                      - il campanello
+o capacete                                  - il casco
+o cavalete                                  - il cavalletto
+o guarda-lamas                              - il parafango
+o cadeado                                   - il lucchetto
+a sela                                      - la sella
+o freio                                     - il freno
+a corrente                                  - la catena
+o pedal                                     - il pedal
+o cambio                                    - il cambio
+as marchas                                  - i rapporti
+a alanca do freio                           - la leva del freno
+o olho de gato                              - il rifrangente
+os raios                                    - i raggi
+a válvula                                   - la valvola
+a câmara de ar                              - la camera d'aria
 
 Grupo 61
 a mosca                                     - la mosca                                                          
@@ -2032,20 +2401,64 @@ Madri                                       - Madrid
 Portugal                                    - Portogallo
 Lisboa                                      - Lisbona                                                     
 
-Revisione 10 - Fazenda, jardim, animais, aves, fauna marinha, continente e Europa
-a cabra                                     - la capra
+Revisione 10 - Fattoria, giardino, animali, uccelli, fauna marina, continente ed Europa
+a mosca                                     - la mosca
+o fazendeiro                                - il contadino
+o boi                                       - il bue
+a carroça                                   - il carro
+o porco                                     - il maiale
+a ovelha                                    - la pecora
+o cordeiro                                  - l'agnello
+o cabra                                     - la capra
 o esterco                                   - il letamaio
+a fazenda                                   - la fattoria
 o burro                                     - l'asino
+o touro                                     - il toro
+o bezerro                                   - il vitello
+a vaca                                      - la mucca
 o estábulo                                  - la stalla
 o celeiro                                   - il fienile/granaio
 o galpão                                    - la rimessa
+maquinaria agrícola                         - le macchine agricole
+o campo                                     - il campo
+o trator                                    - il trattore
+a horta                                     - l'orto
+o cavalo                                    - il cavallo
+o poço                                      - il pozzo
+o mosquito                                  - la zanzara
+o peru                                      - il tacchino
+o pombo                                     - il piccione
+o galinheiro                                - il pollaio
+a galinha                                   - la gallina
+o pintinho                                  - il pulcino
+a ração                                     - il mangime
+o galo                                      - il gallo
+o cachorro                                  - il cane
+o cachorrinho                               - il cucciolo
+a cauda                                     - la coda
+a pata                                      - la zampa
+o pavão                                     - il pavone
+o colmeia                                   - l'alveare
+o macaco                                    - l'ape
+a formiga                                   - la formica
+o pato                                      - l'anatra
+o ganso                                     - l'oca
+o arbusto                                   - il cespuglio
+a cerca viva                                - la siepe
+a vara                                      - la canna
+o regador                                   - l'annaffiatoio
+a pá                                        - il badile
 o carrinho de mão                           - la carriola
 a enxada                                    - la zappa
-a foice                                     - la falce
+a foice                                     - il falce
+o rosa                                      - la rosa
 a pétala                                    - il petalo
-o espinho                                   - la spina
+o espinho                                   - il spina
 o caule                                     - lo stelo
 a folha                                     - la foglia
+a violeta                                   - la viola
+a margarida                                 - la margherita
+o gerânio                                   - il geranio
 a tulipa                                    - il tulipano
 a orquídea                                  - l'orchidea
 o cravo                                     - il garofano
@@ -2059,16 +2472,129 @@ as raízes                                   - le radici
 o tronco                                    - il tronco
 a casca                                     - la corteccia
 o ramo                                      - il ramo
+o ninho                                     - il nido
+o passaro                                   - il passaro
+a andorinha                                 - la rondine
+a cegonha                                   - la cicogna
+o coruja                                    - il gufo
+a águia                                     - l'aquila
+o cisne                                     - il cigno
+o avestruz                                  - lo struzzo
+o pinguim                                   - il pinguino
+a gaivota                                   - il gabbiano
 o falcão                                    - il falco
 o pelicano                                  - il pelicano
-México                                      - Messico
+o papagaio                                  - il pappagallo
+o canário                                   - il canarino
+o tubarão                                   - lo squalo
+o crocodilo                                 - il coccodrilo
+a tartaruga                                 - la tartaruga
+a foca                                      - la foca
+o golfinho                                  - il delfino
+o camarão                                   - il gambero
+a baleia                                    - la balena
+o polvo                                     - il polpo
+a concha                                    - la conchiglia
+a estrela do mar                            - la stella marina
+a lagosta                                   - l'aragosta
+o caranguejo                                - il granchio
+o peixe                                     - il pesce
+a barbatana                                 - la pinna
+a guelra                                    - la branchia
+o rinoceronte                               - il rinoceronte
+o lagarto                                   - la lucertola
+o rato                                      - il topo
+a zebra                                     - la zebra
+o esquilo                                   - lo scoiattolo
+o canguru                                   - il canguro
+o sapo                                      - la rana
+o morcego                                   - il pipistrello
+o porco-espinho                             - il porcospino
+cobra                                       - il serpente
+o castor                                    - il castoro
+o elefante                                  - l'elefante
+o hipopótamo                                - l'ippopotamo
+o camelo para                               - il cammello a
+o leão                                      - il leone
+o javali                                    - il cinghiale
+o tigre                                     - la tigre
+o veado                                     - il cervo
+o urso                                      - l'orso
+a girafa                                    - la giraffa
+o íbex                                      - lo stambecco
+o lebre                                     - la lepre
+na sola                                     - la talpa
+o gorila                                    - il gorilla
+a cimial                                    - la scimmial
+o leopardo                                  - il leopardo
+o lobo                                      - il lupo
+a raposa                                    - la volpe
+Alasca                                      - Alasca
+Canadá                                      - Canada
+Groenlândia                                 - Groenlandia
 Islândia                                    - Islanda
 Estados Unidos                              - Stati Uniti
-Kyiv                                        - Kijev
-Suíça                                       - Svizzera
+México                                      - Messico
+América Central                             - America Centrale
+América Latina                              - America Latina
+Europa                                      - Europa
+África                                      - Africa
+Ásia                                        - Asia
+Austrália                                   - Australia
+Oceânia                                     - Oceania
+Irlanda                                     - Irlanda
+Reino Unido                                 - Regno Unito
+Noruega                                     - Norvegia
 Suécia                                      - Svezia
+Finlândia                                   - Finlandia
+Estônia                                     - Estonia
+Letônia                                     - Lettonia
+Lituânia                                    - Lituania
+Polônia                                     - Polonia
+Rússia Branca                               - Russia Bianca
+Rússia                                      - Russia
+Reykjavík                                   - Reykjavik
+Dublin                                      - Dublino
+Ucrânia                                     - Ucraina
+Eslováquia                                  - Slovacchia
+Hungria                                     - Ungheria
+Moldávia                                    - Moldavia
+Kyiv                                        - Kijev
+Budapeste                                   - Budapest
+Romênia                                     - Romania
+Bulgária                                    - Bulgaria
+Grécia                                      - Grecia
+Macedônia                                   - Macedonia
+Albânia                                     - Albania
+Tirana                                      - Tirana
 Sérvia                                      - Serbia
+Belgrado                                    - Belgrado
+Bósnia e Herzegovina                        - Bosnia Erzegovina
+Sarajevo                                    - Sarajevo
+Croácia                                     - Croazia
+Zagreb                                      - Zagabria
+Eslovênia                                   - Slovenia
+Lubiana                                     - Lubiana
+Áustria                                     - Austria
+Viena                                       - Vienna
+República Checa                             - Rep. Ceca
 Alemanha                                    - Germania
+Dinamarca                                   - Danimarca
+Holanda                                     - Olanda
+Bélgica                                     - Belgio
+Luxemburgo                                  - Lussemburgo
+Suíça                                       - Svizzera
+Praga                                       - Praga
+Berlim                                      - Berlino
+Copenhague                                  - Copenaghen
+Itália                                      - Italia
+Roma                                        - Roma
+França                                      - Francia
+Paris                                       - Parigi
+Espanha                                     - Spagna
+Madri                                       - Madrid
+Portugal                                    - Portogallo
+Lisboa                                      - Lisbona
 
 Grupo 69
 a galáxia                                   - la galassia                                                       
@@ -2107,7 +2633,7 @@ o deserto                                   - il deserto
 a duna                                      - le dune                                                           
 o oásis                                     - l'oasi                                                            
 a colina                                    - la collina                                                        
-o vale                                      - la valle                                                          
+o vale                                      - il vale                                                           
 a planície                                  - la pianura                                                        
 a floresta                                  - il bosco                                                          
 o lago                                      - il lago                                                           
@@ -2148,14 +2674,14 @@ o traje                                     - il costume
 o pedal                                     - il pedal                                                          
 a cabine                                    - la cabina                                                         
 
-Revisione 11 - Itália, universo, clima, terra, relevo e praia
+Revisione 11 - Italia, universo, clima, terra, rilievo e spiaggia
 o conjunto de cometas                       - la stella cometa
 a lua                                       - la lua
 a terra                                     - la terra
 o meteorito                                 - il meteorite
 o sol                                       - il sole
-chove                                       - piove
-neva                                        - nevica
+chuvas                                      - piove
+neve                                        - nevica
 há vento                                    - c'è vento
 está chovendo                               - grandina
 está ensolarado                             - c'è il sole
@@ -2168,7 +2694,7 @@ o deserto                                   - il deserto
 a duna                                      - le dune
 o oásis                                     - l'oasi
 a colina                                    - la collina
-o vale                                      - la valle
+o vale                                      - il vale
 a planície                                  - la pianura
 a floresta                                  - il bosco
 o lago                                      - il lago
@@ -2178,7 +2704,7 @@ a geleira                                   - il ghiacciaio
 o rio                                       - il fiume
 a cachoeira                                 - la cascata
 a praia                                     - la spiaggia
-a areia                                     - la sabbia
+a areia                                     - la areia
 o guarda-chuva                              - l'ombrellone
 a cadeira de praia                          - la sedia a sdraio
 a toalha                                    - il salviettone
@@ -2187,7 +2713,6 @@ protetor solar                              - la crema solare
 o salva-vidas                               - il bagnino
 
 Grupo 73
-
 a tarde - il pomeriggio
 a noite - la sera
 o amanhecer - l'alba
@@ -2361,241 +2886,6 @@ trocador de fralda - il fasciatoio
 a fralda - il pannolino
 a mamadeira - il biberon
 o chocalho - il sonaglio
-o chuveiro - la doccia
-o armarinho - il mobiletto
-a pia - il lavandino
-a toalha - l'asciugamano
-o azulejo - la mattonella/piastrella
-a lanterna - la torcia
-a estante - lo scaffale
-os panos de chão - gli stracci
-o vassourão - lo spazzolone
-a vassoura - la scopa
-polir - lucidare
-arrumar a cama - fare il letto
-lavar roupa - fare il bucato
-passar ferro - stirare
-pendurar a roupa - stendere il bucato
-despedir-se - salutarsi
-ouvir - ascoltare
-assistir - guardare
-acordar - svegliarsi
-tomar café da manhã - fare colazione
-o recibo - lo scontrino
-o açougue - la macelleria
-o bezerro - il vitello
-o cordeiro - l'agnello
-o assado - l'arrosto
-alface - la lattuga
-salsão - il sedano
-a espiga de milho - la pannocchia
-o pepino - il cetriolo
-a pimenta - il peperone
-a maçã - la mela
-a groselha - il ribes
-a avelã - la nocciola
-pêssego - la pesca
-as cerejas - le ciliegie
-o copo - il bicchiere
-a garrafa - la bottiglia
-a xícara - la tazza
-o balde - il secchio
-o barril(pequeno) - il fustino
-o cheque - l'assegno
-o balcão - lo sportello
-o caixa eletrônico - lo sportello bancomat
-o caixa - il cassiere
-dez centavos - dieci centesimi
-o alfaiate - il sarto
-o confeiteiro - il pasticcere
-o joalheiro - il gioielliere
-o açougueiro - il macellaio
-o encanador - l'idraulico
-a academia - la palestra
-a cervejaria/pub - la birreria
-o balé - il balletto
-o rolo de filme - il rullino
-os slides - le diapositive
-observação de pássaros - il bird-watching
-a luneta - il cannocchiale
-o anzol - l'amo
-a gaita - l'armonica
-o acordeão - la fisarmonica
-o saxofone - il sassofono
-o alicate - la pinza
-o parafuso - la vite
-o parafuso grande - il bullone
-a porca - il dado
-o prego - il chiodo
-comer - mangiare
-o cardápio - il menu
-o garçom - il cameriere
-colocar a mesa - apparecchiare
-receber - incassare
-a cerveja - la birra
-chopeira - la spina
-base para copo - il sottobicchiere
-o cinzeiro - il portacenere
-o isqueiro - l'accendino
-a clínica - l'ambulatorio
-a maca - il lettino
-o prontuário - la cartella clinica
-o médico - il dottore
-a muleta - la stampella
-a broca - il trapano
-a pia - il lavandino
-a obturação - l'otturazione
-a cárie - la carie
-os arrepios - i brividi
-o corte - il taglio
-o hematoma - il livido
-o sarampo - il morbillo
-a caxumba - la parotite
-ficar doente - ammalarsi
-internar-se - ricoverasi
-curar-se - guarire
-receber alta - ricevere la dimissione
-sentir-se mal - stare male
-os óculos - gli occhiali
-a injeção - l'iniezione
-a pílula - la pillola
-o xarope - lo sciroppo
-a bolsa de gelo - la borsa del ghiaccio
-a pessoa doente - il malato
-a sala de emergência - il pronto soccorso
-a atadura - la benda /bandaggio /fasciatura
-o band aid - il cerotto
-a maca - la barella
-o mapa - la cartina
-o professor - l'insegnante
-o quadro negro - la lavagna
-a aluna - la studentessa
-o apagador - il cancellino
-ouvir - ascoltare
-digitar - scrivere a macchina
-perguntar - chiedere
-apagar - cancellare
-sair - uscire
-pasta de argolas - il raccoglitore
-a tela - lo schermo
-o teclado - la tastiera
-a impressora - la stampante
-o gabinete - l'armadietto
-a carta - la lettera
-o envelope - la busta
-o endereço - l'indirizzo
-o selo - il francobollo
-o carteiro - il portalettere
-basquetebol - la pallacanestro
-natação - il nuoto
-boxe - il pugilato
-esqui - lo sci
-hipismo - l'equitazione
-o goleiro - il portiere
-o zagueiro - il difensore
-a torcida - i tifosi
-o chute - il tiro
-penalti - il rigore
-a arma - la pistola
-o juiz - il giudice
-o réu - l'imputato
-o cassetete - lo sfollagente
-as algemas - le manette
-a calçada - il marciapiede
-o guarda de trânsito - il vigile
-a prefeitura - il municipio/il comune
-a igreja - la chiesa
-a praça - la piazza
-a pista - la corsia
-a rodovia - l'autostrada
-a linha central - la riga di mezzeria
-a cabine de pedágio - il casello
-o frentista - il benzinaio
-obras na pista - lavori in corso
-estacionamento proibido - sosta vietata
-dê a preferência - obbligo di dare precedenza
-vire à direita - obbligo di svolta a destra
-faixa de pedestres - attraversamento pedonale
-o avião - l'aeroplano
-a aeromoça - l'hostess
-a saída - l'uscita
-carregador de malas - il facchino
-o aluguel de carros - l'autonoleggio
-o sedã - la berlina
-a minivan - il monovolume
-a perua - la familiare
-carreta - il t.i.r
-a van - il furgone
-o aro - il cerchione
-o macaco - il cric
-o painel - il cruscotto
-o porta malas - il bagagliaio
-o capô - il cofano
-o guidão - il manubrio
-o quadro - il telaio
-a roda - la ruota
-o sino - il campanello
-o cadeado - il lucchetto
-o fazendeiro - il contadino
-o boi - il bue
-o porco - il maiale
-a ovelha - la pecora
-o cordeiro - l'agnello
-o arbusto - il cespuglio
-a cerca viva - la siepe
-a vara - la canna
-o regador - l'annaffiatoio
-a pá - il badile
-a cegonha - la cicogna
-a coruja - il gufo
-o ganso - l'oca
-o pombo - il piccione
-a gaivota - il gabbiano
-o tubarão - lo squalo
-o camarão - il gambero
-a guelra - la branchia
-a barbatana - la pinna
-o caranguejo - il granchio
-o sapo - la rana
-o morcego - il pipistrello
-cobra - il serpente
-o veado - il cervo
-na sola - la talpa
-México - Messico
-Islândia - Islanda
-Estados Unidos - Stati Uniti
-Kyiv - Kijev
-Suíça - Svizzera
-Suécia - Svezia
-Sérvia - Serbia
-Alemanha - Germania
-a lua - la luna
-o conjunto de cometas - la stella cometa
-a galáxia - la galassia
-chuvas - piove
-está quente (está seco - fa caldo(è asciuto
-agradavel - fa fresco
-está congelado - è ghiacciato
-o trovão - il tuono
-a floresta - il bosco
-o cume - la vetta
-a geleira - il ghiacciaio
-o rio - il fiume
-o riacho - il ruscello
-a rocha - lo scoglio
-o colchão - il materassino
-o guarda-chuva - l'ombrellone
-as barbatanas - le pinne
-o cais - il molo
-a panturrilha - il polpaccio
-os cílios - le ciglia
-o macacão - la tuta
-a maleta - la valigetta
-a pulseira - il braccialetto
-o ralador - la grattugia
-o saca-rolhas - il cavatappi
-fatiar - affettare
-picar - spezzettare / tagliuzzare
 o estrado - la rete del letto
 a chupeta - il succhiotto
 o balanço - l'altalena
@@ -2674,10 +2964,10 @@ o indicador de direção - l'indicatore di direzione
 a buzina - il clacson
 a ignição - l'accensione
 o freio de mão - il freno a mano
-a marcha - il cambio
+o marcha - il cambio
 o porta-luvas - il cassetto
 a entrada de ar - la presa d'aria
-a embreagem - la frizione
+o embreagem - la frizione
 o acelerador - l'acceleratore
 o quebra-sol - l'aletta parasole
 a cabra - la capra
@@ -2706,4 +2996,4 @@ o pinheiro - il pino
 as raízes - le radici
 o tronco - il tronco
 a casca - la corteccia
-o ramo - il ramo    
+o ramo - il ramo
