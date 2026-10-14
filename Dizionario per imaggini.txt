@@ -2529,55 +2529,12 @@ a cimial                                    - la scimmial
 o leopardo                                  - il leopardo
 o lobo                                      - il lupo
 a raposa                                    - la volpe
-Alasca                                      - Alasca
-Canadá                                      - Canada
-Groenlândia                                 - Groenlandia
-Islândia                                    - Islanda
 Estados Unidos                              - Stati Uniti
 México                                      - Messico
-América Central                             - America Centrale
-América Latina                              - America Latina
-Europa                                      - Europa
-África                                      - Africa
-Ásia                                        - Asia
-Austrália                                   - Australia
-Oceânia                                     - Oceania
-Irlanda                                     - Irlanda
 Reino Unido                                 - Regno Unito
 Noruega                                     - Norvegia
 Suécia                                      - Svezia
 Finlândia                                   - Finlandia
-Estônia                                     - Estonia
-Letônia                                     - Lettonia
-Lituânia                                    - Lituania
-Polônia                                     - Polonia
-Rússia Branca                               - Russia Bianca
-Rússia                                      - Russia
-Reykjavík                                   - Reykjavik
-Dublin                                      - Dublino
-Ucrânia                                     - Ucraina
-Eslováquia                                  - Slovacchia
-Hungria                                     - Ungheria
-Moldávia                                    - Moldavia
-Kyiv                                        - Kijev
-Budapeste                                   - Budapest
-Romênia                                     - Romania
-Bulgária                                    - Bulgaria
-Grécia                                      - Grecia
-Macedônia                                   - Macedonia
-Albânia                                     - Albania
-Tirana                                      - Tirana
-Sérvia                                      - Serbia
-Belgrado                                    - Belgrado
-Bósnia e Herzegovina                        - Bosnia Erzegovina
-Sarajevo                                    - Sarajevo
-Croácia                                     - Croazia
-Zagreb                                      - Zagabria
-Eslovênia                                   - Slovenia
-Lubiana                                     - Lubiana
-Áustria                                     - Austria
-Viena                                       - Vienna
-República Checa                             - Rep. Ceca
 Alemanha                                    - Germania
 Dinamarca                                   - Danimarca
 Holanda                                     - Olanda
@@ -2586,9 +2543,6 @@ Luxemburgo                                  - Lussemburgo
 Suíça                                       - Svizzera
 Praga                                       - Praga
 Berlim                                      - Berlino
-Copenhague                                  - Copenaghen
-Itália                                      - Italia
-Roma                                        - Roma
 França                                      - Francia
 Paris                                       - Parigi
 Espanha                                     - Spagna
