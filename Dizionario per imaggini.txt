@@ -1532,7 +1532,10 @@ o pavão                                                                     - i
 o pombo                                                                     - il piccione                                                       
 o avestruz                                                                  - lo struzzo                                                        
 o pinguim                                                                   - il pinguino                                                       
-a gaivota                                                                   - il gabbiano                                                       
+a gaivota                                                                   - il gabbiano  
+
+o falcão                                                                   - il falco
+
 o pelicano                                                                  - il pelicano                                                       
 o papagaio                                                                  - il pappagallo                                                     
 o canário                                                                   - il canarino                                                       
