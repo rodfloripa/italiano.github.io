@@ -55,11 +55,17 @@
 <script>
 let flashcards={},currentGroup=null,currentCardIndex=0;
 
-function getLessonFromURL(){
+function getURLParameters(){
   const p=new URLSearchParams(window.location.search);
-  let l=p.get('lezione')||p.get('lesson')||p.get('revisione');
-  if(!l&&window.location.hash) l=window.location.hash.replace('#lezione-','').replace('#lesson-','').replace('#revisione-','');
-  return l;
+  let lezione = p.get('lezione') || p.get('lesson');
+  let revisione = p.get('revisione');
+  
+  if(!lezione && !revisione && window.location.hash) {
+    let h = window.location.hash;
+    if(h.includes('revisione')) revisione = h.replace('#revisione-','');
+    else lezione = h.replace('#lezione-','').replace('#lesson-','');
+  }
+  return { lezione, revisione };
 }
 
 function loadFlashcards(file){
@@ -75,12 +81,15 @@ function loadFlashcards(file){
     lines.forEach(line=>{
       if(line.match(/^(Lezione|Grupo|Revisione)/)){
         group=line.trim();
-        let m=group.match(/(\d+[a-zA-Z]*)/);
-        let num=m?m[0]:"";
-        if(group.startsWith("Revisione")){
-          groupKey="Revisione "+num;
+        let matchRev = group.match(/Revisione.*?(\d+)/i);
+        let matchLez = group.match(/(\d+[a-zA-Z]*)/);
+        
+        if(matchRev){
+          groupKey="Revisione "+matchRev[1];
+        } else if(matchLez){
+          groupKey="Lezione "+matchLez[1];
         } else {
-          groupKey="Lezione "+num;
+          groupKey=group;
         }
         flashcards[group]=[]; newFlashcards[groupKey]=[];
       }else if(group&&line.trim()!==""){
@@ -99,6 +108,7 @@ function loadFlashcards(file){
 function showGroups(){
   let groupList=document.getElementById("group-list");
   const titulos={"3":"L'ORA E LE PARTI DEL GIORNO","4":"I GIORNI, I MESI E LE STAGIONI","5":"GLI ANNI E I SECOLI","6":"LE FESTE LE PREPOSIZIONI","7":"LE PREPOSIZIONI","Revisione 1":"Tempo, date, forme e posizione","8":"LE FORME","9":"LE PERSONE","10":"LA FAMIGLIA E I PARENTI","Revisione 2":"Persone, famiglia, feste e neonati","11":"IL CORPO UMANO","12":"IL CORPO UMANO","13":"LE CARATTERISTICHE FISICHE","Revisione 3":"Corpo umano, salute e ospedale","14":"I VESTITI","15":"GLI ACCESSORI E LE CALZATURE","16":"LA BIANCHERIA","17":"I GIOIELLI E I COSMETICI","18":"LA DESCRIZIONE DEI VESTITI E I MATERIALI","Revisione 4":"Vestiti, accessori e tessuti","19":"LA CASA","20":"IL SOGGIORNO","21":"LA CUCINA","22":"VERBI PER LA CUCINA","23":"LA STANZA DA LETTO","24":"LA CAMERA DEL BAMBINO","25":"IL BAGNO","26":"IL RIPOSTIGLIO","27":"I LAVORI DI CASA","Revisione 5":"Casa, mobili e faccende domestiche","28":"A CASA","29":"AL SUPERMERCATO","30":"LE VERDURE","31":"LA FRUTTA","32":"I CONTENITORI","33":"I SOLDI E LA BANCA","34":"I MESTIERI","35":"IL TEMPO LIBERO","36":"GLI HOBBY","Revisione 6":"Cibo, cucina e ristorante","37":"GLI STRUMENTI MUSICALI","38":"GLI UTENSILI","39":"AL RISTORANTE","40":"AL BAR","41":"DAL MEDICO","42":"DAL DENTISTA","43":"LE MALATTIE","44":"I VERBI","45":"LE CURE","46":"L'OSPEDALE","47":"LA CLASSE","48":"I VERBI PER LA SCUOLA","49":"IN UFFICIO","50":"LA POSTA","Revisione 7":"Professioni, scuola, attrezzi e tempo libero","51":"GLI SPORT","52":"IL CALCIO","53":"LA GIUSTIZIA","54":"LA CITTÀ","55":"L'AUTOSTRADA","56":"I SEGNALI STRADALI","57":"L'AEREOPORTO","58":"I TRASPORTI","59":"L'AUTOMOBILE","60":"LA BICICLETTA","Revisione 8":"Città, traffico, viaggio e auto","61":"LA CAMPAGNA","62":"IL GIARDINO","63":"GLI UCCELLI","64":"GLI ANIMALI MARINI","65":"GLI ANIMALI","66":"IL MONDO","67":"L'EUROPA","Revisione 9":"Sport, fattoria e animali","68":"L'ITALIA","69":"L'UNIVERSO","70":"DESCRIZIONE DEL TEMPO","71":"LA TERRA","72":"IL MARE","Revisione 10":"Piante, paesi, clima e natura","73":"REVISIONE FINALE"};
+  
   groupList.innerHTML="";
   Object.keys(flashcards).forEach(g=>{
     let titulo = "";
@@ -113,10 +123,19 @@ function showGroups(){
     o.value=g; o.text=`${g} - ${titulo}`;
     groupList.appendChild(o);
   });
+  
   groupList.onchange=showFlashcards;
-  let lessonFromURL=getLessonFromURL();
-  let target=lessonFromURL?Object.keys(flashcards).find(k=>k.includes(lessonFromURL)):null;
-  groupList.value=target||Object.keys(flashcards)[1]||Object.keys(flashcards)[0];
+
+  let { lezione, revisione } = getURLParameters();
+  let target = null;
+  
+  if(revisione) {
+    target = Object.keys(flashcards).find(k => k.startsWith("Revisione") && k.includes(revisione));
+  } else if(lezione) {
+    target = Object.keys(flashcards).find(k => k.startsWith("Lezione") && k.includes(lezione));
+  }
+  
+  groupList.value = target || Object.keys(flashcards)[0];
   showFlashcards();
 }
 
@@ -124,6 +143,7 @@ function showFlashcards(){
   currentGroup=document.getElementById("group-list").value;
   currentCardIndex=0;
   showCard();
+  
   if(currentGroup.startsWith("Revisione")){
     let m=currentGroup.match(/\d+/);
     if(m) history.replaceState(null,'',`${location.pathname}?revisione=${m[0]}`);
