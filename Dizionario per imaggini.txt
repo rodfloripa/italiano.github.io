@@ -44,7 +44,7 @@ natal                                                                       - il
 véspera de ano novo                                                         - il capodanno                                                      
 páscoa                                                                      - la pasqua                                                         
 dia da libertação                                                           - la festa della liberazione                                        
-dia do trabalho                                                                  - la festa del lavoro                                               
+dia do trabalho                                                             - la festa del lavoro                                               
 o ferragosto                                                                - il ferragosto                                                     
 Grupo 7
 no                                                                          - nel                                                               
@@ -276,7 +276,7 @@ o colar                                                                     - la
 o broche                                                                    - la spilla                                                         
 a pulseira                                                                  - il braccialetto                                                   
 o relógio                                                                   - l'orologio                                                        
-a pulseira do relógio                                                                     - il cinturino                                                      
+a pulseira do relógio                                                       - il cinturino                                                      
 o prendedor de gravata                                                      - il fermacravatta                                                  
 o anel                                                                      - l'anello                                                          
 a aliança                                                                   - la fede                                                           
@@ -299,7 +299,7 @@ o lápis de olho                                                             - l
 Grupo 18
 longo                                                                       - lungo                                                             
 curto                                                                       - corto                                                             
-justo                                                                     - stretto                                                           
+justo                                                                      - stretto                                                           
 largo                                                                       - largo                                                             
 novo                                                                        - nuovo                                                             
 velho                                                                       - vecchio                                                           
@@ -309,7 +309,7 @@ escuro                                                                      - sc
 claro                                                                       - chiaro                                                            
 aberto                                                                       - aperto                                                            
 fechado                                                                     - chiuso                                                            
-listrado                                                                       - a righe                                                           
+listrado                                                                    - a righe                                                           
 xadrez                                                                      - a quadri                                                          
 Grupo 18b
 ajustado                                                                    - aderente                                                          
@@ -459,7 +459,6 @@ a panela de pressão                                                         - l
 o avental                                                                   - il grembiule                                                      
 a torneira                                                                  - il rubinetto                                                      
 a assadeira                                                                 - la pirofila   
-
 petiscos                                                                    - snack/stuzzichini  
 
 Grupo 22
@@ -520,7 +519,7 @@ a casa de bonecas                                                           - la
 o berço                                                                     - la culla                                                          
 a pelucia                                                                   - il peluche                                                        
 a boneca                                                                    - la bambola                                                        
-o cercadinho                                                                  - il box                                                            
+o cercadinho                                                                - il box                                                            
 o quebra-cabeça                                                             - il puzzle                                                         
 lego                                                                        - i lego                                                            
 carrinho de bebê                                                            - la carrozzella                                                    
@@ -567,7 +566,7 @@ o cesto de roupa suja                                                       - il
 detergente líquido para louça                                               - il detersivo liquido per i piatti                                 
 água sanitária                                                              - la candeggina                                                     
 a máquina de lavar                                                          - la lavatrice                                                      
-a enceradeira                                                                    - la lucidatrice                                                    
+a enceradeira                                                               - la lucidatrice                                                    
 a lata de lixo                                                              - la pattumiera                                                     
 o varal                                                                     - lo stenditoio                                                     
 a sapateira                                                                 - la scarpiera                                                      
@@ -576,7 +575,7 @@ arrumar                                                                     - ri
 polir                                                                       - lucidare                                                          
 limpar                                                                      - pulire                                                            
 estender                                                                    - appendere                                                         
-cozinhar                                                                      - cucinare                                                          
+cozinhar                                                                    - cucinare                                                          
 varrer                                                                      - scopare                                                           
 arrumar a cama                                                              - fare il letto                                                     
 secar                                                                       - asciugare                                                         
@@ -1404,7 +1403,8 @@ o teto solar                                                                - il
 o para-brisa                                                                - il parabrezza                                                     
 a antena                                                                    - l'antenna                                                         
 o capô                                                                     - il cofano                                                         
-os farois                                                                   - i fari  a lanterna                                                                 - il fanale                                                          
+os farois                                                                   - i fari  
+a lanterna                                                                 - il fanale                                                          
 as luzes de posição                                                         - le luci di posizione                                              
 o para-choque traseiro                                                      - il paraurti posteriore                                            
 o para-choque dianteiro                                                     - il paraurti anteriore                                             
