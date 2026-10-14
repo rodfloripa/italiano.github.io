@@ -1615,7 +1615,7 @@ o radiologista                              - il radiologo
 a radiografia                               - la radiografia
 a sala de cirurgia                          - la sala operatoria
 o cirurgião                                 - il chirurgo
-a operação cirúrgica                        - l'operazione chirurgica
+a cirurgia                          - l'operazione chirurgica
 o laboratório de análise                    - il laboratorio d'analisi
 o exame de sangue                           - l'analisi del sangue
 o mapa                                      - la cartina
