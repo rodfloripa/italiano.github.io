@@ -2394,7 +2394,7 @@ a enxada                                    - la zappa
 a foice                                     - il falce
 o rosa                                      - la rosa
 a pétala                                    - il petalo
-o espinho                                   - il spina
+o espinho                                   - la spina
 o caule                                     - lo stelo
 a folha                                     - la foglia
 a violeta                                   - la viola
