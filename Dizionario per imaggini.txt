@@ -924,7 +924,7 @@ alho                                         - l'aglio
 o dente de alho                              - lo spicchio d'aglio                                               
 a abóbora                                    - la zucca                                                          
 os rabanetes                                 - i ravanelli                                                       
-os cogumelos                                 - il funghi                                                          
+os cogumelos                                 - i funghi                                                          
 a cebola                                     - la cipolla                                                        
 a cenoura                                    - la carota                                                         
 a acelga                                     - la bietola                                                        
