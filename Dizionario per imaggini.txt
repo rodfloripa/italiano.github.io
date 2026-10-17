@@ -779,7 +779,7 @@ as prateleiras                               - la scaffalatura
 o carrinho                                   - il carrello                                                       
 o cliente                                    - il cliente                                                        
 a balança                                    - la bilancia                                                       
-o caixa                                      - il cassa                                                          
+o caixa                                      - la cassa                                                          
 a caixa registradora                         - il registratore di cassa                                          
 o recibo                                     - lo scontrino                                                      
 a seção do congelador                        - il banco congelatore                                              
