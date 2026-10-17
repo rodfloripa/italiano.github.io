@@ -116,7 +116,7 @@ a menina/menina                              - il/la ragazza
 velhice                                      - la vecchiaia                                                      
 o jovem                                      - il/la giovane                                                     
 o homem                                      - l'uomo                                                            
-a mulher                                     - l'onda                                                          
+a mulher                                     - la donna                                                         
 o velho                                      - l'anziano                                                         
 o velho                                      - il/la vecchia                                                     
 Grupo 10
