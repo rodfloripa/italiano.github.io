@@ -2190,7 +2190,7 @@ a cauda                                     - la coda
 a pata                                      - la zampa                                                          
 o pavão                                     - il pavone                                                         
 a colmeia                                   - l'alveare                                                         
-o macaco                                    - l'ape                                                             
+a abelha                                    - l'ape                                                             
 a formiga                                   - la formica                                                        
 o galo                                      - il gallo                                                          
 o pato                                      - l'anatra                                                          
