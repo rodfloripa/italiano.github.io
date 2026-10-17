@@ -829,7 +829,7 @@ o bacon                                      - la pancetta
 o cotechino                                  - il cotechino                                                      
 mortadela                                    - la mortadella                                                     
 as linguiças                                 - le salsicce  
-o salsicha                                   - il würstel  
+a salsicha                                   - il würstel  
 Grupo 29e
 pão grande                                   - il filone                                                         
 pão roseta                                   - la rosetta                                                        
@@ -2189,7 +2189,7 @@ o cachorrinho                               - il cucciolo
 a cauda                                     - la coda                                                           
 a pata                                      - la zampa                                                          
 o pavão                                     - il pavone                                                         
-o colmeia                                   - l'alveare                                                         
+a colmeia                                   - l'alveare                                                         
 o macaco                                    - l'ape                                                             
 a formiga                                   - la formica                                                        
 o galo                                      - il gallo                                                          
