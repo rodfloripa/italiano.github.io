@@ -2270,7 +2270,7 @@ cobra                                       - il serpente
 o castor                                    - il castoro                                                        
 o elefante                                  - l'elefante                                                        
 o hipopótamo                                - l'ippopotamo                                                      
-o camelo para                               - il cammello a                                                     
+o camelo                                - il cammello                                                      
 o leão                                      - il leone                                                          
 o javali                                    - il cinghiale                                                      
 o tigre                                     - la tigre                                                          
@@ -2279,9 +2279,9 @@ o urso                                      - l'orso
 a girafa                                    - la giraffa                                                        
 o íbex                                      - lo stambecco                                                      
 a lebre                                     - la lepre                                                          
-na sola                                     - la talpa                                                          
+a toupeira                                     - la talpa                                                          
 o gorila                                    - il gorilla                                                        
-a cimial                                    - la scimmial                                                       
+o macaco                                    - la scimmia                                                       
 o leopardo                                  - il leopardo                                                       
 o lobo                                      - il lupo                                                           
 a raposa                                    - la volpe                                                          
