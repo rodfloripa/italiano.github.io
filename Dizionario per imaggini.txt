@@ -1252,7 +1252,7 @@ o martelo                                   - il martello
 o serrote                                   - la sega a mano
 o alicate                                   - la pinza
 a chave de fenda                            - il cacciavite
-o parafuso                                  - il vite
+o parafuso                                  - la vite
 o parafuso grande                           - il bullone
 a porca                                     - il dado
 o prego                                     - il chiodo
