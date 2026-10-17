@@ -2454,8 +2454,8 @@ o tigre                                     - la tigre
 o veado                                     - il cervo
 o íbex                                      - lo stambecco
 o lebre                                     - la lepre
-na sola                                     - la talpa
-a cimial                                    - la scimmial
+a toupeira                                      - la talpa
+o macaco                                    - la scimmia
 o leopardo                                  - il leopardo
 a raposa                                    - la volpe
 Estados Unidos                              - Stati Uniti
