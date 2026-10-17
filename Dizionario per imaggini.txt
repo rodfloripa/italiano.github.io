@@ -1250,7 +1250,7 @@ o piano                                     - il pianoforte
 o acordeão                                  - la fisarmonica
 o martelo                                   - il martello
 o serrote                                   - la sega a mano
-o alicate                                   - il pinza
+o alicate                                   - la pinza
 a chave de fenda                            - il cacciavite
 o parafuso                                  - il vite
 o parafuso grande                           - il bullone
