@@ -932,7 +932,7 @@ o grão-de-bico                               - i ceci
 feijão-fava                                  - le fave                                                           
 lentilhas                                    - le lenticchie                                                     
 os feijões                                   - i fagioli                                                         
-as ervilhas                                  - il piselli                                                         
+as ervilhas                                  - i piselli                                                         
 Grupo 31
 as uvas                                      - l'uva                                                             
 a maçã                                       - la mela                                                           
