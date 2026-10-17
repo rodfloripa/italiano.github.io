@@ -931,7 +931,7 @@ a acelga                                     - la bietola
 o grão-de-bico                               - i ceci                                                            
 feijão-fava                                  - le fave                                                           
 lentilhas                                    - le lenticchie                                                     
-os feijões                                   - il fagioli                                                         
+os feijões                                   - i fagioli                                                         
 as ervilhas                                  - il piselli                                                         
 Grupo 31
 as uvas                                      - l'uva                                                             
