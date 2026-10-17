@@ -2395,7 +2395,7 @@ o regador                                   - l'annaffiatoio
 a pá                                        - il badile
 o carrinho de mão                           - la carriola
 a enxada                                    - la zappa
-a foice                                     - il falce
+a foice                                     - la falce
 o rosa                                      - la rosa
 a pétala                                    - il petalo
 o espinho                                   - la spina
