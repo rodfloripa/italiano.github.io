@@ -1272,7 +1272,7 @@ o piano                                     - il pianoforte
 o acordeão                                  - la fisarmonica                                                    
 a trombeta                                  - la tromba                                                         
 o trombone                                  - il trombone                                                       
-a bateria                                   - il batteria                                                       
+a bateria                                   - la batteria                                                       
 Grupo 38
 o martelo                                   - il martello                                                       
 o serrote                                   - la sega a mano                                                          
