@@ -1432,7 +1432,7 @@ o apontador de lápis                        - il tempera matite
 a borracha                                  - la gomma                                                          
 a caneta                                    - la penna 
 
-a tesoura                                    - le forbici 
+a tesoura                                    - la forbice 
 
 a equipe                                    - la squadra                                                        
 o lápis                                     - la matita                                                         
@@ -1602,7 +1602,7 @@ o giz                                       - il gesso
 o desenho                                   - il disegno
 folhas                                      - i fogli
 o caderno                                   - il quaderno
-a tesoura                                    - le forbici 
+a tesoura                                    - la forbice 
 o banco                                     - il banco
 o apontador de lápis                        - il tempera matite
 a borracha                                  - la gomma
@@ -1630,8 +1630,8 @@ as tachinhas                                - le puntine
 o porta-canetas                             - il portapenne
 pasta de argolas                            - il raccoglitore
 a tela                                      - lo schermo
-o impressora                                - la stampante
-o mesa de escritório                        - la scrivania
+ impressora                                - la stampante
+ mesa de escritório                        - la scrivania
 as gavetas                                  - i cassetti
 mouse                                       - il mouse
 o teclado                                   - la tastiera
