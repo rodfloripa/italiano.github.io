@@ -302,7 +302,7 @@ a jaqueta acolchoada                         - il giubbone
 o suéter                                     - il maglione                                                       
 a touca                                      - la cuffia                                                         
 a jaqueta de inverno                         - il giubbotto                                                      
-o cachecol                                   - l'sciarpa                                                         
+o cachecol                                   - la sciarpa                                                         
 o sobretudo                                  - il cappotto                                                       
 a lapela                                     - il bavero                                                         
 o botão                                      - il bottone                                                        
