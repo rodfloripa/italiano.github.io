@@ -1430,7 +1430,10 @@ o caderno                                   - il quaderno
 o banco                                     - il banco                                                          
 o apontador de lápis                        - il tempera matite                                                 
 a borracha                                  - la gomma                                                          
-a caneta                                    - la penna                                                          
+a caneta                                    - la penna 
+
+a tesoura                                    - le forbici 
+
 a equipe                                    - la squadra                                                        
 o lápis                                     - la matita                                                         
 o livro                                     - il libro 
@@ -1599,6 +1602,7 @@ o giz                                       - il gesso
 o desenho                                   - il disegno
 folhas                                      - i fogli
 o caderno                                   - il quaderno
+a tesoura                                    - le forbici 
 o banco                                     - il banco
 o apontador de lápis                        - il tempera matite
 a borracha                                  - la gomma
