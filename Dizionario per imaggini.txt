@@ -1781,7 +1781,7 @@ a pista                                     - la corsia
 o jardim público                            - il giardino pubblico                                              
 a estação de trem                           - la stazione ferroviaria                                           
 a rodovia                                   - l'autostrada                                                      
-a rampa                                     - l'rampa                                                           
+a rampa                                     - la rampa                                                           
 o elevado                                   - la sopraelevata                                                   
 a linha central                             - la riga di mezzeria                                               
 a via rápida                                - la corsia di sorpasso                                             
