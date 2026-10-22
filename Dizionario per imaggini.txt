@@ -2482,35 +2482,33 @@ Lisboa                                      - Lisbona
 
 Grupo 69
 a galáxia                                   - la galassia                                                       
-o conjunto de cometas                       - la stella cometa                                                  
+o cometa.                                - la stella cometa                                                  
 o planeta                                   - il pianeta                                                        
 a lua		                                     - la luna                                                           
 a terra                                     - la terra                                                          
 o meteorito                                 - il meteorite                                                      
 o sol                                       - il sole                                                           
 Grupo 70
-chuvas                                      - piove                                                             
+chove                                      - piove                                                             
 neve                                        - nevica                                                            
-há vento                                    - c'è vento                                                         
+há vento                                    - c'è vento/tira vento                                                         
 está chovendo                               - grandina                                                          
 está ensolarado                             - c'è il sole                                                       
 há neblina                                  - c'è nebbia                                                        
 o termômetro                                - il termometro                                                     
 em graus                                    - a gradi                                                           
-abaixo de zero                              - sotto zero                                                        
-menos dez                                   - meno dieci                                                        
-mais vinte                                  - piu venti                                                         
+abaixo de zero                              - sotto zero                                                                                                                
 está muito quente (está abafado)            - fa molto caldo(è affoso)                                          
-está quente (está seco                      - fa caldo(è asciuto                                                
+está quente (está seco)                      - fa caldo(è asciuto)                                                
 agradavel                                   - fa fresco                                                         
 está frio                                   - fa freddo                                                         
 está muito frio                             - fa molto freddo                                                   
 está congelado                              - è ghiacciato                                                      
 a tempestade                                - il temporale                                                      
 o trovão                                    - il tuono                                                          
-o flash                                     - il lampo                                                          
+o lampejo                                     - il lampo                                                          
 tempo limpo                                 - è sereno                                                          
-variável                                    - è variabile                                                       
+tempo instável                              - è variabile                                                       
 está nublado                                - è nuvoloso                                                        
 Grupo 71
 o deserto                                   - il deserto                                                        
