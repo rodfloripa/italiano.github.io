@@ -2512,16 +2512,16 @@ tempo instável                              - è variabile
 está nublado                                - è nuvoloso                                                        
 Grupo 71
 o deserto                                   - il deserto                                                        
-a duna                                      - le dune                                                           
+as dunas                                      - le dune                                                           
 o oásis                                     - l'oasi                                                            
 a colina                                    - la collina                                                        
 o vale                                      - il vale                                                           
 a planície                                  - la pianura                                                        
-a floresta                                  - il bosco                                                          
+a floresta                                  - il bosco/la foresta                                                          
 o lago                                      - il lago                                                           
 a montanha                                  - la montagna                                                       
 o cume                                      - la vetta                                                          
-a geleira                                   - il ghiacciaio                                                     
+o pico nevado                                   - il ghiacciaio                                                     
 o rio                                       - il fiume                                                          
 a cachoeira                                 - la cascata                                                        
 as rochas                                   - le rocce                                                          
@@ -2529,8 +2529,7 @@ o riacho                                    - il ruscello
 o pântano                                   - la palude                                                         
 a savana  	                                - la savana                                                         
 a estepe                                    - la steppa                                                         
-a floresta                                  - la foresta                                                        
-a ravina                                    - il burrone                                                        
+o precipício                                    - il burrone                                                        
 Grupo 72
 a praia                                     - la spiaggia                                                       
 a areia                                     - la sabbia                                                         
