@@ -1928,7 +1928,7 @@ o capacete                                  - il casco
 o cavalete                                  - il cavalletto                                                     
 o guarda-lamas                              - il parafango                                                      
 o cadeado                                   - il lucchetto                                                      
-a sela                                      - la sella                                                          
+o selim                                      - la sella                                                          
 o freio                                     - il freno                                                          
 a corrente                                  - la catena                                                         
 o pedal                                     - il pedal                                                          
