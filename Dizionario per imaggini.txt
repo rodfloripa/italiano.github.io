@@ -2534,9 +2534,10 @@ Grupo 72
 a praia                                     - la spiaggia                                                       
 a areia                                     - la sabbia                                                         
 a onda                                      - l'onda                                                            
-a rocha                                     - lo scoglio                                                        
+a rocha(na água)                                    - lo scoglio      
+o recife                                    - la scogliera
 o colete salva-vidas                        - il salvagente                                                     
-o colchão inflável                                  - il materassino                                                    
+o colchão inflável                          - il materassino                                                    
 o guarda-sol                              - l'ombrellone                                                      
 a cadeira de praia                          - la sedia a sdraio                                                 
 o biquíni                                   - il bikini                                                         
