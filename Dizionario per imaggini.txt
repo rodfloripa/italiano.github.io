@@ -2536,8 +2536,8 @@ a areia                                     - la sabbia
 a onda                                      - l'onda                                                            
 a rocha                                     - lo scoglio                                                        
 o colete salva-vidas                        - il salvagente                                                     
-o colchão                                   - il materassino                                                    
-o guarda-chuva                              - l'ombrellone                                                      
+o colchão inflável                                  - il materassino                                                    
+o guarda-sol                              - l'ombrellone                                                      
 a cadeira de praia                          - la sedia a sdraio                                                 
 o biquíni                                   - il bikini                                                         
 a toalha                                    - il salviettone                                                    
@@ -2545,14 +2545,14 @@ protetor solar                              - la crema solare
 óculos de sol                               - gli occhiali da sole                                              
 a máscara                                   - la maschera                                                       
 o bocal                                     - il boccaglio                                                      
-as barbatanas                               - le pinne                                                          
+o pé de pato                               - le pinne                                                          
 o cais                                      - il molo                                                           
 o porto                                     - il porto                                                          
 o farol                                     - il faro                                                           
 o turista                                   - il turista                                                        
 o salva-vidas                               - il bagnino                                                        
 o traje                                     - il costume                                                        
-o pedal                                     - il pedal                                                          
+o pedalinho                                     - il pedale                                                          
 a cabine                                    - la cabina                                                         
 
 Revisione 11 - Italia, universo, clima, terra, rilievo e spiaggia
@@ -2586,7 +2586,7 @@ o rio                                       - il fiume
 a cachoeira                                 - la cascata
 a praia                                     - la spiaggia
 a areia                                     - la areia
-o guarda-chuva                              - l'ombrellone
+o guarda-sol                              - l'ombrellone
 a cadeira de praia                          - la sedia a sdraio
 a toalha                                    - il salviettone
 protetor solar                              - la crema solare
