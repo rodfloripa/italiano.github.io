@@ -2565,7 +2565,6 @@ há vento                                    - c'è vento
 está chovendo                               - grandina
 está ensolarado                             - c'è il sole
 há neblina                                  - c'è nebbia
-o termômetro                                - il termometro
 está frio                                   - fa freddo
 está congelado                              - è ghiacciato
 o trovão                                    - il tuono
@@ -2586,7 +2585,9 @@ a toalha                                    - il salviettone
 protetor solar                              - la crema solare
 óculos de sol                               - gli occhiali da sole
 o salva-vidas                               - il bagnino
-o recife                                    - la scogliera 
+o recife                                    - la scogliera
+o cais                                      - il molo
+pe de pato                                  - la pinna
 
 Grupo 73
 a panturrilha                                                                - il polpaccio
