@@ -2557,13 +2557,10 @@ o pedalinho                                     - il pedale
 a cabine                                    - la cabina                                                         
 
 Revisione 11 - Italia, universo, clima, terra, rilievo e spiaggia
-o conjunto de cometas                       - la stella cometa
-a lua                                       - la lua
-a terra                                     - la terra
+o cometa                       - la stella cometa
 o meteorito                                 - il meteorite
-o sol                                       - il sole
-chuvas                                      - piove
-neve                                        - nevica
+chove                                      - piove
+neva                                        - nevica
 há vento                                    - c'è vento
 está chovendo                               - grandina
 está ensolarado                             - c'è il sole
@@ -2572,27 +2569,24 @@ o termômetro                                - il termometro
 está frio                                   - fa freddo
 está congelado                              - è ghiacciato
 o trovão                                    - il tuono
-o deserto                                   - il deserto
-a duna                                      - le dune
 o oásis                                     - l'oasi
 a colina                                    - la collina
 o vale                                      - il vale
 a planície                                  - la pianura
 a floresta                                  - il bosco
-o lago                                      - il lago
-a montanha                                  - la montagna
 o cume                                      - la vetta
 a geleira                                   - il ghiacciaio
 o rio                                       - il fiume
 a cachoeira                                 - la cascata
 a praia                                     - la spiaggia
-a areia                                     - la areia
+a areia                                     - la sabbia 
 o guarda-sol                              - l'ombrellone
 a cadeira de praia                          - la sedia a sdraio
 a toalha                                    - il salviettone
 protetor solar                              - la crema solare
 óculos de sol                               - gli occhiali da sole
 o salva-vidas                               - il bagnino
+o recife                                    - la scogliera 
 
 Grupo 73
 a panturrilha                                                                - il polpaccio
