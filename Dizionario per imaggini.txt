@@ -223,7 +223,10 @@ o coração                                    - il cuore
 o fígado                                     - il fegato                                                         
 o estômago                                   - lo stomaco                                                        
 o intestino                                  - l'intestino                                                       
-o rim                                        - il rene                                                           
+o rim                                        - il rene                              
+
+a bexiga                                        - la vescia
+
 o músculo                                    - il muscolo                                                        
 o sistema genital                            - l'apparato genitale                                               
 Grupo 13
