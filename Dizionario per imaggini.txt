@@ -169,7 +169,10 @@ a boca                                       - la bocca
 o queixo                                     - il mento                                                          
 o pescoço                                    - il collo                                                          
 o ombro                                      - la spalla                                                         
-o braço                                      - il braccio                                                        
+o braço                                      - il braccio
+
+o antebraço                                  - l'avambraccio
+
 o cotovelo                                   - il gomito                                                         
 as costas                                    - la schiena                                                        
 o peito                                      - il petto                                                          
