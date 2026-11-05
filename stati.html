@@ -359,7 +359,7 @@ function exibirMensagem() {
 }
 
 window.onload = function() {
-      fetch('Reggenza.txt')
+      fetch('stati.txt')
         .then(response => response.text())
         .then(text => {
           let file = new File([text], 'arq.txt', {
