@@ -157,7 +157,7 @@ function showGroups() {
     groupList.appendChild(option);
   });
   document.getElementById("group-list").onchange = showFlashcards;
-  groupList.value = Object.keys(flashcards)[1];
+  groupList.value = Object.keys(flashcards)[0];
   showFlashcards();
 }
 
