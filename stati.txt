@@ -1,0 +1,29 @@
+Stati del Brasile
+Grupo1
+Acre - nello Acre
+Alagoas - nelle Alagoas
+Amapá - nel Amapá
+Amazonas - negli Amazonas
+Bahia - in Bahia
+Ceará - nel Ceará
+Distrito Federal - nel Distretto Federale
+Espírito Santo - nello Espírito Santo
+Goiás - nel Goiás
+Maranhão - nel Maranhão
+Mato Grosso - nel Mato Grosso
+Mato Grosso do Sul - nel Mato Grosso do Sul
+Minas Gerais - nelle Minas Gerais
+Pará - nel Pará
+Paraíba - in Paraíba
+Paraná - nel Paraná
+Pernambuco - nel Pernambuco
+Piauí - nel Piauí
+Rio de Janeiro - nel Rio de Janeiro
+Rio Grande do Norte - nel Rio Grande do Norte
+Rio Grande do Sul - nel Rio Grande do Sul
+Rondônia - in Rondônia
+Roraima - in Roraima
+Santa Catarina - in Santa Catarina
+São Paulo - in São Paulo
+Sergipe - nel Sergipe
+Tocantins - nel Tocantins
