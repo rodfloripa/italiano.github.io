@@ -686,7 +686,8 @@ a escada                                     - la scala
 a lanterna                                   - la torcia
 a estante                                    - lo scaffale
 os panos de chão                             - gli stracci                                                       
-o vassourão                                  - lo spazzolone                                                     
+o rodo    
+   - lo spazzolone/tergipavimento                                                     
 a vassoura                                   - la scopa                                                          
 a pá                                         - la paletta                                                        
 o ferro de passar                            - il ferro da stiro                                                 
