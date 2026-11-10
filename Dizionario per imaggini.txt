@@ -2766,4 +2766,95 @@ o pinheiro                                                                  - il
 as raízes                                                                   - le radici                                                         
 o tronco                                                                    - il tronco                                                         
 a casca                                                                     - la corteccia                                                      
-o ramo                                                                      - il ramo       
+o ramo                                                                      - il ramo  
+
+Grupo 74
+o inseto                                                                    - l'insetto
+a abelha                                                                    - l'ape
+a abelha rainha                                                             - l'ape regina
+a vespa                                                                     - la vespa
+o mosquito / o pernilongo                                                   - la zanzara
+a mosca                                                                     - la mosca
+a mosca varejeira                                                           - il moscone
+a borboleta                                                                 - la farfalla
+a mariposa                                                                  - la falena
+a formiga                                                                   - la formica
+o besouro                                                                   - lo scarabeo
+a joaninha                                                                  - la coccinella
+a barata                                                                    - lo scarafaggio
+o grilo                                                                     - il grillo
+o gafanhoto                                                                 - la cavalletta
+a lagarta                                                                   - il bruco
+a lagarta / a minhoca                                                       - il verme
+a minhoca                                                                   - il lombrico
+a centopeia                                                                 - il millepiedi
+a pulga                                                                     - la pulce
+o piolho                                                                    - il pidocchio
+o percevejo                                                                 - la cimice
+o carrapato                                                                 - la zecca
+o cupim                                                                     - il termite
+a traça                                                                     - la tarma
+a libélula                                                                  - la libellula
+o vaga-lume                                                                 - la lucciola
+o louva-a-deus                                                              - la mantide
+o aranha                                                                    - il ragno
+a teia de aranha                                                            - la ragnatela
+o ferrão                                                                    - il pungiglione
+a picada                                                                    - la puntura
+a antena                                                                    - l'antenna
+a asa                                                                       - l'ala
+o casulo                                                                    - il bozzolo
+
+Grupo 75
+a indústria                                                                 - l'industria
+a fábrica                                                                   - la fabbrica
+a empresa                                                                   - l'azienda
+a produção                                                                  - la produzione
+o produto                                                                   - il prodotto
+a matéria-prima                                                             - la materia prima
+a cadeia produtiva                                                          - la filiera produttiva
+a automação                                                                 - l'automazione
+a linha de montagem                                                         - la catena di montaggio
+o setor industrial                                                          - il settore industriale
+a indústria automobilística                                                 - l'industria automobilistica
+a indústria têxtil                                                          - l'industria tessile
+a indústria alimentícia                                                     - l'industria alimentare
+a indústria farmacêutica                                                    - l'industria farmaceutica
+a indústria pesada                                                          - l'industria pesante
+a siderurgia                                                                - la siderurgia
+o operário                                                                  - l'operaio
+o engenheiro                                                                - l'ingegnere
+o técnico                                                                   - il tecnico
+o chefe                                                                     - il capo
+o turno                                                                     - il turno
+o armazém                                                                   - il magazzino
+a máquina                                                                   - la macchina
+a ferramenta                                                                - l'attrezzo
+produzir                                                                    - produrre
+fabricar                                                                    - fabbricare
+montar                                                                      - montare
+controlar a qualidade                                                       - controllare la qualità
+exportar                                                                    - esportare
+importar                                                                    - importare
+contratar                                                                   - assumere
+demitir                                                                     - licenziare
+o estoque                                                                   - la scorta
+a demanda                                                                   - la domanda
+a oferta                                                                    - l'offerta
+o lucro                                                                     - il profitto
+o prejuízo                                                                  - la perdita
+a concorrência                                                              - la concorrenza
+o fornecedor                                                                - il fornitore
+o cliente                                                                   - il cliente
+o contrato                                                                  - il contratto
+o acordo                                                                    - l'accordo
+a segurança do trabalho                                                     - la sicurezza sul lavoro
+o capacete                                                                  - il casco
+as luvas                                                                    - i guanti
+o uniforme                                                                  - la divisa
+a greve                                                                     - lo sciopero
+o sindicato                                                                 - il sindacato
+o salário                                                                   - lo stipendio
+as horas extras                                                             - gli straordinari
+a aposentadoria                                                             - la pensione
+o desemprego                                                                - la disoccupazione
