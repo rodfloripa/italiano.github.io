@@ -2858,3 +2858,74 @@ o salário                                                                   - l
 as horas extras                                                             - gli straordinari
 a aposentadoria                                                             - la pensione
 o desemprego                                                                - la disoccupazione
+
+Grupo 76
+a igreja                                                                    - la chiesa
+a catedral                                                                  - la cattedrale
+a capela                                                                    - la cappella
+o mosteiro                                                                  - il monastero
+o convento                                                                  - il convento
+a mesquita                                                                  - la moschea
+a sinagoga                                                                  - la sinagoga
+o templo                                                                    - il tempio
+o santuário                                                                 - il santuario
+o altar                                                                     - l'altare
+a sacristia                                                                 - la sacrestia
+o campanário                                                                - il campanile
+o sino                                                                      - la campana
+deus                                                                        - dio
+jesus                                                                       - gesù
+nossa senhora / a virgem maria                                              - la madonna / la vergine maria
+o santo / a santa                                                           - il santo / la santa
+o anjo                                                                      - l'angelo
+o padre / o sacerdote                                                       - il prete / il sacerdote
+o papa                                                                      - il papa
+o bispo                                                                     - il vescovo
+o cardeal                                                                   - il cardinale
+o frei                                                                      - il frate
+a freira                                                                    - la suora
+o monge                                                                     - il monaco
+o rabino                                                                    - il rabbino
+o imã                                                                       - l'imam
+o fiel                                                                      - il fedele
+o peregrino                                                                 - il pellegrino
+o ateu                                                                      - l'ateo
+a religião                                                                  - la religione
+a fé                                                                        - la fede
+a oração                                                                    - la preghiera
+o rosário / o terço                                                         - il rosario
+a bíblia                                                                    - la bibbia
+o evangelho                                                                 - il vangelo
+a missa                                                                     - la messa
+a confissão                                                                 - la confessione
+o batismo                                                                   - il battesimo
+a comunhão                                                                  - la comunione
+a crisma                                                                    - la cresima
+o casamento                                                                 - il matrimonio
+o pecado                                                                    - il peccato
+o paraíso                                                                   - il paradiso
+o inferno                                                                   - l'inferno
+o purgatório                                                                - il purgatorio
+a alma                                                                      - l'anima
+o milagre                                                                   - il miracolo
+a bênção                                                                    - la benedizione
+a cruz                                                                      - la croce
+o crucifixo                                                                 - il crocifisso
+a vela                                                                      - la candela
+o incenso                                                                   - l'incenso
+a água benta                                                                - l'acqua santa
+o natal                                                                     - il natale
+a páscoa                                                                    - la pasqua
+a epifania / dia de reis                                                    - l'epifania / la befana
+todos os santos                                                             - ognissanti
+a assunção                                                                  - l'assunzione
+o ramadã                                                                    - il ramadan
+o hanukkah                                                                  - la hanukkah
+rezar / orar                                                                - pregare
+acreditar                                                                   - credere
+abençoar                                                                    - benedire
+confessar-se                                                                - confessarsi
+batizar                                                                     - battezzare
+jejuar                                                                      - digiunare
+adorar                                                                      - adorare
+agradecer a deus                                                            - ringraziare dio
