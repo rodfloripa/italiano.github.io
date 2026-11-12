@@ -537,7 +537,11 @@ o gravador de vídeo                          - il videoregistratore
 o celular                                    - il mobile                                                         
 o aparelho de som                            - lo stereo                                                         
 o alto falante                               - l'altoparlante                                                    
-a biblioteca                                 - la biblioteca                                                     
+a biblioteca                                 - la biblioteca                        
+
+a estante
+  - lo scaffale 
+
 as cortinas                                  - le tende                                                          
 os travesseiros                              - i cuscini                                                         
 o sofá                                       - il divano                                                         
