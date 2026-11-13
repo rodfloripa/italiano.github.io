@@ -1,0 +1,58 @@
+Articoli
+Grupo
+em casa - a casa
+no banheiro - in bagno
+no cinema - al cinema
+na igreja - in chiesa
+na escola - a scuola
+na cozinha - in cucina
+no teatro - a teatro
+no quarto - in camera
+no bar - al bar
+na sala - in salotto
+na cama - a letto
+na garagem - in garage
+à mesa - a tavola
+no porão - in cantina
+na aula - a lezione
+no sótão - in soffitta
+no jantar - a cena
+no escritório - in ufficio
+no café da manhã - a colazione
+na academia - in palestra
+no restaurante - al ristorante
+na biblioteca - in biblioteca
+na praia - al mare
+na farmácia - in farmacia
+no parque - al parco
+no banco - in banca
+no mercado - al mercato
+na montanha - in montagna
+no trabalho - al lavoro
+no centro - in centro
+no museu - al museo
+na praça - in piazza
+no show - al concerto
+no jardim - in giardino
+no supermercado - al supermercato
+no campo - in campagna
+na loja - al negozio
+na cidade - in città
+no lago - al lago
+na cidadezinha - in paese
+na festa - alla festa
+na sala de aula - in aula
+na estação - alla stazione
+na turma - in classe
+no ponto - alla fermata
+na balada - in discoteca
+na praia - alla spiaggia
+na piscina - in piscina
+na faculdade - all'università
+no hotel - in albergo
+no hospital - all'ospedale
+na pizzaria - in pizzeria
+no aeroporto - all'aeroporto
+na sorveteria - in gelateria
+no estádio - allo stadio
+na padaria - in panetteria
