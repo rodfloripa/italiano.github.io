@@ -6,10 +6,14 @@
   <meta name="description" content="Articoli">
   <meta name="keywords" content="italiano">
   <style>
+    body {
+      background-color: #000;
+      color: #fff;
+    }
     #progress-bar {
       width: 200px;
       height: 20px;
-      background-color: #ccc;
+      background-color: #333;
       border-radius: 10px;
     }
     #progress-bar-fill {
@@ -20,33 +24,47 @@
     #file-input-label {
       font-size: 18px;
       padding: 10px 20px;
-      border: 1px solid #ccc;
+      border: 1px solid #555;
       border-radius: 5px;
       cursor: pointer;
+      background-color: #222;
+      color: #fff;
+      display: inline-block;
     }
     #group-list {
       font-size: 18px;
       padding: 10px 20px;
+      background-color: #222;
+      color: #fff;
+      border: 1px solid #555;
+      border-radius: 5px;
     }
-    #prev-card, #next-card, #lista-button, #limpar-button {
+    #prev-card, #next-card, #lista-button, #limpar-button, #help-button {
       font-size: 24px;
       padding: 15px 30px;
       width: 200px;
+      background-color: #222;
+      color: #fff;
+      border: 1px solid #555;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+    #help-button {
+      width: 50px !important;
+      height: 30px !important;
+      padding: 0 !important;
     }
     @media only screen and (max-width: 768px) {
       #card-content {
         text-align: center;
       }
       #card {
-    width: 180%;
-    position: relative;
-    left: 50%;
-    transform: translateX(-50%);
-    text-align: center;
-    }
-
-
-      
+        width: 180%;
+        position: relative;
+        left: 50%;
+        transform: translateX(-50%);
+        text-align: center;
+      }
       #prev-card, #next-card, #lista-button, #limpar-button {
         font-size: 18px;
         padding: 5px 10px;
@@ -60,7 +78,6 @@
         font-size: 16px;
         padding: 8px 16px;
       }
-     
       #progress-bar {
         width: 150px;
         height: 15px;
@@ -73,7 +90,7 @@
 </head>
 <body>
   <h1>Vocabolario</h1>
-  <button id="help-button" style="width: 50px; height: 30px;" onclick="exibirMensagem()">?</button>
+  <button id="help-button" onclick="exibirMensagem()">?</button>
   <label for="file-input" id="file-input-label">Caricare</label>
   <input type="file" id="file-input" style="display: none;" accept=".txt">
   <div id="progress-bar">
@@ -96,13 +113,8 @@
     </div>
     <div id="card-content"></div>
   </div>
- 
 </body>
-
-
-  
 <script>
-                                 
 let flashcards = {};
 let currentGroup = null;
 let currentCardIndex = 0;
@@ -174,9 +186,9 @@ function showCard() {
   document.getElementById("progress-bar-fill").style.width = `${progresso}%`;
   document.getElementById("progress-text").innerText = `${progresso.toFixed(2)}%`;
   document.getElementById("card-content").innerHTML = `
-    <div style="background-color: yellow; padding: 5px; text-align: center; font-size: 42px; line-height: 1; width: 40%; margin: 0 auto;">
+    <div style="background-color: #111; color: #fff; border: 1px solid #444; padding: 5px; text-align: center; font-size: 42px; line-height: 1; width: 40%; margin: 0 auto; border-radius: 10px;">
       <p>${card.pergunta}</p>
-      <button onclick="showAnswer()" style="font-size: 36px;">Risposta</button>
+      <button onclick="showAnswer()" style="font-size: 36px; background-color: #222; color: #fff; border: 1px solid #555; border-radius: 5px;">Risposta</button>
       <div id="answer" style="max-height: 0; overflow: hidden; transition: max-height 0.5s ease-out; font-size: 32px;">${card.resposta}</div>
     </div>
   `;
@@ -211,7 +223,6 @@ function nextCard() {
   showCard();
 }
 
-
 function prevCard0() {
   document.getElementById("sbagliato-checkbox").checked = false;
   currentCardIndex--;
@@ -234,9 +245,9 @@ function showListaCard() {
   if (lista.length > 0) {
     let card = lista[listaIndex];
     document.getElementById("card-content").innerHTML = `
-      <div style="background-color: yellow; padding: 10px; text-align: center; font-size: 42px; line-height: 1; width: 40%; margin: 0 auto;">
+      <div style="background-color: #111; color: #fff; border: 1px solid #444; padding: 10px; text-align: center; font-size: 42px; line-height: 1; width: 40%; margin: 0 auto; border-radius: 10px;">
         <p>${card.pergunta}</p>
-        <button onclick="showAnswerLista()" style="font-size: 36px;">Risposta</button>
+        <button onclick="showAnswerLista()" style="font-size: 36px; background-color: #222; color: #fff; border: 1px solid #555; border-radius: 5px;">Risposta</button>
         <div id="answer-lista" style="max-height: 0; overflow: hidden; transition: max-height 0.5s ease-out; font-size: 32px;">${card.resposta}</div>
       </div>
     `;
@@ -320,11 +331,9 @@ document.getElementById("lista-button").onclick = function() {
     } catch (e) {
       console.log("Erro ao parsear lista:", e);
       lista = [];
-      
     }
   } else {
     lista = [];
-    
   }
 }
 
@@ -351,25 +360,25 @@ function showAnswerLista() {
     answer.style.maxHeight = "500px";
     answer.style.transition = "max-height 0.5s ease-in";
   } else {
-    answer.style.max
-    }}
+    answer.style.maxHeight = "0px";
+    answer.style.transition = "max-height 0.5s ease-out";
+  }
+}
 
 function exibirMensagem() {
   alert("Para criar sua própria lista de vocabulário, crie um arquivo .txt assim:\nTítulo do vocabulário\nLezione\nGrupo 1\nPalavra port - Palavra it\n.\n.\n.");
 }
 
 window.onload = function() {
-      fetch('articoli.txt')
-        .then(response => response.text())
-        .then(text => {
-          let file = new File([text], 'arq.txt', {
-            type: 'text/plain'
-          });
-          loadFlashcards(file);
-        })
-        .catch(error => console.error('Erro ao carregar arquivo:', error));
-    }
-     
-  </script>
-</body>
-  </html>
+  fetch('articoli.txt')
+    .then(response => response.text())
+    .then(text => {
+      let file = new File([text], 'arq.txt', {
+        type: 'text/plain'
+      });
+      loadFlashcards(file);
+    })
+    .catch(error => console.error('Erro ao carregar arquivo:', error));
+}
+</script>
+</html>
