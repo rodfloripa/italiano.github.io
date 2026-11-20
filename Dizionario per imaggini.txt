@@ -1377,9 +1377,9 @@ o hematoma                                  - il livido
 a queimadura                                - la bruciatura                                                     
 a fratura                                   - la frattura                                                       
 problemas de visão                          - i problemi della vista
-o sarampo                                   - il morbillo
-a caxumba                                   - la parotite
-a rubéola                                   - la rosolia
+o sarampo                                   - il morbillo(tonica in 'bil')
+a caxumba                                   - la parotite(tonica in 'ti')
+a rubéola                                   - la rosolia(tonica in 'li')
 a dengue                                    - la dengue
 Grupo 44
 ficar doente                                - ammalarsi                                                         
