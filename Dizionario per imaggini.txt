@@ -1154,7 +1154,58 @@ o pedreiro                                  - il muratore
 o engenheiro                                - l'ingegnere                                                       
 o jornalista                                - il giornalista                                                    
 o goleiro                                   - il portiere                                                       
-o escritor                                  - lo scrittore                                                      
+o escritor                                  - lo scrittore 
+
+o clínico geral                              - il medico generico
+
+o cardiologista                              - il cardiologo
+
+o dermatologista                             - il dermatologo
+
+o neurologista                               - il neurologo
+
+o psiquiatra                                 - lo psichiatra
+
+o psicólogo                                  - lo psicologo
+
+o ortopedista                                - l'ortopedico
+
+o oftalmologista                             - l'oftalmologo
+
+o otorrinolaringologista                     - l'otorinolaringoiatra
+
+o ginecologista                              - il ginecologo
+
+o urologista                                 - l'urologo
+
+o pediatra                                   - il pediatra
+
+o endocrinologista                           - l'endocrinologo
+
+o gastroenterologista                        - il gastroenterologo
+
+o pneumologista                              - lo pneumologo
+
+o oncologista                                - l'oncologo
+
+o radiologista                               - il radiologo
+
+o anestesista                                - l'anestesista
+
+o cirurgião                                  - il chirurgo
+
+o dentista                                   - il dentista
+
+o fisioterapeuta                             - il fisioterapista
+
+o nutricionista                              - il nutrizionista
+
+o alergista                                  - l'allergologo
+
+o reumatologista                             - il reumatologo
+
+o hematologista                              - l'ematologo
+
 Grupo 35
 a discoteca                                 - la discoteca                                                      
 o teatro                                    - il teatro                                                         
